@@ -1,0 +1,1176 @@
+"keys","en","fr","zh","ja","ko","zh_TW","ru","pl","es","pt","de","tr","it"
+"loc_keys","english","french","schinese","japanese","korean","tchinese","russian","polish","spanish","brazilian","german","turkish","italian"
+"CHAL_CHARACTER_DESC","Win a run with {0}","Gagnez une partie avec {0}","使用{0}赢一场比赛","{0} で1回クリアする","{0}와 함께 달리기에서 승리합니다","使用{0}贏一場比賽","Победите за персонажа по имени {0}.","Wygraj rozgrywkę z: {0}","Gana una partida con {0}","Vença uma partida com {0}.","Gewinne eine Runde mit {0}","{0} ile bir koşu tamamla","Vinci una partita col personaggio {0}."
+"CHAL_CHARACTER_IN_ZONE_DESC","Win a run with {0} in {1}","Gagnez une partie avec {0} dans {1}","使用{0}在{1}赢一场比赛","{1} を {0} で1回クリアする","{1}에서 {0}와 함께 달리기에서 승리합니다","使用{0}在{1}贏一場比賽","Победите за персонажа по имени {0} в области «{1}».","Wygraj rozgrywkę z: {0} w {1}","Gana una partida con {0} en {1}","Vença uma partida com {0} em {1}.","Gewinne eine Runde mit {0} in {1}","{1} bölgesinde {0} ile bir koşu tamamla","Vinci una partita col personaggio {0} in {1}."
+"CHAL_STAT_DESC","Reach {0} {1}","Atteignez {0} {1}","达到{0}{1}","{0} {1} に達する","{0} {1}에 도달합니다","抵達{0}{1}","Повысьте параметр «{1}» до {0}.","Osiągnij: {0} {1}","Alcanza el {0} de {1}","Alcance {0} de {1}.","Erreiche {0} {1}","{1} özelliğini {0} seviyesine getir","Arriva a {0} {1}."
+"PICKUP_RANGE","% Pickup Range","% Portée d’attraction","%拾取范围","ピックアップ範囲%","% 획득 범위","%撿拾範圍","% дальности сбора","% zasięgu podnoszenia","% de alcance de recogida","% de alcance de coleta","% Sammelreichweite","% Toplama Menzili","% di raggio di raccolta"
+"STAT_CURSE","Curse","Malédiction","诅咒","呪い","저주","詛咒","Проклятие","Klątwa","Maldición","Maldição","Fluch","Lanet","Maledizione"
+"INFO_POS_STAT_CURSE","Enemies have a {0} chance of being cursed. Enemies become stronger and drop more materials when cursed. Items and weapons you find also have a {1} chance of being cursed, making them more powerful.","Les ennemis ont {0} de chances d'être maudits. Les ennemis deviennent plus forts et lâchent plus de matériaux lorsqu'ils sont maudits. Les objets et les armes que vous trouvez ont également {1} de chances d'être maudits, ce qui les rend plus puissants.","敌人有{0}的几率被诅咒。被诅咒的敌人会变得更强，并掉落更多材料。你找到的道具和武器也有{1}的几率被诅咒，从而使它们更加强大。","敵は {0} の確率で呪い状態になる／敵は呪い状態になると強くなるが、マテリアルのドロップ量も増加する／アイテムや武器は {1} の確率で呪い状態になり、威力や効果が強化される","적이 {0} 확률로 저주에 걸립니다. 적이 저주에 걸리면 더 강해지며 더 많은 재료를 떨어뜨립니다. 발견한 아이템과 무기 또한 {1} 확률로 저주에 걸리며, 더 강력해집니다.","敵人有{0}的機會被詛咒。敵人被詛咒時會變得更強大並且掉落更多素材。你發現的道具和武器也有{1}的機會被詛咒，使得威力變得更強大。","Вы можете проклясть врага с вероятностью {0}. Проклятые враги сильнее обычных, зато из них выпадает больше материалов. Выпадающие предметы и оружие также могут быть прокляты с вероятностью {1}. Такие предметы и оружие сильнее обычных.","Szansa przeciwników na zostanie przeklętymi: {0}. Przeklęci wrogowie stają się silniejsi i upuszczają więcej materiałów. Szansa na to, aby znalezione przedmioty i bronie również były przeklęte: {1}. Czyni je to potężniejszymi.","Los enemigos tienen un {0} de probabilidad de sufrir una maldición. Teniendo una maldición, los enemigos se vuelven más fuertes y dan más materiales al derrotarlos. Los objetos y las armas que encuentres también tienen un {1} de probabilidad de sufrirla, por lo que también se vuelven más fuertes.","Inimigos têm {0} de chance de serem amaldiçoados, tornando-se mais fortes e deixando mais materiais. Armas e itens encontrados têm {1} de chance de serem amaldiçoados, tornando-se mais poderosos.","Gegner können zu {0} verflucht werden. Verfluchte Gegner sind stärker und lassen mehr Materialien fallen. Gegenstände und Waffen können ebenfalls zu {1} verflucht werden und somit mächtiger sein.","Düşmanlar {0} ihtimalle lanetlidir. Düşmanlar lanetliyken güçlenir ve daha fazla malzeme düşürür. Bulduğun eşyalar ve silahlar da {1} ihtimalle lanetli olabilir, onlar da daha güçlü olurlar.","{0} di probabilità che i nemici vengano maledetti, diventando più forti e generando più materiali. {1} di probabilità che gli oggetti e le armi che trovi siano maledetti, diventando più potenti."
+"INFO_NEG_STAT_CURSE","Enemies have a 0% chance of being cursed. Enemies become stronger and drop more materials when cursed. Items and weapons you find also have a 0% chance of being cursed, making them more powerful.","Les ennemis ont 0% de chances d'être maudits. Les ennemis deviennent plus forts et lâchent plus de matériaux lorsqu'ils sont maudits. Les objets et les armes que vous trouvez ont également 0% de chances d'être maudits, ce qui les rend plus puissants.","敌人有0%的几率被诅咒。被诅咒的敌人会变得更强，并掉落更多材料。你找到的道具和武器也有0%的几率被诅咒，从而使它们更加强大。","敵は 0% の確率で呪い状態になる／敵は呪い状態になると強くなるが、マテリアルのドロップ量も増加する／アイテムや武器は {1} の確率で呪い状態になり、威力や効果が強化される","적이 0% 확률로 저주에 걸립니다. 적이 저주에 걸리면 더 강해지며 더 많은 재료를 떨어뜨립니다. 발견한 아이템과 무기 또한 0% 확률로 저주에 걸리며, 더 강력해집니다.","敵人有0%的機會被詛咒。敵人被詛咒時會變得更強大並且掉落更多素材。你發現的道具和武器也有0%的機會被詛咒，使得威力變得更強大。","Вы можете проклясть врага с вероятностью 0%. Проклятые враги сильнее обычных, зато из них выпадает больше материалов. Выпадающие предметы и оружие также могут быть прокляты с вероятностью 0%. Такие предметы и оружие сильнее обычных.","Szansa przeciwników na zostanie przeklętymi: 0%. Przeklęci wrogowie stają się silniejsi i upuszczają więcej materiałów. Szansa na to, aby znalezione przedmioty i bronie również były przeklęte: 0%. Czyni je to potężniejszymi.","Los enemigos tienen un 0 % de probabilidad de sufrir una maldición. Teniendo una maldición, los enemigos se vuelven más fuertes y dan más materiales al derrotarlos. Los objetos y las armas que encuentres también tienen un 0 % de probabilidad de sufrirla, por lo que también se vuelven más fuertes.","Inimigos têm 0% de chance de serem amaldiçoados, tornando-se mais fortes e deixando mais materiais. Armas e itens encontrados têm 0% de chance de serem amaldiçoados, tornando-se mais poderosos.","Gegner können zu 0% verflucht werden. Verfluchte Gegner sind stärker und lassen mehr Materialien fallen. Gegenstände und Waffen können ebenfalls zu 0% verflucht werden und somit mächtiger sein.","Düşmanlar %0 ihtimalle lanetlidir. Düşmanlar lanetliyken güçlenir ve daha fazla malzeme düşürür. Bulduğun eşyalar ve silahlar da %0 ihtimalle lanetli olabilir, onlar da daha güçlü olurlar.","0% di probabilità che i nemici vengano maledetti, diventando più forti e generando più materiali. 0% di probabilità che gli oggetti e le armi che trovi siano maledetti, diventando più potenti."
+"REROLL_PRICE","% Reroll Price","% Prix de Randomisation","%刷新价格","リロール価格(%)","% 초기화 가격","%重骰價格","% цены замены","koszt przerzucenia %","% de precio de repeticiones","% do preço de renovação","% ""Neu würfeln""-Preis","% Yenileme Fiyatı","% prezzo cambi"
+"STEPS_TAKEN","Steps taken: {0}","Pas : {0}","已走步数：{0}","歩数：{0}","걸음 수: {0}","需要走的步數：{0}","Шагов пройдено: {0}","Zrobione kroki: {0}","Pasos dados: {0}","Passos dados: {0}","Schrittzahl: {0}","Atılan adım: {0}","Passi compiuti: {0}"
+"MENU_STEAL","Steal","Voler","窃取","盗む","훔치기","竊取","Украсть","Ukradnij","Robar","Roubar","Klauen","Çal","Ruba"
+"CHAL_SMELLY_FEET","Smelly Feet","Pieds Puants","臭脚","臭い足","냄새나는 발","臭腳","Вонючие ножки","Śmierdzące stopy","Pies hediondos","Chulezinho","Käsefüße","Kokuşmuş Ayak","Piedi puzzolenti"
+"CHAL_SMELLY_FEET_DESC","Walk a total of {0} steps","Marchez un total de {0} pas","总计行走{0}步","累計 {0} 歩を歩く","총 {0}걸음 걷기","總共走{0}步","Пройдите {0} шагов","Zrób łącznie tyle kroków: {0}","Da un total de {0} pasos","Dê um total de {0} passos.","Geh insgesamt {0} Schritte","Toplamda {0} adım at","Compi un totale di {0} passi."
+"CHAL_HERBALIST","Herbalist","Herboriste","草药师","薬草採集者","약초상","草藥師","Травник","Zielarz","Herborista","Herbalista","Kräuterkundler","Bitkisever","Erborista"
+"CHAL_HERBALIST_DESC","Collect {0} consumables by the end of wave 20","Récupérez {0} consommables avant la fin de la vague 20","到第20波袭击结束时收集{0}个消耗品","20ウェーブまでに消費アイテムを {0} 個集める","웨이브 20이 끝날 때까지 소모품 {0}개 수집하기","第20波結束時前收集到{0}個消耗品","Соберите {0} расходников к концу 20-й волны","Zbierz tyle przedmiotów jednorazowych przed końcem 20 fali: {0}","Lleva recogidos {0} consumibles al terminar la oleada 20","Colete {0} consumíveis até o fim da onda 20.","Sammle {0} Verbrauchssgegenstände bis zum Ende von Welle 20","20. hücumun sonuna kadar {0} tüketilebilir eşya topla","Raccogli {0} materiali consumabili entro la fine dell'ondata 20."
+"CHAL_UNSTOPPABLE_FORCE","Unstoppable Force","Force Imparable","不可阻挡之力","止められない力","막을 수 없는 힘","難以阻擋的力量","Неудержимая сила","Niepowstrzymana siła","Fuerza imparable","Força implacável","Unaufhaltbare Macht","Durdurulamaz Güç","Forza inarrestabile"
+"CHAL_UNSTOPPABLE_FORCE_DESC","Hit at least {0} enemies with a single melee attack","Touchez au moins {0} ennemis avec une seule attaque de mêlée","使用近战攻击击中至少{0}个敌人","1度の近接攻撃で{0} 体以上の敵を攻撃する","한 번의 근거리 공격으로 최소 {0}만큼의 적을 타격하기","單次近距離攻擊至少命中{0}個敵人","Поразите не менее {0} врагов одной ближней атакой","Traf przynajmniej tylu przeciwników w ramach jednego ataku wręcz: {0}","Golpea al menos a {0} enemigos con un solo ataque cuerpo a cuerpo","Acerte {0} inimigos ou mais com um único ataque corpo a corpo.","Triff mindestens {0} Gegner mit einem einzigen Nahkampfangriff","Tek bir yakın saldırıyla en az {0} düşmana vur","Colpisci almeno {0} nemici con un solo attacco in mischia."
+"CHAL_BARBECUE","Barbecue","Barbecue","烧烤活动","バーベキュー","바비큐","烤肉","Барбекю","Grill","Barbacoa","Churrasco","Grillparty","Barbekü","Grigliata"
+"CHAL_BARBECUE_DESC","Have at least {0} enemies burning at the same time","Ayez au moins {0} ennemis qui brûlent en même temps","同时让至少{0}个敌人处于燃烧状态","{0} 体以上の敵を同時に炎上させる","최소 {0}만큼의 적이 동시에 화상을 입게 만들기","讓至少{0}個敵人在同一個時間燃燒","Подожгите не менее {0} врагов одновременно","Przynajmniej tylu przeciwników płonęło w tym samym czasie: {0}","Haz que al menos {0} enemigos sufran quemadura al mismo tiempo","Queime {0} inimigos ou mais ao mesmo tempo.","Lass mindestens {0} Gegner gleichzeitig brennen","Aynı anda en az {0} düşmanı ateşe ver","Infliggi bruciature ad almeno {0} nemici in contemporanea."
+"CHAL_UNLUCKY","Unlucky","Malchanceux","倒霉","不運","불운아","倒楣","Невезение","Niefart","Poca suerte","Que azar","Pechvogel","Şanssız","Sfortunello"
+"CHAL_UNLUCKY_DESC","Reroll {0} times in a single shop","Randomisez {0} fois dans la même boutique","在单个商店中刷新{0}次","一度の来店中に {0} 回リロールする","한 상점에서 {0}번 초기화하기","在單一間商店裡重骰{0}次","Замените товар {0} раз(а) за одно посещение магазина","Przerzuć tyle razy w jednym sklepie: {0}","Repite {0} veces las existencias de una misma tienda","Faça {0} renovações na mesma loja.","Nutze ""Neu würfeln"" {0} Mal im selben Laden","Dükkânda tek seferde {0} defa eşyaları yenile","Cambia {0} volte gli oggetti di un singolo negozio."
+"CHAL_OVERKILL","Overkill","Exagération","过度杀戮","オーバーキル","오버킬","過度殺戮","Смертоубийство","Przesada","Exterminio","Aniquilação","Overkill","Aşırı Güç","Esagerazione"
+"CHAL_OVERKILL_DESC","Deal {0} damage to an enemy in a single hit","Infligez {0} points de dégâts à un ennemi en un seul coup","单次攻击对敌人造成{0}伤害","敵1体に一撃で {0} ダメージ以上を与える","한 타격으로 한 적에게 {0}만큼의 대미지 가하기","一次攻擊就對敵人造成{0}傷害","Одним ударом нанесите {0} урона врагу","Zadaj tyle obrażeń przeciwnikowi jednym trafieniem: {0}","Causa {0} de daño a un enemigo con un solo golpe","Cause {0} de dano a um inimigo com um só golpe.","Füge einem Gegner mit einem Treffer {0} Schaden zu","Tek vuruşta bir düşmana {0} hasar ver","Infliggi {0} danni a un nemico con un solo colpo."
+"CHAL_UNCORRUPTED","Uncorrupted","Non Corrompu","未被腐蚀","清浄なる魂","깨끗함","寶刀未老","Не испорчен","Nieuszkodzone","Incólume","Incorruptível","Reine Weste","Saf","Irreprensibilità"
+"CHAL_UNCORRUPTED_DESC","Finish a run with {0} {1}","Finissez une partie avec {0} {1}","以{0}{1}完成一场比赛","{1}が{0}の状態でクリアする","{0} {1}(으)로 달리기 끝내기","以{0}{1}完成一場比賽","Завершите забег, когда у вас есть {0} {1}","Ukończ rozgrywkę z: {1} ({0})","Termina una partida con {0} de {1}","Conclua uma partida com {1} x{0}.","Beende eine Runde mit {0} {1}","{0} {1} ile bir koşu tamamla","Completa una partita con {0} {1}."
+"CHAL_CAUTIOUS","Cautious","Prudent","谨慎","警戒","신중함","謹慎","Осторожность","Ostrożność","Cautela","Respeite meu espaço pessoal","Sicherheitsabstand","Dikkatli","Cautela"
+"CHAL_CAUTIOUS_DESC","Kill {0} enemies that are more than {2} range away from you","Tuez {0} ennemis qui sont à plus de {2} de portée de vous","击杀距离你超过{2}范围的{0}个敌人","距離が {0} 以上離れた敵を {2} 体倒す","{2} 범위보다 더 멀리 떨어져 있는 적 {0}만큼 죽이기","殺死{0}個距離你超過{2}的敵人","Убейте {0} врагов с расстояния {2} и больше","Zabij tylu wrogów znajdujących się w odległości większej niż {2}: {0}","Elimina a {0} enemigos que estén a más de {2} de alcance de ti","Elimine {0} inimigos que estejam a mais de {2} de alcance de você.","Töte {0} Gegner, die mindestens {2} von dir entfernt sind","Senden {2} veya daha uzakta olan {0} düşman öldür","Uccidi {0} nemici che si trovano a una portata superiore a {2} da te."
+"CHAL_BLIND_GREED","Blind Greed","Avidité Aveugle","盲目贪婪","欲に目が眩む","눈 먼 탐욕","盲目的貪婪","Ненасытная жадность","Ślepa chciwość","Codicia ciega","Ganância cega","Blinde Gier","Doyumsuz","Cieca avidità"
+"ITEM_ASHES","Ashes","Cendres","灰烬","灰","잿더미","灰燼","Прах","Popioły","Cenizas","Cinzas","Asche","Küller","Ceneri"
+"ITEM_AXOLOTL","Axolotl","Axolotl","蝾螈","メキシコサンショウウオ","멕시코산 도롱뇽","美西螈","Аксолотль","Aksolotl","Ajolote","Axolote","Axolotl","Aksolotl","Axolotl"
+"ITEM_BABY_SQUID","Baby Squid","Bébé Calmar","鱿鱼宝宝","赤ちゃんイカ","아기 오징어","小魷魚","Кальмарик","Mała Kałamarnica","Calamarcito","Bebê Lula","Babykalmar","Bebek Kalamar","Calamaretto"
+"ITEM_BARNACLE","Barnacle","Bernacle","藤壶","フジツボ","따개비","藤壺","Рачок","Pąkla","Percebe","Craca","Rankenfüßer","Kekamoz","Balano"
+"ITEM_BLACK_FLAG","Black Flag","Drapeau Noir","黑旗","黒旗","흑색기","黑旗","Черный флаг","Czarna Flaga","Bandera negra","Bandeira Preta","Schwarze Fahne","Siyah Bayrak","Bandiera nera"
+"ITEM_CAULDRON","Cauldron","Chaudron","大锅","大釜","가마솥","大鍋","Котел","Kocioł","Caldero","Caldeirão","Kessel","Kazan","Calderone"
+"ITEM_CORAL","Coral","Corail","珊瑚","サンゴ","산호","珊瑚","Коралл","Koral","Coral","Coral","Koralle","Mercan","Corallo"
+"ITEM_CRYSTAL","Crystal","Cristal","水晶","クリスタル","수정","水晶","Кристалл","Kryształ","Cristal","Cristal","Kristall","Kristal","Cristallo"
+"ITEM_EYEPATCH","Eyepatch","Cache-Oeil","眼罩","眼帯","안대","眼罩","Повязка на глаз","Opaska na Oko","Parche","Tapa-olho","Augenklappe","Göz Bandı","Benda per occhio"
+"ITEM_FEATHER","Feather","Plume","羽毛","羽","깃털","羽毛","Перышко","Pióro","Pluma","Pena","Feder","Tüy","Piuma"
+"ITEM_FISH_HOOK","Fish Hook","Hameçon","鱼钩","釣り針","낚시 바늘","魚鉤","Крючок","Haczyk","Anzuelo","Anzol","Angelhaken","Balık Oltası","Amo"
+"ITEM_CORRUPTED_SHARD","Corrupted Shard","Éclat Corrompu","被腐蚀的碎片","不浄の断片","부패한 조각","腐化碎片","Оскверненный осколок","Spaczony Odłamek","Esquirla corrupta","Lasca Corrompida","Verderbnissplitter","Yozlaşmış Parça","Frammento corrotto"
+"ITEM_GOBLET","Goblet","Gobelet","高脚杯","ゴブレット","고블릿","高腳杯","Кубок","Czarka","Cáliz","Taça","Kelch","Kadeh","Calice"
+"ITEM_JERKY","Jerky","Viande Séchée","干肉条","ジャーキー","육포","肉乾","Солонина","Suszone Mięso","Cecina","Carne Seca","Dörrfleisch","Kuru Et","Carne essiccata"
+"ITEM_KNOT","Knot","Noeud","结","結び目","매듭","結","Узел","Węzeł","Nudo","Nó","Knoten","Düğüm","Nodo"
+"ITEM_KRAKENS_EYE","Kraken’s Eye","Oeil de Kraken","克拉肯的眼睛","クラーケンの目","크라켄의 눈","海怪之眼","Глаз Кракена","Oko Krakena","Ojo de kraken","Olho do Kraken","Krakenauge","Kraken Gözü","Occhio del Kraken"
+"ITEM_LANTERN","Lantern","Lanterne","灯笼","ランタン","랜턴","燈籠","Фонарь","Latarnia","Farol","Lamparina","Laterne","Fener","Lanterna"
+"ITEM_LIGHTHOUSE","Lighthouse","Phare","灯塔","灯台","등대","燈塔","Маяк","Latarnia Morska","Faro","Farol","Leuchtturm","Deniz Feneri","Faro"
+"ITEM_MIRROR","Mirror","Miroir","镜子","鏡","거울","鏡子","Зеркало","Lustro","Espejo","Espelho","Spiegel","Ayna","Specchio"
+"ITEM_BROKEN_MIRROR","Broken Mirror","Miroir Cassé","破碎的镜子","割れた鏡","깨진 거울","破裂的鏡子","Разбитое зеркало","Zbite Lustro","Espejo roto","Espelho Quebrado","Kaputter Spiegel","Kırık Ayna","Specchio rotto"
+"ITEM_PEARL","Pearl","Perle","珍珠","真珠","진주","珍珠","Жемчужина","Perła","Perla","Pérola","Perle","İnci","Perla"
+"ITEM_PENGUIN","Penguin","Pinguin","企鹅","ペンギン","펭귄","企鵝","Пингвин","Pingwin","Pingüino","Pinguim","Pinguin","Penguen","Pinguino"
+"ITEM_SALTWATER","Saltwater","Eau Salée","盐水","海水","소금물","鹹水","Морская вода","Słona Woda","Agua salada","Água Salgada","Salzwasser","Tuzlu Su","Acqua salata"
+"ITEM_SCARF","Scarf","Foulard","围巾","スカーフ","스카프","圍巾","Шарф","Szalik","Bufanda","Cachecol","Schal","Atkı","Sciarpa"
+"ITEM_SEASHELL","Seashell","Coquillage","海贝壳","貝","조개껍데기","貝殼","Ракушка","Muszla","Concha","Concha","Muschel","Deniz Kabuğu","Conchiglia"
+"ITEM_SMALL_FISH","Small Fish","Petit Poisson","小鱼","小魚","작은 물고기","小魚","Рыбка","Mała Rybka","Pezqueñín","Peixinho","Kleiner Fisch","Küçük Balık","Pesciolino"
+"ITEM_STARFISH","Starfish","Étoile de Mer","海星","ヒトデ","불가사리","海星","Морская звезда","Rozgwiazda","Estrella de mar","Estrela-do-mar","Seestern","Denizyıldızı","Stella marina"
+"ITEM_SUNKEN_BELL","Sunken Bell","Cloche Engloutie","沉钟","水底の鐘","가라앉은 종","沉鐘","Затонувший колокол","Zatopiony Dzwon","Campana hundida","Sino Afundado","Versunkene Glocke","Batık Çan","Campana inabissata"
+"ITEM_TREASURE_MAP","Treasure Map","Carte au Trésor","藏宝图","宝の地図","보물 지도","寶藏地圖","Карта сокровищ","Mapa Skarbów","Mapa del tesoro","Mapa do Tesouro","Schatzkarte","Hazine Haritası","Mappa del tesoro"
+"ITEM_WHISTLE","Whistle","Sifflet","哨子","ホイッスル","호루라기","哨子","Свисток","Gwizdek","Silbato","Apito","Pfeife","Düdük","Fischietto"
+"ITEM_SPYGLASS","Spyglass","Longue-Vue","望远镜","望遠鏡","작은 망원경","小型望遠鏡","Подзорная труба","Luneta","Catalejo","Luneta","Fernglas","Dürbün","Cannocchiale"
+"ITEM_GOLDFISH","Goldfish","Poisson Rouge","金鱼","金魚","금붕어","金魚","Золотая рыбка","Złota rybka","Carpa dorada","Peixe-dourado","Goldfisch","Japon Balığı","Pesce rosso"
+"ITEM_GOLDFISH_USED","Resting Goldfish","Poisson Rouge au Repos","休息的金鱼","休んでいる金魚","휴식 중인 금붕어","休息的金魚","Спящая рыбка","Odpoczywająca Złota Rybka","Carpa dorada en reposo","Peixe-dourado Cansado","Schlafender Goldfisch","Dinlenen Japon Balığı","Pesce rosso addormentato"
+"ITEM_BONE_DICE","Bone Dice","Dés en Os","骨骰","骨のサイコロ","뼈 주사위","骨骰子","Игральная кость","Kostki z Kości","Dados de hueso","Dado de Osso","Knochenwürfel","Kemik Zar","Dadi d'osso"
+"CHARACTER_DWARF","Dwarf","Nain","矮人","ドワーフ","난쟁이","小矮人","Гном","Krasnolud","Enano","Anão","Zwerg","Cüce","Nano"
+"CHARACTER_CREATURE","Creature","Créature","生物","クリーチャー","크리처","怪物","Существо","Stwór","Criatura","Criatura","Kreatur","Yaratık","Essere"
+"CHARACTER_GANGSTER","Gangster","Voyou","匪徒","ギャング","갱스터","歹徒","Бандит","Gangster","Mafioso","Mafioso","Ganove","Gangster","Gangster"
+"CHARACTER_ROMANTIC","Romantic","Romantique","浪漫之人","ロマンチック","로맨틱","浪漫","Романтик","Romantyk","Romántico","Romântico","Charmeur","Romantik","Romanticone"
+"CHARACTER_DRUID","Druid","Druide","德鲁伊","ドルイド","드루이드","德魯伊教祭司","Друид","Druid","Druida","Druida","Druide","Orman Perisi","Druido"
+"CHARACTER_CHEF","Chef","Chef","厨师","シェフ","셰프","廚師","Повар","Kucharz","Chef","Chef","Koch","Şef","Chef"
+"CHARACTER_SAILOR","Sailor","Marin","水手","水兵","선원","水手","Моряк","Marynarz","Marinero","Marinheiro","Matrose","Denizci","Marinaio"
+"CHARACTER_DIVER","Diver","Plongeur","潜水员","ダイバー","잠수부","潛水員","Водолаз","Nurek","Buzo","Mergulhador","Taucher","Dalgıç","Sub"
+"CHARACTER_CURIOUS","Curious","Curieux","好奇之人","知りたがり","궁금이","好奇家","Любопытный","Zaciekawiony","Curioso","Curioso","Stauner","Meraklı","Curiosone"
+"CHARACTER_HIKER","Hiker","Randonneur","徒步旅行者","ハイカー","하이커","健行者","Турист","Turysta","Senderista","Montanhista","Wanderer","Yürüyüşçü","Alpinista"
+"CHARACTER_BUILDER","Builder","Constructeur","建造者","建築家","건축업자","建築工人","Строитель","Budowniczy","Constructor","Construtor","Baumeister","İnşaatçı","Costruttore"
+"CHARACTER_CAPTAIN","Captain","Capitaine","船长","船長","선장","船長","Капитан","Kapitan","Capitán","Capitão","Kapitän","Kaptan","Capitano"
+"CHARACTER_OGRE","Ogre","Ogre","食人魔","オーガ","오우거","食人魔","Огр","Ogr","Ogro","Ogro","Oger","Dev","Orco"
+"CHARACTER_BUCCANEER","Buccaneer","Boucanier","海盗","海賊","해적","海盜","Пират","Korsarz","Bucanero","Bucaneiro","Seeräuber","Korsan","Bucaniere"
+"WEAPON_ANCHOR","Anchor","Ancre","锚","錨","닻","錨","Якорь","Kotwica","Ancla","Âncora","Anker","Çapa","Ancora"
+"WEAPON_BLUNDERBUSS","Blunderbuss","Tromblon","喇叭枪","ラッパ銃","나팔총","雷筒","Мушкет","Garłacz","Trabuco","Bacamarte","Donnerbüchse","Alaybozan","Archibugio"
+"WEAPON_BRICK","Brick","Brique","砖块","レンガ","벽돌","磚塊","Кирпич","Cegła","Ladrillo","Tijolo","Ziegel","Tuğla","Mattone"
+"WEAPON_CAPTAINS_SWORD","Captain’s Sword","Épée du capitaine","船长的剑","船長の剣","선장의 검","船長的劍","Меч капитана","Miecz Kapitana","Espada del capitán","Espada de Capitão","Kapitänssäbel","Kaptanın Kılıcı","Spada del capitano"
+"WEAPON_CHAINSAW","Chainsaw","Tronçonneuse","电锯","チェーンソー","체인톱","電鋸","Бензопила","Piła Łańcuchowa","Motosierra","Motossera","Kettensäge","Elektrikli Testere","Sega elettrica"
+"WEAPON_FLUTE","Flute","Flûte","长笛","フルート","플루트","長笛","Флейта","Flet","Flauta","Flauta","Flöte","Flüt","Flauto"
+"WEAPON_GRENADE_LAUNCHER","Grenade Launcher","Lance-Grenades","榴弹发射器","グレネードランチャー","수류탄 런처","手榴彈發射器","Гранатомет","Wyrzutnia Granatów","Lanzagranadas","Lança-granada","Granatwerfer","Bombaatar","Lanciagranate"
+"WEAPON_HARPOON_GUN","Harpoon Gun","Fusil Harpon","鱼叉枪","銛撃ち銃","작살 발사포","魚叉槍","Гарпунное ружье","Pistolet Harpunniczy","Cañón arponero","Arpão","Harpune","Zıpkın Tüfeği","Fiocina"
+"WEAPON_HIKING_STICK","Hiking Pole","Bâton de Randonnée","登山杖","ハイキングステッキ","하이킹 스틱","登山杖","Походная палка","Kij Turystyczny","Bastón de senderismo","Bastão de Trilha","Wanderstock","Yürüyüş Batonu","Bastoncino"
+"WEAPON_JAVELIN","Javelin","Javelin","标枪","ジャベリン","투창","標槍","Метательное копьё","Oszczep","Jabalina","Azagaia","Wurfspeer","Kargı","Giavellotto"
+"WEAPON_LUTE","Lute","Luth","琉特琴","リュート","류트","琵琶","Лютня","Lutnia","Laúd","Alaúde","Laute","Lavta","Liuto"
+"WEAPON_MACE","Mace","Massue","狼牙棒","メイス","철퇴","槌子","Булава","Maczuga","Maza","Maça","Streitkolben","Gürz","Mazza chiodata"
+"WEAPON_SICKLE","Sickle","Faucille","镰刀","草刈り鎌","낫","鐮刀","Серп","Sierp","Hoz","Foice","Sichel","Orak","Falcetto"
+"WEAPON_SPOON","Spoon","Cuillère","勺子","スプーン","숟가락","湯匙","Ложка","Łyżka","Cuchara","Colher","Löffel","Kaşık","Cucchiaio"
+"WEAPON_TRIDENT","Trident","Trident","三叉戟","トライデント","삼지창","三叉戟","Трезубец","Trójząb","Tridente","Tridente","Dreizack","Üç Dişli Mızrak","Tridente"
+"WEAPON_WAR_HAMMER","War Hammer","Marteau de Guerre","战锤","ウォーハンマー","전쟁 망치","戰鎚","Молот","Młot Bojowy","Martillo de guerra","Martelo de Guerra","Kriegshammer","Savaş Çekici","Martello d'arme"
+"BG_OCEAN","Ocean","Océan","海洋","大洋","바다","海洋","Океан","Ocean","Océano","Oceano","Ozean","Okyanus","Oceano"
+"WEAPON_CLASS_NAVAL","Naval","Naval","海军","海軍","해군","船艦類","Морское","Marynarska","Naval","Naval","Maritim","Denizci","Navale"
+"WEAPON_CLASS_MUSICAL","Musical","Musical","音乐","楽器","음악","音樂類","Музыкальное","Muzyczna","Musical","Musical","Musikalisch","Müzisyen","Musicale"
+"ZONE_CRASH_ZONE","Crash Zone","Zone de Crash","碰撞区域","クラッシュゾーン","격돌 지대","墜毀地","Зона аварии","Miejsce wypadku","Zona de choque","Local da Queda","Absturzstelle","Çarpışma Noktası","Zona di collisione"
+"ZONE_ABYSS","The Abyss","Les Abysses","深渊","アビス","심해","深海","Бездна","Otchłań","El abismo","Abismo","Die Tiefe","Abis","L'Abisso"
+"EFFECT_DECAYING_STAT_ON_CONSUMABLE","{0} {1} for {2} seconds after picking up a consumable","{0} {1} pendant {2} secondes après avoir ramassé un consommable","捡起消耗品后，{0}{1}持续{2}秒","消耗品を拾うと {2}秒間 {1} {0}","소모품을 획득한 뒤 {2}초 동안 {0} {1}","撿起消耗品後{0}{1}{2}秒","Вы получаете {0} к параметру «{1}» на {2} сек., когда вы подбираете расходник.","{1} {0} przez {2} s po podniesieniu znajdźki","{0} de {1} durante {2} segundos al recoger un consumible","{0} de {1} por {2} segundos ao coletar um consumível.","{0} {1} für {2} Sekunden beim Aufsammeln eines Verbrauchsgegenstands","Tüketilebilir eşya topladıktan sonra {2} saniye boyunca {0} {1}","{0} {1} per {2} secondi quando raccogli un materiale consumabile."
+"EFFECT_DECAYING_STAT_ON_HIT","{0} {1} for {2} seconds when you take damage","{0} {1} pendant {2} secondes lorsque vous subissez des dégâts","受到伤害后，{0}{1}持续{2}秒","ダメージを受けると {2}秒間 {1} {0}","대미지를 받을 때 {2}초 동안 {0} {1}","你受到的傷害時{0}{1}{2}秒","Вы получаете {0} к параметру «{1}» на {2} сек., когда вам наносят урон.","{1} {0} przez {2} s, gdy otrzymujesz obrażenia","{0} de {1} durante {2} segundos al recibir daño","{0} de {1} por {2} segundos ao sofrer dano.","{0} {1} für {2} Sekunden, wenn du Schaden nimmst","Hasar aldığında {2} saniye boyunca {0} {1}","{0} {1} per {2} secondi quando subisci danni."
+"EFFECT_SWAP_MAX_MIN_STAT_POS","Your highest ({0}) and lowest ({1}) positive primary stats are swapped when you get this item","Vos statistiques primaires positives les plus élevées ({0}) et les plus basses ({1}) sont échangées lorsque vous obtenez cet objet","当你获得此道具时，你的最高（{0}）和最低（{1}）正面主属性会互换","このアイテムの入手時、0以上のメインステータスのうち一番高いもの（{0}）と一番低いもの（{1}）が入れ替わる","이 아이템을 획득하면 최고({0}) 그리고 최저({1}) 양의 기본적인 능력치가 서로 바뀜","得到這個道具後，你的最高（{0}）和最低（{1}）主要正數據會交換","Когда вы получаете этот предмет, ваш самый высокий ({0}) и самый низкий ({1}) положительные основные показатели меняются местами.","Najwyższe ({0}) i najniższe ({1}) statystyki główne o wartości dodatniej zostają zamienione po zdobyciu tego przedmiotu","Al obtener este objeto, se intercambian tus estadísticas principales positivas más altas ({0}) y más bajas ({1})","Seu atributo primário positivo maior ({0}) e menor ({1}) são trocados ao coletar este item.","Deine höchsten ({0}) und niedrigsten ({1}) positiven Primärwerte werden beim Erhalt dieses Items getauscht","Bu eşyayı aldığında en yüksek ({0}) ve en düşük ({1}) pozitif birincil istatistiklerin yer değiştirir","Il tuo parametro primario positivo più alto ({0}) e quello più basso ({1}) vengono scambiati fra loro quando ottieni questo oggetto."
+"EFFECT_SWAP_MAX_MIN_STAT","Your highest ({0}) and lowest ({1}) primary stats are swapped when you get this item","Vos statistiques principales les plus élevées ({0}) et les plus basses ({1}) sont échangées lorsque vous obtenez cet objet","当你获得此道具时，你的最高（{0}）和最低（{1}）主属性会互换","このアイテムの入手時、メインステータスのうち一番高いもの（{0}）と一番低いもの（{1}）が入れ替わる","이 아이템을 획득하면 최고({0}) 그리고 최저({1}) 기본적인 능력치가 서로 바뀜","得到這個道具後，你的最高（{0}）和最低（{1}）主要數據交換","Когда получаете этот предмет, ваш самый высокий ({0}) и самый низкий ({1}) основные показатели меняются местами.","Najwyższe ({0}) i najniższe ({1}) statystyki główne zostają zamienione po zdobyciu tego przedmiotu","Al obtener este objeto, se intercambian tus estadísticas principales más altas ({0}) y más bajas ({1})","Seu atributo primário maior ({0}) e menor ({1}) são trocados ao coletar este item.","Deine höchsten ({0}) und niedrigsten ({1}) Primärwerte werden beim Erhalt dieses Items getauscht","Bu eşyayı aldığında en yüksek ({0}) ve en düşük ({1}) birincil istatistiklerin yer değiştirir","Il tuo parametro primario più alto ({0}) e quello più basso ({1}) vengono scambiati fra loro quando ottieni questo oggetto."
+"EFFECT_GOLD_ON_EVERY_STEP","Earn {0} materials for every {2} steps you take during a wave","Gagnez {0} matériaux pour tous les {2} pas que vous faites pendant une vague","每在一波袭击中前进{2}步，可获得{0}材料","{2}歩歩くごとにマテリアルを {0}個獲得する","한 웨이브 동안 걷는 매 {2}걸음마다 재료 {0}개를 얻음","每在一波中走{2}步就可獲得{0}個素材","Вы получаете материалы ({0}) за каждые {2} шагов во время волны.","Zdobądź {0} szt. materiałów za każde {2} kroków wykonanych podczas fali","Obtienes {0} materiales por cada {2} pasos que des en una oleada","Ganhe {0} materiais a cada {2} passos dados durante uma onda.","Verdiene {0} Materialien für alle {2} Schritte, die du in einer Welle machst","Hücum sırasında attığın her {2} adım başına {0} malzeme kazanırsın","Ottieni {0} materiali ogni {2} passi compiuti durante un'ondata."
+"EFFECT_STAT_ON_EVERY_STEP","{0} {1} for every {2} steps you take during a wave","{0} {1} pour tous les {2} pas que vous faites pendant une vague","每在一波袭击中前进{2}步，可获得{0}{1}","{2}歩歩くごとに{1}{0}","한 웨이브 동안 걷는 매 {2}걸음마다 {0} {1}","每在一波中走{2}步就可{0}{1}個材料","Вы получаете {0} к параметру «{1}» за каждые {2} шагов во время волны.","{1} {0} za każde {2} kroków wykonanych podczas fali","{0} de {1} por cada {2} pasos que des en una oleada","{0} de {1} a cada {2} passos dados durante uma onda.","{0} {1} für alle {2} Schritte, die du in einer Welle machst","Hücum sırasında attığın her {2} adım başına {0} {1}","{0} {1} ogni {2} passi compiuti durante un'ondata."
+"EFFECT_PIERCE_ON_CRIT_ITEM","Projectiles get {0} piercing on critical hit","Les projectiles perçent {0} fois de plus en cas de coup critique","投射物在暴击时会获得{0}贯通效果","クリティカルした弾の貫通 +{0}","치명타 시 발사체가 {0} 관통을 얻음","爆擊時投射物會獲得{0}貫穿","Снаряды получают {0} к пробитию при критических ударах.","Pociski otrzymują {0}obr. od przeszywania przy trafieniu krytycznym","Los proyectiles obtienen {0} de perforación al realizar un ataque crítico","Os projéteis ganham {0} de perfuração em acertos críticos.","Projektile erhalten {0} Durchbohren bei kritischen Treffern","Roketler kritik vuruşta {0} delici hasar verir","La perforazione dei proiettili aumenta di {0} quando infliggi un colpo critico."
+"EFFECT_BOUNCE_ON_CRIT_ITEM","Projectiles get {0} bounce on critical hit","Les projectiles rebondissent {0} fois de plus en cas de coup critique","投射物在暴击时会获得{0}反弹效果","クリティカルした弾の跳弾 +{0}","치명타 시 발사체가 {0} 튕김을 얻음","爆擊時投射物會獲得{0}反彈","Снаряды получают {0} к отскоку при критических ударах.","Pociski otrzymują {0}obr. od odbijania przy trafieniu krytycznym","Los proyectiles obtienen {0} de rebote al realizar un ataque crítico","Os projéteis ganham {0} de rebote em acertos críticos.","Projektile erhalten {0} Apraller bei kritischen Treffern","Roketler kritik vuruşta {0} defa seker","Il rimbalzo dei proiettili aumenta di {0} quando infliggi un colpo critico."
+"EFFECT_EXPLODE_ON_HIT_MISSING_HEALTH","You explode for {1} ({3} x missing health) damage when you take damage","Vous explosez et subissez {1} ({3} x santé manquante) de dégâts lorsque vous subissez des dégâts","当你受到伤害时会爆炸，造成{1}（{3}x损失的生命值）伤害","ダメージを受けると {1}（失ったHP x {3}）のダメージを与える爆発を発生させる","대미지를 받으면 {1}({3} x 잃은 체력) 대미지를 주며 폭발","受到傷害時你會爆炸{1}造成（{3} x 失去的生命值）傷害","При получении урона вы взрываетесь и наносите {1} урона (потерянное здоровье х {3}).","Gdy otrzymasz obrażenia, eksplodujesz, otrzymując {1} ({3} x brakujące zdrowie) obrażeń","Provocas una explosión que causa {1} ({3} x salud restante) de daño al recibir daño","Você explode causando {1} ({3} x vida perdida) de dano ao sofrer dano.","Du explodierst für {1} ({3} x fehlende HP) Schaden, wenn du Schaden nimmst","Hasar alınca patlayarak {1} ({3} x eksik sağlık) hasar verirsin","Esplodi infliggendo {1} ({3} x salute mancante) danni quando subisci danni."
+"EFFECT_CONSUMABLE_HEAL_OVER_TIME","Consumables heal you over {0} seconds instead of instantly","Les consommables vous soignent en {0} secondes au lieu d'agir instantanément","消耗品会在{0}秒内持续为你治疗，而非瞬间治疗","消費アイテムが即時ではなく {0} 秒かけて回復するようになる","소모품이 즉각 치유하는 대신 {0}초에 걸쳐 치유함","消耗品不會瞬間治癒，而是持續治癒{0}秒","Расходники лечат в течение {0} сек., а не мгновенно.","Znajdźki leczą przez {0} s, a nie natychmiastowo.","Los consumibles te curan a lo largo de {0} segundos en vez de al momento de usarlos","Consumíveis curam por {0} segundos em vez de instantaneamente.","Verbrauchsgegenstände heilen dich über {0} Sekunden anstatt sofort","Tüketilebilir eşyalar anlık değil {0} saniye boyunca sağlık yeniler","I materiali consumabili ti fanno recuperare PS per {0} secondi anziché istantaneamente."
+"EFFECT_LOCK_CURRENT_WEAPONS","Weapons can no longer be upgraded or recycled","Les armes ne peuvent plus être améliorées ou recyclées","武器无法再升级或回收","武器のアップグレードやリサイクルができなくなる","무기를 더 이상 업그레이드하거나 재활용할 수 없음","武器再也無法升級或回收","Оружие больше не может быть улучшено или переработано.","Broni nie można już ulepszać ani poddawać recyklingowi","Las armas dejan de poderse mejorar o reciclar","As armas não podem mais ser melhoradas ou recicladas.","Waffen können nicht mehr verbessert oder verwertet werden","Silahlar artık yükseltilemez veya geri dönüştürülemez","Le armi non possono più essere migliorate o riciclate."
+"EFFECT_KNOCKBACK_AURA","Knocks nearby enemies back every {0} second","Repousse les ennemis proches toutes les {0} seconde","每{0}秒击退附近的敌人","{0} 秒ごとに近くの敵をノックバックさせる","매 {0}초마다 근처 적을 넉백시킴","每{0}秒擊退附近的敵人一次","Отталкивает ближайших врагов каждую {0} сек.","Odrzuca pobliskich wrogów co sekundę","Derriba a los enemigos cercanos cada {0} segundo","Empurra inimigos próximos a cada {0} segundo.","Stößt Gegner in der Nähe jede Sekunde zurück","Her {0} saniyede bir yakındaki düşmanları uzaklaştırır","Respingi i nemici vicini ogni secondo."
+"EFFECT_KNOCKBACK_AURA_PLURAL","Knocks nearby enemies back every {0} seconds","Repousse les ennemis proches toutes les {0} secondes","每{0}秒击退附近的敌人","{0} 秒ごとに近くの敵をノックバックさせる","매 {0}초마다 근처 적을 넉백시킴","每{0}秒擊退附近的敵人一次","Отталкивает ближайших врагов каждые {0} сек.","Odrzuca pobliskich wrogów co {0} s","Derriba a los enemigos cercanos cada {0} segundos","Empurra inimigos próximos a cada {0} segundos.","Stößt Gegner in der Nähe alle {0} Sekunden zurück","Her {0} saniyede bir yakındaki düşmanları uzaklaştırır","Respingi i nemici vicini ogni {0} secondi."
+"EFFECT_LEVEL_UPGRADES_MODIFICATIONS","{0} stats gained from level upgrades","{0} statistiques obtenues grâce aux améliorations de niveau","从等级提升中获得{0}属性","レベルアップ時のアップグレードによるステータスの上昇量 {0}","레벨 업그레이드로 {0} 능력치 획득","升級獲得{0}數值","При повышении уровня показатели прибавляются на {0}.","Statystyki uzyskane dzięki ulepszeniom poziomu: {0}","Obtienes {0} estadísticas con las mejoras de nivel","{0} de atributos ganhos em melhorias de nível.","{0} bei durch Levelaufstieg erhaltenen Werten","Seviye yükseltmelerinden elde edilen {0} istatistik","{0} al miglioramento del parametro quando sali di livello."
+"EFFECT_LOST_ON_HIT","Bonus is lost when taking damage","Le bonus est perdu en cas de dégâts","受到伤害时会失去奖励","ダメージを受けるとボーナスは失われる","대미지를 받으면 보너스를 잃음","受到傷害時會減少加成","Бонус теряется, когда вы получаете урон.","Premia jest tracona po otrzymaniu obrażeń","La bonificación se pierde al recibir daño","O bônus é perdido ao sofrer dano.","Bonus geht verloren, wenn du Schaden nimmst","Hasar alındığında bonus yok olur","Quando subisci danni, perdi il bonus."
+"EFFECT_STAT_ON_FRUIT","{2} chance to get {0} {1} when you pick up a fruit","{2} chances d'obtenir {0} {1} lorsque vous ramassez un fruit","捡起水果时有{2}的概率获得{0}{1}","フルーツを拾うと{2} の確率で {1} {0}","과일을 획득할 때 {2} 확률로 {0} {1} 획득","撿起水果時有{2}機會獲得{0}{1}","С вероятностью {2} вам дается {0} {1}, когда вы подбираете фрукт.","{2} szans na zyskanie {0} {1} po podniesieniu owocu","{2} de probabilidad de obtener {0} de {1} al recoger una fruta","{2} de chance de obter {0} de {1} ao coletar uma fruta.","Chance von {2} beim Aufsammeln einer Frucht {0} {1} zu bekommen","Meyve topladığında {2} ihtimalle {0} {1} alırsın","{2} di probabilità di ottenere {0} {1} quando raccogli un frutto."
+"EFFECT_DUPLICATE_ITEM","Duplicates the next item you get from the shop (item limits can't be exceeded)","Duplique le prochain objet que vous obtenez dans la boutique (les limites d'objets ne peuvent pas être dépassées)","复制你从商店获得的下一个道具（不能超过道具限制）","次にショップから入手するアイテムを複製する（取得制限を超過するアイテムは選択不可）","상점에서 얻는 다음 아이템을 복제함(아이템 제한을 초과할 수 없음)","複製從商店獲得的下一個道具（不能超出道具限額）","Создает дубликат следующего купленного в магазине предмета (нельзя превысить лимит предметов).","Duplikuje kolejny przedmiot ze sklepu (nie można przekroczyć limitów przedmiotów).","Duplica el siguiente objeto que consigas en la tienda (no se pueden superar los límites de objetos)","Duplica o próximo item obtido na loja (limites de itens não são excedidos)","Dupliziert das nächste Item, das du aus dem Shop holst (Item-Limits nicht überschreitbar)","Dükkânda alacağın sonraki eşyayı kopyalar (Eşya sınırları aşılamaz)","Duplica il prossimo oggetto che ottieni dal negozio (non puoi superare il limite degli oggetti)."
+"EFFECT_BROKEN_MIRROR","This mirror duplicated an item","Ce miroir a dupliqué un objet","这面镜子复制了一个道具","この鏡は既にアイテムを複製している","이 거울은 아이템을 복제했음","這個鏡子會複製道具","Это зеркало создало дубликат предмета.","To lustro zduplikowało przedmiot","Este espejo ha duplicado un objeto","Este espelho duplicou um item.","Dieser Spiegel hat ein Item dupliziert","Bu ayna bir eşyayı kopyaladı","Questo specchio ha duplicato un oggetto."
+"EFFECT_CURSED_MIRROR","Effects and curse are lost after using the item","Les effets et la malédiction sont perdus après l'utilisation de l'objet","使用道具后会失去效果和诅咒","一度使用するとこのアイテムが持つ効果と呪いは失われる","효과와 저주는 아이템을 사용한 뒤 없어짐","使用之後會失去效果和詛咒","Эффекты и проклятие теряются, когда вы используете предмет.","Po użyciu przedmiotu tracisz efekty i klątwy","Los efectos y la maldición se pierden al usar el objeto","Anula os efeitos e maldição após usar o item.","Effekte und Fluch verschwinden nach Gebrauch des Items","Bu eşyayı kullandıktan sonra tüm etkiler ve lanetler kaybolur","Dopo aver usato questo oggetto, la sua maledizione e i suoi effetti vanno persi."
+"EFFECT_POISONED_FRUIT","{0} of fruits are poisoned and hurt you (ignores Dodge and Armor)","{0} des fruits sont empoisonnés et vous blessent (ignore l'Esquive et l'Armure)","{0}的水果被下毒并会伤害你（无视闪避和护甲）","フルーツの {0} が毒入りになり、拾うと回避とアーマーを無視してダメージを受ける","과일 {0}개가 오염되어 다치게 함(회피와 방어구 무시)","{0}機率吃到有毒水果，會傷害你（忽略閃避和護甲）","Фрукты ({0}) отравлены и наносят вам урон, игнорирующий уклонение и броню.","Tyle owoców jest zatrutych i zadaje ci obrażenia (ignorując przy tym uniki i pancerz): {0}","El {0} de las frutas están envenenadas y te hacen daño (ignora agilidad y armadura)","{0} das frutas são envenenadas e causam dano (ignora Esquiva e Armadura).","{0} der Früchte sind vergiftet und schaden dir (ignoriert Ausweichen und Rüstung)","Meyveler {0} oranında zehirlidir ve hasar verir (Kaçınma ve Zırhı yok sayar)","{0} dei frutti sono avvelenati e ti infliggono danni (ignorando schivata e corazza)."
+"EFFECT_GAIN_STAT_WHEN_ATTACK_KILLED_ENEMIES","{0} {1} when killing at least {2} enemies with a direct weapon hit","{0} {1} lorsque vous tuez au moins {2} ennemis avec un coup d'arme direct","使用直接武器杀死至少{2}名敌人时，可获得{0}{1}","一度の近接攻撃で{2}体以上の敵を倒すと {1} {0}","직접적인 무기 타격으로 최소 {2}만큼의 적을 죽이면 {0} {1}","武器直接命中，至少殺死{2}個敵人時{0}{1}","{0} {1} при убийстве {2} и более врагов прямым ударом оружия.","{1} {0} po zabiciu przynajmniej tylu wrogów bezpośrednim trafieniem bronią : {2}","{0} de {1} al eliminar a al menos {2} enemigos con un golpe de arma directo","{0} de {1} ao eliminar {2} inimigos ou mais com um acerto direto com arma.","{0} {1} beim Töten von mindestens {2} Gegnern mit einem direkten Waffentreffer","Silahla doğrudan isabet ederek en az {2} düşman öldürdüğünde {0} {1}","{0} {1} quando uccidi almeno {2} nemici con un colpo d'arma diretto."
+"EFFECT_EXTRA_ITEM_IN_CRATE","{0} chance of finding an extra {1} in a crate","{0} chance de trouver un {1} supplémentaire dans une caisse","在箱子中有{0}的几率发现额外的{1}","宝箱から追加で{1}を得られる確率 {0}","상자에서 추가 {1} 아이템을 찾을 확률 {0}","{0}機率在一個箱子中找到一個額外的{1}","Шанс {0} найти дополнительный предмет ({1}) в ящике.","{0} szans na znalezienie dodatkowego przedmiotu ({1}) w skrzyni","{0} de probabilidad de encontrar una unidad adicional de {1} en una caja","{0} de chance de encontrar {1} extra em uma caixa.","Chance von {0} in einer Kiste {1} zusätzlich zu erhalten","Bir sandıkta {0} ihtimalle ekstra {1} bulunabilir","{0} di probabilità di trovare 1 {1} in più in una cassa."
+"EFFECT_EXTRA_RANDOM_ITEM_IN_CRATE","{0} chance of finding an extra item in a crate","{0} chance de trouver un objet supplémentaire dans une caisse","在箱子中有{0}的几率发现额外的道具","宝箱から追加でアイテムを得られる確率 {0}","상자에서 추가 아이템을 찾을 확률 {0}","{0}機率在一個箱子中找到一個額外的道具","Шанс {0} найти дополнительный предмет в ящике.","{0} szans na znalezienie dodatkowego przedmiotu w skrzyni","{0} de probabilidad de encontrar un objeto adicional en una caja","{0} de chance de encontrar um item extra em uma caixa.","Chance von {0} in einer Kiste ein Item zusätzlich zu erhalten","Bir sandıkta {0} ihtimalle ekstra eşya bulunabilir","{0} di probabilità di trovare 1 oggetto in più in una cassa."
+"EFFECT_HEAL_ON_KILL","{0} chance to heal 1 HP when killing an enemy","{0} chance de guérir 1 PV en tuant un ennemi","杀死敌人时有{0}的几率恢复1点生命值","敵を倒した時に1回復する確率 {0}","적을 죽일 때 {0} 확률로 1 HP 치료","殺死敵人時有{0}的機率治癒1HP","Шанс {0} восстановить 1 ОЗ при убийстве врага.","{0} szans na odzyskanie 1 PZ przy zabiciu przeciwnika","{0} de probabilidad de recuperar 1 PS al eliminar a un enemigo","{0} de chance de recuperar 1 PV ao eliminar um inimigo.","{0} Chance, beim Töten eines Gegners 1 HP zu heilen","Bir düşmanı öldürdüğünde {0} ihtimalle 1 Sağlık yeniler","{0} di probabilità di recuperare 1 PS quando uccidi un nemico."
+"EFFECT_TEMP_CONSUMABLE_STAT_WHILE_MAX","{0} {1} until the end of the wave when picking up a consumable while at maximum health","{0} {1} jusqu'à la fin de la vague lorsque vous ramassez un consommable en étant en pleine santé","当在最大生命值下捡起一个消耗品时，可获得{0}{1}，直至敌袭结束","HPが最大のときに消費アイテムを拾うと、ウェーブの終わりまで {1} {0}","웨이브가 끝날 때까지 체력이 최대일 때 소모품을 획득하면 {0} {1}","在生命值達到上限的狀態下撿起消耗品時可{0}{1}直到結束","{0} к параметру «{1}» до конца волны, если вы подбираете расходник, когда у вас полное здоровье.","{1} {0} podczas podnoszenia znajdźki, jeśli masz pełne zdrowie (do końca fali)","{0} de {1} hasta el final de la oleada al recoger un consumible con la salud al máximo","{0} de {1} ao coletar um consumível com a vida cheia, até o fim da onda.","{0} {1} bis zum Ende der Welle, wenn du bei max. HP ein Verbrauchsgut aufsammelst","Hücum bitene kadar Maksimum sağlıktayken tüketilebilir topladığında {0} {1}","{0} {1} quando raccogli un materiale consumabile mentre hai la salute al massimo fino alla fine dell'ondata."
+"EFFECT_MODIFY_EVERY_X_PROJECTILE","Every ranged weapon's {0}th projectile has {2} {3}","Le {0}ème projectile de chaque arme à distance a {2} {3}","每把远战武器的第{0}个投射物有{2}{3}","遠距離武器の攻撃の{3}が{0} 回に1度 {2} される","모든 원거리 무기의 {0}번째 발사체가 {2} {3} 보유","每個遠距離武器的第{0}個投射物{2}{3}","Каждый {0}-й снаряд оружия дальнего боя получает следующее: {2} ({3}).","Co {0} pocisk broni dystansowej ma {3} {2}","El {0}.º proyectil de todas las armas a distancia tienen {2} de {3}","Todo {0}º projétil de arma de longo alcance ganha {2} de {3}.","Das {0}. Projektil jeder Fernkampfwaffe hat {2} {3}","Her menzilli silahın {0}. atışı için {2} {3}","Ogni {0}° proiettile lanciato dalle armi da distanza ottiene {2} {3}."
+"EFFECT_MODIFY_EVERY_X_PROJECTILE_FIRST","Every ranged weapon's projectile has {2} {3}","Le projectile de chaque arme à distance a {2} {3}","每把远战武器的投射物有{2}{3}","遠距離武器の攻撃の{3}が常に {2} される","모든 원거리 무기의 발사체가 {2} {3} 보유","每個遠距離武器的投射物{2}{3}","Каждый снаряд оружия дальнего боя получает получает следующее: {2} ({3}).","Każdy pocisk broni dystansowej ma {3} {2}","Los proyectiles de todas las armas a distancia tienen {2} de {3}","Todo projétil de arma de longo alcance ganha {2} de {3}.","Jedes Projektil einer Fernkampfwaffe hat {2} {3}","Her menzilli silahın atışı için {2} {3}","Ogni proiettile lanciato dalle armi da distanza ottiene {2} {3}."
+"EFFECT_MODIFY_EVERY_X_PROJECTILE_SECOND","Every ranged weapon's {0}nd projectile has {2} {3}","Le {0}ème projectile de chaque arme à distance a {2} {3}","每把远战武器的第{0}个投射物有{2}{3}","遠距離武器の攻撃の{3}が {0} 回に1度 {2} される","모든 원거리 무기의 {0}번째 발사체가 {2} {3} 보유","每個遠距離武器的第{0}個投射物{2}{3}","Каждый {0}-й снаряд оружия дальнего боя получает получает следующее: {2} ({3}).","Co {0} pocisk broni dystansowej ma {3} {2}","El {0}.º proyectil de todas las armas a distancia tienen {2} de {3}","Todo {0}º projétil de arma de longo alcance ganha {2} de {3}.","Das {0}. Projektil jeder Fernkampfwaffe hat {2} {3}","Her menzilli silahın {0}. atışı için {2} {3}","Ogni {0}° proiettile lanciato dalle armi da distanza ottiene {2} {3}."
+"EFFECT_MODIFY_EVERY_X_PROJECTILE_THIRD","Every ranged weapon's {0}rd projectile has {2} {3}","Le {0}ème projectile de chaque arme à distance a {2} {3}","每把远战武器的第{0}个投射物有{2}{3}","遠距離武器の攻撃の{3}が {0} 回に1度 {2} される","모든 원거리 무기의 {0}번째 발사체가 {2} {3} 보유","每個遠距離武器的第{0}個投射物{2}{3}","Каждый {0}-й снаряд оружия дальнего боя получает получает следующее: {2} ({3}).","Co {0} pocisk broni dystansowej ma {3} {2}","El {0}.er proyectil de todas las armas a distancia tienen {2} de {3}","Todo {0}º projétil de arma de longo alcance ganha {2} de {3}.","Jedes {0}. Projektil einer Fernkampfwaffe hat {2} {3}","Her menzilli silahın {0}. atışı için {2} {3}","Ogni {0}° proiettile lanciato dalle armi da distanza ottiene {2} {3}."
+"EFFECT_WEAPON_MODIFY_EVERY_X_PROJECTILE","Every {0}th projectile has {2} {3}","Chaque {0}ème projectile a {2} {3}","每次第{0}个投射物有{2}{3}","この武器の攻撃の{3}は{0}回に1度 {2} される","모든 {0}번째 발사체가 {2} {3} 보유","每到第{0}個投射物就{2}{3}","Каждый {0}-й снаряд получает получает следующее: {2} ({3}).","Co {0} pocisk ma {3} {2}","El {0}.º proyectil que dispares tiene {2} de {3}","Todo {0}º projétil ganha {2} de {3}.","Jedes {0}. Projektil hat {2} {3}","Atılan her {0}. roket için {2} {3}","Ogni {0}° proiettile lanciato ottiene {2} {3}."
+"EFFECT_WEAPON_MODIFY_EVERY_X_PROJECTILE_FIRST","Every projectile has {2} {3}","Chaque projectile a {2} {3}","每个投射物有{2}{3}","この武器の攻撃の{3}は常に {2} される","모든 발사체가 {2} {3} 보유","每個投射物都{2}{3}","Каждый снаряд получает получает следующее: {2} ({3}).","Każdy pocisk ma {3} {2}","Los proyectiles que dispares tienen {2} de {3}","Todos os projéteis ganham {2} de {3}.","Jedes Projektil hat {2} {3}","Atılan her roket için {2} {3}","Ogni proiettile lanciato ottiene {2} {3}."
+"EFFECT_WEAPON_MODIFY_EVERY_X_PROJECTILE_SECOND","Every {0}nd projectile has {2} {3}","Chaque {0}ème projectile a {2} {3}","每次第{0}个投射物有{2}{3}","この武器の攻撃の{3}は{0}回に1度 {2} される","모든 {0}번째 발사체가 {2} {3} 보유","每到第{0}個投射物就{2}{3}","Каждый {0}-й снаряд получает получает следующее: {2} ({3}).","Co {0} pocisk ma {3} {2}","El {0}.º proyectil que dispares tiene {2} de {3}","Todo {0}º projétil ganha {2} de {3}.","Jedes {0}. Projektil hat {2} {3}","Atılan her {0}. roket için {2} {3}","Ogni {0}° proiettile lanciato ottiene {2} {3}."
+"EFFECT_WEAPON_MODIFY_EVERY_X_PROJECTILE_THIRD","Every {0}rd projectile has {2} {3}","Chaque {0}ème projectile a {2} {3}","每次第{0}个投射物有{2}{3}","この武器の攻撃の{3}は{0}回に1度 {2} される","모든 {0}번째 발사체가 {2} {3} 보유","每到第{0}個投射物就{2}{3}","Каждый {0}-й снаряд получает получает следующее: {2} ({3}).","Co {0} pocisk ma {3} {2}","El {0}.er proyectil que dispares tiene {2} de {3}","Todo {0}º projétil ganha {2} de {3}.","Jedes {0}. Projektil hat {2} {3}","Atılan her {0}. roket için {2} {3}","Ogni {0}° proiettile lanciato ottiene {2} {3}."
+"EFFECT_BONUS_DAMAGE_AGAINST_TARGETS_ABOVE_HP","{0} damage against targets above {2} health","{0} dégâts contre les cibles au-dessus de {2} points de vie","对生命值超过{2}的目标造成{0}伤害","HPが {2} 以上のターゲットに対するダメージ {0}","체력 {2} 초과 타겟을 상대로 {0} 대미지","對戰生命值{2}以上的目標時{0}傷害","{0} к урону против целей с уровнем здоровья выше {2}.","{0} pkt. obrażeń przeciwko celom mającym ponad tyle zdrowia: {2}","{0} de daño frente a enemigos con más de {2} de salud","{0} de dano contra alvos com mais de {2} de vida.","{0} Schaden gegen Ziele mit mehr als {2} Leben","{2} üstünde sağlığı olan hedeflere karşı {0} hasar","{0} ai danni inflitti ai bersagli con salute superiore a {2}."
+"EFFECT_BONUS_DAMAGE_AGAINST_TARGETS_BELOW_HP","{0} damage against targets below {2} health","{0} dégâts contre les cibles en-dessous de {2} points de vie","对生命值低于{2}的目标造成{0}伤害","HPが {2} 以下のターゲットに対するダメージ {0}","체력 {2} 미만 타겟을 상대로 {0} 대미지","對戰生命值{2}以下的目標時{0}傷害","{0} к урону против целей с уровнем здоровья ниже {2}.","{0} pkt. obrazeń przeciwko celom o stanie zdrowia poniżej {2}","{0} de daño frente a enemigos con más de {2} de salud","{0} de dano contra alvos com menos de {2} de vida.","{0} Schaden gegen Ziele mit weniger als {2} Leben","{2} altında sağlığı olan hedeflere karşı {0} hasar","{0} ai danni inflitti ai bersagli con salute inferiore a {2}."
+"EFFECT_CRIT_ON_HITTING_BURNING_TARGET","Always crits when hitting burning targets","Attaquer des cibles en feu inflige toujours des coups critiques","击中燃烧目标时总是造成暴击","炎上しているターゲットに対する攻撃がクリティカルヒットになる","화상 입은 타겟을 타격할 때 항상 치명타","命中燃燒的目標時都會成爆擊","Каждое попадание по горящим целям будет критическим.","Zawsze zapewnia trafienia kryt. przy trafianiu płonących celów","Siempre causas daño crítico al quemar a los objetivos","Sempre causa dano crítico em alvos com queimadura.","Erzielt immer kritische Treffer gegen brennende Ziele","Yanan hedeflere her zaman kritik vuruş yapar","I colpi sono sempre critici se colpiscono bersagli con bruciature."
+"EFFECT_GOLD_ON_CURSED_ENEMY_KILL","{0} material when you kill a cursed enemy","{0} matériau lorsque vous tuez un ennemi maudit","击杀被诅咒的敌人时获得{0}材料","呪い状態の敵を倒した時にドロップするマテリアルの量 {0}","저주받은 적을 죽일 때 재료 {0}개","殺死受詛咒的敵人時{0}素材","При убийстве проклятого врага дает материалы ({0}).","Zapewnia tyle materiałów po zabiciu przeklętego wroga: {0}","{0} material al eliminar a un enemigo con maldición","{0} de material ao eliminar um inimigo amaldiçoado.","{0} Material, wenn du einen verfluchten Gegner tötest","Lanetli düşman öldürdüğünde {0} malzeme","{0} materiale ottenuto quando uccidi un nemico maledetto."
+"EFFECT_GOLD_ON_CURSED_ENEMY_KILL_PLURAL","{0} materials when you kill a cursed enemy","{0} matériaux lorsque vous tuez un ennemi maudit","击杀被诅咒的敌人时获得{0}材料","呪い状態の敵を倒した時にドロップするマテリアルの量 {0}","저주받은 적을 죽일 때 재료 {0}개","殺死受詛咒的敵人時{0}素材","При убийстве проклятого врага дает материалы ({0}).","Zapewnia tyle materiałów po zabiciu przeklętego wroga: {0}","{0} materiales al eliminar a un enemigo con maldición","{0} de materiais ao eliminar um inimigo amaldiçoado.","{0} Materialien, wenn du einen verfluchten Gegner tötest","Lanetli düşman öldürdüğünde {0} malzeme","{0} materiali ottenuti quando uccidi un nemico maledetto."
+"EFFECT_BONUS_CURRENT_HEALTH_DAMAGE","Deals {0} of an enemy’s current health as bonus damage ({2} for bosses and elites)","Inflige {0} des points de vie actuels d’un ennemi de dégâts bonus ({2} pour les boss et les élites)","造成敌人当前生命值的{0}以作为奖励伤害（头目和精英怪的{2}）","敵の現在HPの {0} の追加ダメージを与える（ボスとエリートに対しては {2}）","적의 현재 체력의 {0}만큼을 보너스 대미지로 가합니다(보스 및 엘리트 상대로는 {2}만큼)","可施加敵人目前生命值{0}的額外傷害（對頭目及菁英怪則為{2}）","Дополнительно наносит урон в размере {0} от текущего здоровья врага ({2} для боссов и элиты).","Zadaje dodatkowe obrażenia równe {0} aktualnych PZ wroga ({2} dla bossów i pot. elit.)","Causa un daño equivalente al {0} de la salud actual del enemigo como daño adicional ({2} para jefes y élites)","Causa dano bônus equivalente a {0} da vida atual do inimigo ({2} para chefes e elites).","Verursacht {0} des aktuellen Gegnerlebens als Bonusschaden ({2} bei Bossen und Elitegegnern)","Düşmanın mevcut canının {0} oranında bonus hasar verir (boss ve elitler için {2})","Infligge un {0} dei PS attuali del nemico come danni aggiuntivi ({2} per boss e miniboss)."
+"EFFECT_LOOT_ALIEN_SPEED","{0} movement speed for loot aliens","{0} vitesse de déplacement pour les extraterrestres transportant du butin","战利品外星人的移动速度{0}","戦利品エイリアンの移動速度 {0}","전리품 외계인의 이동 속도 {0}","戰利品異形{0}移動速度","{0} к скорости передвижения пришельцев с добычей.","Prędkość ruchu obcych z łupami: {0}","{0} de velocidad de movimiento para los alienígenas de botín","{0} de velocidade de movimento para alienígenas do tesouro.","{0} Bewegungstempo für Beute-Aliens","Yağmacı uzaylılar için {0} hareket hızı","{0} alla velocità di movimento per gli alieni con bottino."
+"EFFECT_RELOAD_WHEN_PICKUP_GOLD","Cooldown is reset when you pick up a material","Le temps de recharge est réinitialisé lorsque vous ramassez un matériau","捡起材料后会重置冷却时间","マテリアルを拾う度にクールダウンをリセットする","재료를 획득하면 쿨다운이 초기화됨","撿起素材時會重置冷卻時間","Восстановление обнуляется, когда вы подбираете материал.","Czas odnawiania jest resetowany po podniesieniu materiałów","Se reinicia el tiempo de espera al recoger un material","Elimina a recarga ao coletar um material.","Abklingzeit wird beim Aufsammeln von Material zurückgesetzt","Malzeme topladığında bekleme süresi sıfırlanır","Il tempo di ricarica si azzera quando raccogli un materiale."
+"EFFECT_BONUS_NON_ELEMENTAL_DAMAGE_AGAINST_BURNING_TARGETS","{0} damage from non elemental sources against burning targets","{0} dégâts provenant de sources non élémentaires contre des cibles en feu","对燃烧目标造成非属性来源的{0}伤害","元素ダメージを参照しない攻撃が炎上中のターゲットに {0}のダメージを与える","화상 입은 타겟을 상대로 원소가 아닌 자원으로부터 {0} 대미지","對戰燃燒的目標時無屬性來源會造成{0}傷害","{0} к нестихийному урону по горящим целям.","{0} pkt. obrażeń od wszystkiego poza żywiołami podczas walki z płonącymi celami","{0} de daño de fuentes no elementales contra objetivos con quemadura","{0} de dano não-elemental contra alvos com queimadura.","{0} Schaden durch nicht-elementare Quellen gegen brennende Ziele","Elemental olmayan kaynaklardan yanan düşmanlara karşı {0} hasar","{0} ai danni non elementali inflitti ai bersagli con bruciature."
+"EFFECT_BONUS_WEAPON_CLASS_DAMAGE_AGAINST_CURSED_ENEMIES","{0} damage with {1} weapons against cursed enemies","{0} dégâts avec les armes de type {1} contre les ennemis maudits","使用{1}武器对被诅咒的敌人造成{0}伤害","クラスが{1}の武器が呪われた敵に {0}のダメージを与える","저주받은 적을 상대로 {1}개 무기로 {0} 대미지","以武器對戰受詛咒的敵人時會造成{0}傷害","{0} к урону оружия ({1}) по проклятым врагам.","{0} pkt. obrażeń przy korzystaniu z broni {1} podczas walki z przeklętymi przeciwnikami","{0} de daño con armas de clase {1} contra enemigos con maldición","{0} de dano com armas tipo {1} contra inimigos amaldiçoados.","{0} Schaden mit der Waffenklasse {1} gegen verfluchte Gegner","Lanetli düşmanlara karşı {1} silahlarıyla {0} hasar","{0} ai danni inflitti dalla classe {1} ai nemici maledetti."
+"EFFECT_CRIT_CHANCE_CAP","Crit chance is capped at {0}","Votre % Chance Critique est plafonnée à {0}","暴击率上限为{0}","クリティカル率の上限が {0} になる","치명타 확률이 {0}(으)로 한도가 정해져 있음","最大爆擊機率為{0}","Шанс критической атаки не может превышать {0}.","Szansa na traf. kryt. jest ograniczona do {0}","La probabilidad de críticos se limita a {0}","A chance crítica é limitada a {0}.","Die Krit-Chance ist auf {0} limitiert","Maksimum kritik vuruş ihtimali: {0}","La probabilità di colpo critico ha un limite massimo di {0}."
+"EFFECT_ITEM_STEALS","Can steal {0} item per shop","Peut voler {0} objet par boutique","每个商店可窃取{0}个道具","ショップに入るごとに{0}度だけ品物を盗むことができる","상점당 {0}개 아이템을 훔칠 수 있음","每個商店可竊取{0}個道具","Можно украсть {0} предмет при каждой покупке.","Może ukraść {0} przedmiot na sklep","Roba {0} objeto por tienda","Permite roubar {0} item a cada loja.","Du kannst {0} Item pro Laden klauen","Her dükkânda {0} eşya çalabilirsin","Puoi rubare {0} oggetto per negozio."
+"EFFECT_ITEM_STEALS_SPAWNS_ENEMY","Stealing from the shop can spawn powerful enemies","Voler dans la boutique peut faire apparaître des ennemis puissants","从商店偷窃会生成强大的敌人","品物を盗んだ場合、次のウェーブで強力な敵が確率で発生する","상점에서 아이템을 훔치면 강력한 적이 생성될 수 있음","從商店竊取東西會產生強大的敵人","Кража при покупке может спровоцировать появление сильных врагов.","Kradzież ze sklepu może spowodować pojawianie się potężniejszych przeciwników","Al robar de la tienda pueden aparecer enemigos poderosos","Roubar da loja pode acabar gerando inimigos poderosos.","Das Klauen aus dem Laden kann mächtige Gegner spawnen","Dükândan eşya çalarsan güçlü düşmanlar ortaya çıkabilir","Rubare nei negozi può evocare potenti nemici."
+"EFFECT_ITEM_STEALS_SPAWNS_ELITE","Stealing from the shop can spawn an elite","Voler dans la boutique peut faire apparaître un élite","从商店偷窃会生成精英怪","品物を盗んだ場合、次のウェーブでエリートが確率で発生する","상점에서 아이템을 훔치면 엘리트가 생성될 수 있음","從商店竊取東西會產生菁英怪","Кража при покупке может спровоцировать появление элитных врагов.","Kradzież ze sklepu może spowodować pojawianie się pot. elitarnych","Al robar de la tienda puede aparecer un enemigo de élite","Roubar da loja pode acabar gerando um elite.","Das Klauen aus dem Laden kann Elitegegner spawnen","Dükândan eşya çalarsan bir elit ortaya çıkabilir","Rubare nei negozi può evocare un miniboss."
+"EFFECT_DISABLE_ITEM_LOCKING","Can't lock items","Ne peut pas verrouiller d'objets","无法锁定道具","アイテムのロック不可","아이템을 잠글 수 없음","無法鎖住道具","Нельзя закрепить предметы","Nie można zachowywać przedmiotów","No puedes bloquear objetos","Não permite travar itens.","Items können nicht gesperrt werden","Eşyalar kilitlenemez","Non puoi bloccare gli oggetti."
+"EFFECT_EXPLODE_ON_OVERKILL","Enemies taking double their max health as damage explode for {1} ({2}) damage","Les ennemis qui reçoivent le double de leur santé maximale en dégâts explosent pour {1} ({2}) de dégâts","敌人受到双倍于其最大生命值的伤害时会爆炸，造成{1}（{2}）伤害","最大HPの倍以上のダメージを受けた敵は{1}（{2}）のダメージを与える爆発を発生させる","적이 최대 체력의 두 배에 해당하는 대미지를 받으면 {1}({2}) 대미지를 주며 폭발함","受到最大生命值雙倍傷害的敵人會爆炸造成{1}（{2}）傷害","Враги, которые получают урон, вдвое превышающий объем их здоровья, взрываются и наносят {1} урона ({2}).","Wrogowie otrzymujący obrażenia równe dwukrotności maksymalnego zdrowia eksplodują, zadając {1} ({2}) obrażeń","Los enemigos que reciban un daño equivalente al doble de su salud máxima explotan haciendo {1} ({2}) de daño","Causar um dano equivalente ao dobro da vida máxima do inimigo faz ele explodir e causar {1} ({2}) de dano.","Gegner, die das Doppelte ihrer Max. HP als Schaden erleiden, explodieren für {1} ({2}) Schaden","Maksimum sağlığının iki katı hasar alan düşmanlar {1} ({2}) hasar vererek patlar","I nemici che subiscono danni doppi rispetto ai loro PS max esplodono causando {1} ({2}) danni."
+"EFFECT_CRATE_CHANCE","{0} chance to find crates","{0} chance de trouver des caisses","有{0}几率找到箱子","宝箱を発見する確率 {0}","{0} 확률로 상자를 찾음","有{0}機率找到箱子","Шанс обнаружить ящик равен {0}","{0} szans na znalezienie skrzyń","{0} de probabilidad de encontrar cajas","{0} de chance de encontrar caixas.","Chance von {0}, Kisten zu finden","{0} ihtimalle sandık bulursun","{0} di probabilità di trovare casse."
+"EFFECT_LOOT_ALIEN_CHANCE","{0} chance for loot aliens to appear","{0} chance que des extraterrestres portant du butin apparaissent","有{0}几率出现战利品外星人","戦利品エイリアンが出現する確率 {0}","{0} 확률로 전리품 외계인이 등장함","戰利品異形有{0}機率會現形","Шанс появления пришельцев с добычей равен {0}","{0} szans na pojawienie się obcych z łupami","{0} de probabilidad de que aparezcan alienígenas de botín","{0} de chance de aparição de alienígenas do tesouro.","Chance von {0}, dass Beute-Aliens auftauchen","{0} ihtimalle yağmacı uzaylılar ortaya çıkar","{0} di probabilità che compaiano alieni con bottino."
+"EFFECT_GAIN_STAT_FOR_DUPLICATE_ITEMS","{0} {1} for every duplicate item or weapon you have [{4}]","{0} {1} pour chaque objet ou arme en double que vous possédez [{4}]","每拥有一件复制道具或武器，将获得{0}{1}[{4}]","持っているアイテムや武器が重複するごとに {1} {0} [{4}]","가지고 있는 모든 복제 아이템 혹은 무기에 대해 {0} {1} [{4}]","每持有一項複製道具或武器便會{0}{1}[{4}]","{0} к параметру «{1}» за каждый дубликат предмета или оружия [{4}].","{0} {1} za każdy zduplikowany przedmiot lub broń, które posiadasz [{4}]","{0} de {1} por cada objeto o arma duplicados que tengas [{4}]","{0} de {1} por cada item ou arma repetida no arsenal [{4}]","{0} {1} für jedes Item- oder Waffenduplikat, das du besitzt [{4}]","Sahip olduğun her kopya eşya veya silah için {0} {1} [{4}]","{0} {1} per ogni doppione in tuo possesso [{4}]."
+"EFFECT_CONVERT_BONUS_GOLD","Every {0} uncollected materials are converted into {2} {3} at the end of a wave","Tous les {0} matériaux non collectés sont convertis en {2} {3} à la fin d'une vague","每{0}未收集的材料在敌袭结束后会转换为{2}{3}","ウェーブ終了時、落ちているマテリアル {0} 個につき{3}+{2}","웨이브가 끝날 때 수집되지 않은 모든 {0}개의 재료가 {2} {3}(으)로 전환됨","一波結束時，每{0}個未收集素材會轉換成{2}{3}","{2} ({3}) в конце волны за каждые {0} ед. несобранных материалов.","Każde {0} szt. niezebranych materiałów jest przekształcanych w {3} {2} na koniec fali","Cada {0} materiales sin recoger se convierten en {2} de {3} al final de la oleada","Cada {0} materiais não coletados ao fim de uma onda se converte em {2} de {3}.","Am Ende einer Welle wird jedes {0}. nicht gesammelte Material in {2} {3} umgewandelt","Toplanmamış her {0} malzeme hücum sonunda {2} {3} şeklinde dönüştürülür","I materiali non raccolti vengono convertiti in {2} {3} a gruppi di {0} alla fine di un'ondata."
+"EFFECT_CONVERT_BONUS_GOLD_TWO","Every {0} uncollected materials are converted into {2} {3} and {4} {5} at the end of a wave","Tous les {0} matériaux non collectés sont convertis en {2} {3} et {4} {5} à la fin d'une vague","每{0}未收集的材料在敌袭结束后会转换为{2}{3}和{4}{5}","ウェーブ終了時、落ちているマテリアル {0} 個につき{3}+{2}、{5}+{4}","웨이브가 끝날 때 수집되지 않은 모든 {0}개의 재료가 {2} {3} 및 {4} {5}(으)로 전환됨","一波結束時，每{0}個未收集素材會轉換成{2}{3}和{4}{5}","{2} ({3}) и {4} ({5}) в конце волны за каждые {0} ед. несобранных материалов.","Każde {0} szt. niezebranych materiałów jest przekształcanych w {3} {2} i {5} {4} na koniec fali","Cada {0} materiales sin recoger se convierten en {2} de {3} y {4} de {5} al final de la oleada","Cada {0} materiais não coletados ao fim de uma onda se converte em {2} de {3} e {4} de {5}.","Am Ende einer Welle wird jedes {0}. nicht gesammelte Material in {2} {3} und {4} {5} umgewandelt","Toplanmamış her {0} malzeme hücum sonunda {2} {3} ve {4} {5} şeklinde dönüştürülür","I materiali non raccolti vengono convertiti in {2} {3} e {4} {5} a gruppi di {0} alla fine di un'ondata."
+"EFFECT_CONVERT_BONUS_GOLD_TWO_WITH_TRACKING","Every {0} uncollected materials are converted into {2} {3} and {4} {5} at the end of a wave [{6}/{7}]","Tous les {0} matériaux non collectés sont convertis en {2} {3} et {4} {5} à la fin d'une vague [{6}/{7}]","每{0}未收集的材料在敌袭结束后会转换为{2}{3}和{4}{5}[{6}/{7}]","ウェーブ終了時、落ちているマテリアル {0} 個につき{3}+{2}、{5}+{4} [{6}/{7}]","웨이브가 끝날 때 수집되지 않은 모든 {0}개의 재료가 {2} {3} 및 {4} {5}(으)로 전환됨[{6}/{7}]","一波結束時，每{0}個未收集素材會轉換成{2}{3}和{4}{5}[{6}/{7}]","{2} ({3}) и {4} ({5}) в конце волны [{6}/{7}] за каждые {0} ед. несобранных материалов.","Każde {0} szt. niezebranych materiałów jest przekształcanych w {3} {2} i {5} {4} na koniec fali ({6}/{7}]","Cada {0} materiales sin recoger se convierten en {2} de {3} y {4} de {5} al final de la oleada [{6}/{7}]","Cada {0} materiais não coletados ao fim de uma onda se converte em {2} de {3} e {4} de {5} [{6}/{7}].","Am Ende einer Welle wird jedes {0}. nicht gesammelte Material in {2} {3} und {4} {5} umgewandelt [{6}/{7}]","Toplanmamış her {0} malzeme hücum sonunda {2} {3} ve {4} {5} şeklinde dönüştürülür [{6}/{7}]","I materiali non raccolti vengono convertiti in {2} {3} e {4} {5} a gruppi di {0} alla fine di un'ondata [{6}/{7}]."
+"STRUCTURE_PERCENT_DAMAGE","% Structure Damage","% Dégats des Structures","%构筑物伤害","建造物ダメージ(%)","% 구조 대미지","%結構物傷害","% урона построек","% obr. budowli","% de daño de estructuras","% do dano de estrutura","% Konstruktionsschaden","% Yapı Hasarı","% danni delle strutture"
+"EFFECT_CHARM_BELOW_HP","Hitting an enemy that has less than {0} health has a {1} ({2}) chance to charm it for {3} seconds","Frapper un ennemi qui a moins de {0} points de vie a {1} ({2}) de chances de le charmer pendant {3} secondes","击中生命值低于{0}的敌人时，有{1}（{2}）的几率使其在{3}秒内受到魅惑","HPが {0} 以下の敵を攻撃すると {1}（{2}）の確率で {3} 秒間魅了状態にする","체력이 {0} 미만인 적을 타격하면 {1}({2}) 확률로 {3}초 동안 매혹시킴","每命中一個生命值低於{0}的敵人便有{1}（{2}）機率魅惑他{3}秒","Попадание по врагу, уровень здоровья которого ниже {0}, с шансом {1} ({2}) способно зачаровать его на {3} сек.","Trafienie wroga, który ma mniej niż {0} zdrowia, zapewnia {1} ({2}) szans na zauroczenie go na {3} s","Al golpear a un enemigo que tenga menos de {0} de salud, existe un {1} ({2}) de probabilidad de encantarlo durante {3} segundos","Acertar um inimigo que tenha menos de {0} de vida tem {1} ({2}) de chance de encantá-lo por {3} segundos.","Ein Treffer gegen einen Gegner, der weniger als {0} Leben hat, hat eine Chance von {1} ({2}), ihn {3} Sekunden lang zu betören","Sağlığı {0} altında bir düşmana vurduğunda {1} ({2}) ihtimalle {3} saniyeliğine onu büyüleyebilirsin","{1} ({2}) di probabilità di ammaliare per {3} secondi un nemico con salute inferiore a {0} quando lo colpisci."
+"EFFECT_CHARM_BELOW_HP_NO_SCALING","Hitting an enemy that has less than {0} health has a {1} chance to charm it for {3} seconds","Frapper un ennemi qui a moins de {0} points de vie a {1} de chances de le charmer pendant {3} secondes","击中生命值低于{0}的敌人时，有{1}的几率使其在{3}秒内受到魅惑","HPが {0} 以下の敵を攻撃すると {1} の確率で {3} 秒間魅了状態にする","체력이 {0} 미만인 적을 타격하면 {1} 확률로 {3}초 동안 매혹시킴","每命中一個生命值低於{0}的敵人便有{1}機率魅惑他{3}秒","Попадание по врагу, уровень здоровья которого ниже {0}, с шансом {1} способно зачаровать его на {3} сек.","Trafienie wroga, który ma mniej niż {0} zdrowia, zapewnia {1} szans na zauroczenie go na {3} s","Al golpear a un enemigo que tenga menos de {0} de salud, existe un {1} de probabilidad de encantarlo durante {3} segundos","Acertar um inimigo que tenha menos de {0} de vida tem {1} de chance de encantá-lo por {3} segundos.","Ein Treffer gegen einen Gegner, der weniger als {0} Leben hat, hat eine Chance von {1}, ihn {3} Sekunden lang zu betören","Sağlığı {0} altında bir düşmana vurduğunda {1} ihtimalle {3} saniyeliğine onu büyüleyebilirsin","{1} di probabilità di ammaliare per {3} secondi un nemico con salute inferiore a {0} quando lo colpisci."
+"EFFECT_CHARM_ON_HIT","Hitting an enemy has a {0} chance to charm it for {3} seconds","Frapper un ennemi a {0} de chance de le charmer pendant {3} secondes","击中敌人时，有{0}的几率使其在{3}秒内受到魅惑","敵を攻撃すると {0} の確率で {3} 秒間魅了状態にする","적을 타격하면 {0} 확률로 {3}초 동안 매혹시킴","每命中一個敵人便有{0}機率魅惑他{3}秒","Попадание по врагу с шансом {0} способно зачаровать его на {3} сек.","Trafienie wroga zapewnia {0} szans na zauroczenie go na {3} s","Al golpear a un enemigo, existe un {0} de probabilidad de encantarlo durante {3} segundos","Acertar um inimigo tem {0} de chance de encantá-lo por {3} segundos.","Ein Treffer gegen einen Gegner hat eine Chance von {0}, ihn {3} Sekunden lang zu betören","Bir düşmana vurduğunda {0} ihtimalle {3} saniyeliğine onu büyüleyebilirsin","{0} di probabilità di ammaliare per {3} secondi un nemico quando lo colpisci."
+"EFFECT_GAIN_STAT_FOR_FREE_WEAPON_SLOTS","{0} {1} for every free weapon slot you have [{4}]","{0} {1} pour chaque emplacement d'arme libre dont vous disposez [{4}]","每有一个空闲的武器栏，将获得{0}{1}[{4}]","空いている武器スロット1つにつき {1} {0} [{4}]","가지고 있는 모든 빈 무기 슬롯에 대해 {0} {1} [{4}]","每擁有一個空閒的武器欄位就{0}{1}[{4}]","{0} ({1}) за каждую пустую ячейку оружия [{4}].","{1} {0} za każde posiadane puste pole broni [{4}]","{0} de {1} por cada ranura de arma libre que tengas [{4}]","{0} de {1} para cada espaço de arma vazio [{4}].","{0} {1} für jeden freien Waffenslot [{4}]","Sahip olduğun her boş silah yuvası için {0} {1} [{4}]","{0} {1} per ogni spazio per arma vuoto in tuo possesso [{4}]."
+"EFFECT_WEAPON_DAMAGE_FOR_FREE_WEAPON_SLOTS","Deals {0} {1} for every free weapon slot you have [{4}]","Inflige {0} {1} pour chaque emplacement d'arme libre dont vous disposez [{4}]","每有一个空闲的武器栏，将造成{0}{1}[{4}]","空いている武器スロット1つにつき {1} {0} [{4}]","가지고 있는 모든 빈 무기 슬롯에 대해 {0} {1} 가함[{4}]","每擁有一個空閒的武器欄位就造成{0}{1}[{4}]","Наносит {0} ({1}) за каждую пустую ячейку оружия [{4}].","Zadaje {1} {0} za każde posiadane puste pole broni [{4}]","Causa {0} de {1} por cada ranura de arma libre que tengas [{4}]","Causa {0} de {1} para cada espaço de arma vazio [{4}].","Verursacht {0} {1} für jeden freien Waffenplatz [{4}]","Sahip olduğun her boş silah yuvası için {0} {1} hasar verir [{4}]","Infligge {0} {1} per ogni spazio per arma vuoto in tuo possesso [{4}]."
+"EFFECT_LOSE_MATERIALS_PER_LIVING_ENEMY","Lose {0} material for every living enemy at the end of a wave","Perdez {0} matériaux pour chaque ennemi vivant à la fin d'une vague","在敌袭结束后，每有1个活着的敌人，你会失去{0}材料","ウェーブ終了時、生存している敵1体につきマテリアル {0} 個と経験値を失う","웨이브가 끝날 때 살아있는 모든 적에 대해 재료 {0}개를 잃음","敵襲結束後每有一個敵人存活就會失去{0}個素材","Вы теряете {0} ед. материалов за каждого живого врага в конце волны.","Tracisz {0} szt. materiałów za każdego żywego wroga na koniec fali","Pierdes {0} de material por cada enemigo con vida al final de una oleada","Perde {0} de material por inimigo vivo ao fim de uma onda.","Verliere {0} Material für jeden lebenden Gegner am Ende einer Welle","Bir hücum sonunda hayattaki her düşman başına {0} malzeme kaybedersin","Alla fine di un'ondata, perdi {0} materiali per ogni nemico vivo."
+"EFFECT_NEGATIVE_KNOCKBACK","Knockback always pulls enemies towards you","La poussée attire toujours les ennemis vers vous","击退总会将敌人拉向你","ノックバックが敵を自機の方に引き寄せるようになる","넉백이 항상 나를 향해 적을 당김","擊退常常反而將敵人拉向你","Отталкивание всегда притягивает врагов к вам.","Odrzucanie zawsze przyciąga wrogów do ciebie","Los derribos siempre atraen a los enemigos hacia ti","O empurrão passa a puxar os inimigos na sua direção.","Rückstoß zieht Gegner immer zu dir","İtme eylemi düşmanları sana doğru çeker","La respinta attira sempre i nemici verso di te."
+"EFFECT_MELEE_WEAPON_BONUS","{0} {1} with melee weapons","{0} {1} avec des armes de mêlée","使用近战武器时有{0}{1}","近接武器の {1} {0}","근거리 무기에 {0} {1}","使用近距離武器時會{0}{1}","{0} к параметру «{1}» при использовании оружия ближнего боя.","{1} {0}, gdy korzystasz z broni do walki wręcz","{0} de {1} con armas cuerpo a cuerpo","{0} de {1} com armas corpo a corpo.","{0} {1} mit Nahkampfwaffen","Yakın saldırı silahlarıyla {0} {1}","{0} {1} con le armi da mischia."
+"EFFECT_SCALE_MATERIALS_WITH_DISTANCE","You get {0} to {1} materials from enemies you kill based on their proximity to you","Vous obtenez {0} à {1} matériaux des ennemis que vous tuez en fonction de leur proximité avec vous","击杀敌人后，你会根据他们与你的距离获得{0}到{1}不等的材料","倒した敵との距離に応じて {0} ～ {1} 個のマテリアルが手に入る","죽인 적과의 거리에 따라 죽인 적으로부터 {0}에서 {1} 재료를 얻음","根據殺死的敵人與你的距離，你可以從他們那裡得到{0}到{1}項素材","Вы получаете от {0} до {1} ед. материалов за каждого убитого врага в зависимости от расстояния до него.","Zabici wrogowie zapewniają ci od {0} do {1} szt. materiałów, zależnie od tego, w jakiej odległości od nich się znajdujesz","Obtienes entre {0} y {1} de materiales con los enemigos que elimines en función de lo cerca que estuvieran de ti","Você ganha {0} a {1} materiais de inimigos eliminados de acordo com a distância deles de você.","Du erhältst {0} bis {1} Materialien von getöteten Gegnern, je nachdem, wie nah sie dir sind","Öldürdüğün düşmanların sana olan yakınlığına göre {0} ve {1} arası malzeme alırsın","Ottieni da {0} a {1} materiali dai nemici uccisi in base alla loro vicinanza a te."
+"EFFECT_CURSE_LOCKED_ITEMS","Locked items and weapons have a {0} chance to become cursed when leaving the shop","Les objets et armes verrouillés ont {0} de chances d'être maudits lorsque vous quittez la boutique","离开商店时，锁定的道具和武器有{0}的几率受到诅咒","ショップ{0} の確率でロック状態のアイテムや武器が呪い状態になります","상점을 떠날 때 잠긴 아이템과 무기가 {0} 확률로 저주받음","離開商店時，鎖住的道具和武器有{0}機率變成受詛咒","Закрепленные предметы и оружие с шансом {0} могут стать проклятыми при выходе из магазина.","Zablokowane przedmioty i bronie mają {0} szans na zostanie przeklętymi po tym, jak opuścisz sklep.","Los objetos y las armas bloqueados tienen un {0} de probabilidad de sufrir una maldición al salir de la tienda","Armas e itens travados tem {0} de chance de se tornarem amaldiçoados ao sair da loja.","Gesperrte Items und Waffen haben eine Chance von {0}, beim Verlassen des Ladens verflucht zu werden","Kilitli eşyalar ve silahlar dükkândan ayrılırken {0} ihtimalle lanetlenebilir","{0} di probabilità che le armi e gli oggetti bloccati vengano maledetti quando esci dal negozio."
+"EFFECT_GOLDFISH_USED","This goldfish is resting after a hard day's work","Ce poisson rouge se repose après une dure journée de travail","这条金鱼辛苦工作了一天之后，正在休息","金魚は一仕事を終えて休んでいるようだ","이 금붕어는 고된 하루의 일을 끝내고 휴식 중입니다","辛苦工作了一天後，這隻金魚正在休息","Эта золотая рыбка отдыхает после тяжелого рабочего дня.","Ta złota rybka odpoczywa po całym dniu ciężkiej pracy","Esta carpa dorada está descansando después de dejarse las escamas trabajando","Este peixe-dourado está descansando após um dia daqueles.","Dieser Goldfisch ruht sich nach einem harten Arbeitstag aus","Japon balığı zorlu bir günün ardından dinleniyor","Questo pesce rosso si riposa dopo una dura giornata di lavoro."
+"EFFECT_INCREASE_TIER_ON_REROLL","Items will be {0} tier higher after the next reroll","Les objets seront d'{0} grade supérieur après la prochaine randomisation","道具将在下次刷新后提升{0}个级别","次のリロールで現れるアイテムのティア +{0}","아이템은 다음 초기화 후에 {0} 등급 더 높아질 겁니다","下次重骰後，道具會提升{0}級","Класс предметов после следующей замены будет выше на {0}.","Po następnym przerzuceniu poziom przedmiotów będzie o tyle wyższy: {0}","Los objetos serán de {0} categoría más alta tras la siguiente repetición","Os itens ganham {0} grau após a próxima renovação.","Items sind nach dem nächsten ""Neu würfeln"" {0} Stufe besser","Sıradaki yenilemeden sonra eşyalar {0} seviye yükselir","La categoria degli oggetti sarà superiore di {0} dopo il prossimo cambio."
+"EFFECT_WEAPONS_RELOAD_WHEN_PICKUP_GOLD","Picking up a material resets the cooldown of all your weapons","Ramasser un matériau réinitialise le temps de recharge de toutes vos armes","捡起材料将重置你所有武器的冷却时间","マテリアルを拾うと全ての武器のクールダウンがリセットされる","재료를 획득하면 모든 무기의 쿨다운이 초기화됩니다","撿起素材會重置你所有武器的冷卻時間","Когда вы поднимаете предмет, сбрасывается восстановление всего оружия.","Podniesienie materiału resetuje czas odnawiania wszystkich broni","Reinicia el tiempo de espera de todas tus armas al recoger un material","Coletar um material elimina a recarga de todas as suas armas.","Wenn du Material aufsammelst, wird die Abklingzeit all deiner Waffen zurückgesetzt","Malzeme topladığında tüm silahların bekleme süresi sıfırlanır","Quando raccogli un materiale, il tempo di ricarica di tutte le tue armi si azzera."
+"EFFECT_INCREASE_MATERIAL_VALUE","Picked up materials have {0} value","Les matériaux récupérés ont {0} de valeur","捡起的材料有{0}价值","拾うマテリアルの価値が {0}","획득한 재료가 {0} 가치를 가집니다","撿起具有{0}價值的素材","Поднятые материалы имеют ценность {0}.","Wartość podniesionych materiałów: {0}","Los materiales recogidos tienen un {0} de valor","Os materiais coletados têm {0} de valor.","Wert von aufgesammelten Materialien {0}","Toplanan malzemelerin değeri {0} olur","{0} al valore dei materiali raccolti."
+"EFFECT_RELOAD_TURRETS_ON_SHOOT","Resets the cooldown of all offensive turrets when attacking","Attaquer réinitialise le temps de recharge de toutes les tourelles offensives","攻击时重置所有攻击型炮塔的冷却时间","攻撃時にすべての攻撃系タレットのクールダウンをリセットする","공격 시 모든 공격적인 포탑의 쿨다운을 초기화합니다","攻擊時會重置所有攻擊砲台的冷卻時間","Обнуляет восстановление всех защитных турелей при атаке.","Resetuje czas odnawiania wszystkich wieżyczek ofensywnych podczas ataku","Reinicia el tiempo de espera de todas las torretas ofensivas al atacar","Elimina a recarga de todas as torretas ofensivas ao atacar.","Setzt beim Angreifen die Abklingzeit aller offensiven Geschütze zurück","Saldırı yaparken tüm saldırı taretlerinin bekleme süresi sıfırlanır","Quando attacchi, il tempo di ricarica di tutte le torrette offensive si azzera."
+"EFFECT_GAIN_STATS_ON_REROLL","{2} chance to get {0} {1} when rerolling in the shop","{2} chances d'obtenir {0} {1} lors d'une randomisation dans la boutique","刷新时有{2}的概率在商店获得{0}{1}","リロール時に {2} の確率で {1} {0}","초기화 시 상점에서 {2} 확률로 {0} {1} 획득","重骰時有{2}機率在商店裡會獲得{0}{1}","Шанс {2} получить {0} к параметру «{1}» при замене в магазине.","{2} szans na zyskanie {1} {0} po przerzuceniu w sklepie","{2} de probabilidad de obtener {0} de {1} al repetir en la tienda","{2} de chance de obter {0} de {1} após a renovação na loja.","Chance von {2}, bei ""Neu würfeln"" im Laden {0} {1} zu bekommen","Dükkânda yenileme yaparken {2} ihtimalle {0} {1} alırsın","{2} di probabilità di ottenere {0} {1} quando cambi oggetti nel negozio."
+"EFFECT_BREAK_ON_HIT","Has a {0} chance to break and drop {2} materials on hit","A {0} de chance de se briser et de laisser tomber {2} matériaux en cas d'impact","命中时武器有{0}几率损坏并掉落{2}材料","ヒット時に {0} の確率で壊れて消滅し、その場にマテリアルを {2}個ドロップする","타격 시 {0} 확률로 부서져 {2}개의 재료를 떨어뜨림","有{0}的機率會破碎並掉落{2}素材","Шанс {0} сломаться и обронить материалы ({2}) при ударе.","Ma {0} szans na zepsucie się i upuszczenie tylu materiałów przy trafieniu: {2}","Tiene una probabilidad del {0} de romperse y soltar {2} materiales al recibir un golpe","Tem {0} de chance de quebrar e deixar {2} materiais ao acertar.","Chance von {0}, zu zerbrechen und bei einem Treffer {2} Materialien fallen zu lassen","İsabet ettiğinde {0} ihtimalle kırılıp {2} malzeme düşürür","{0} di probabilità che si rompa quando colpisce, generando {2} materiali."
+"EFFECT_INCREASE_DAMAGE_RECEIVED","Enemies hit take {0} more damage for {2} seconds (max: {3})","Les ennemis touchés subissent {0} dégâts supplémentaires pendant {2} secondes (max : {3})","敌人会额外承受{0}伤害，持续{2}秒（上限：{3}）","攻撃した敵に受けるダメージが{2}秒間 {0}上昇するデバフを与える（最大：{3}）","적 타격이 {2}초 동안 {0} 대미지를 더 받음(최대: {3})","命中的敵人會額外受到{0}傷害，持續{2}秒（最多：{3}秒）","Враги получают на {0} ед. больше урона в течение {2} сек. (до {3}).","Trafieni przeciwnicy otrzymują {0} więcej obrażeń przez {2} s (maks.: {3})","Los enemigos reciben un {0} más de daño durante {2} segundos (máx.: {3})","Inimigos atingidos sofrem {0} a mais de dano por {2} segundos (máx.: {3}).","Getroffene Gegner erleiden {2} Sekunden lang {0} mehr Schaden (max.: {3})","Vurulan düşmanlar {2} saniyeliğine {0} daha fazla hasar alır (maks: {3})","I nemici colpiti subiscono un {0} di danni in più per {2} secondi (max: {3})."
+"EFFECT_EXPLODE_WHEN_BELOW_HP","Once per wave, you explode for {1} ({2}) damage when you fall below {4} health","Une fois par vague, vous explosez et infligez {1} ({2}) points de dégâts lorsque votre santé chute en dessous de {4}","每次敌袭中，当你生命值低于{4}时，你会爆炸并造成{1}（{2}）伤害","1ウェーブにつき1回、HPが {4} 以下になると {1}（{2}）のダメージを与える爆発を発生させる","웨이브 당 한 번, 체력이 {4} 밑으로 떨어지면 {1}({2}) 대미지를 주며 폭발","當波對戰中會有一次，當你的生命值低於{4}時會爆炸，造成{1}（{2}）傷害","Один раз за волну вы взрываетесь и наносите {1} урона ({2}), если ваш уровень здоровья ниже {4}.","Raz na falę eksplodujesz, zadając {1} ({2}) obrażeń, gdy twoje zdrowie spadnie poniżej {4}","Una vez por oleada, provocas una explosión que causa {1} ({2}) de daño cuando tienes menos de {4} de salud","Uma vez a cada onda, você explode causando {1} ({2}) de dano quando estiver com menos de {4} de vida.","Du explodierst einmal pro Welle für {1} ({2}) Schaden, wenn dein Leben unter {4} fällt","Her hücumda bir defa olmak üzere sağlığın {4} altında düştüğünde patlayarak {1} ({2}) hasar verirsin","Una volta per ondata, esplodi infliggendo {1} ({2}) danni quando la tua salute scende al di sotto della soglia ({4})."
+"EFFECT_CHANCE_EXPLODE_ON_HIT","You have a {0} chance to explode for {1} ({2}) damage when you get hit","Vous avez {0} de chances d'exploser et d'infliger {1} ({2}) dégâts lorsque vous êtes touché","当你被击中时，有{0}概率爆炸，造成{1}（{2}）伤害","ダメージを受けた時、{1}（{2}）のダメージを与える爆発を {0} の確率で発生させるようになる","타격받았을 때 {0} 확률로 {1}({2}) 대미지를 주며 폭발","被命中時，你有{0}機率會爆炸，並造成{1}（{2}）傷害","При получении урона вы можете взорваться с шансом {0} и нанести урон {1} ({2}).","Masz {0} szans na eksplodowanie i zadanie {1} ({2}) pkt. obrażeń po trafieniu przez przeciwników","Tienes un {0} de probabilidad de explotar y causar {1} ({2}) de daño al recibir daño","Ao sofrer dano, você tem {0} de chance de explodir e causar {1} ({2}) de dano.","Chance von {0}, für {1} ({2}) Schaden zu explodieren, wenn du Schaden nimmst","Vurulduğunda {0} ihtimalle patlayarak etrafına {1} ({2}) hasar verirsin","{0} di probabilità di esplodere infliggendo {1} ({2}) danni quando ti colpiscono."
+"EFFECT_HIT_PROTECTION_PLURAL","Nullifies the damage of {0} hits taken every wave","Annule les dégâts de {0} coups reçus à chaque vague","在每一波敌袭中会抵消{0}次攻击伤害","ウェーブごとにダメージを{0}度無効化する","웨이브마다 받는 타격 {0}번의 대미지를 무효화합니다","每波對戰可使{0}次命中的傷害無效","Снижает до ноля урон {0} ударов во время каждой волны.","Neutralizuje obrażenia zadane przez tyle trafień w każdej fali: {0}","Cada oleada, anula el daño de {0} golpes que recibas","Anula o dano de {0} golpes sofridos a cada onda.","Hebt den erlittenen Schaden von {0} Treffern pro Welle auf","Her hücumda alınan {0} darbenin hasarını sıfırlar","Annulla i danni ricevuti da {0} colpi per ondata."
+"EFFECT_INCREASE_TIER_ON_REROLL_PLURAL","Items will be {0} tiers higher after the next reroll","Les objets seront de {0} grades supérieurs après la prochaine randomisation","道具将在下次刷新后提升{0}个级别","次のリロールで現れるアイテムのティア +{0}","아이템은 다음 초기화 후에 {0} 등급 더 높아질 겁니다","下次重骰後，道具會提升{0}級","После следующей замены предметы поднимаются на несколько классов ({0}).","Po następnym przerzuceniu poziom przedmiotów będzie o tyle wyższy: {0}","Los objetos serán de {0} categorías más altas tras la siguiente repetición","Os itens ganham {0} graus após a próxima renovação.","Items sind nach dem nächsten ""Neu würfeln"" {0} Stufen besser","Sıradaki yenilemeden sonra eşyalar {0} seviye yükselir","La categoria degli oggetti sarà superiore di {0} dopo il prossimo cambio."
+"EFFECT_BOUNCING_PLURAL","Your projectiles gain {0} bounces","Les projectiles rebondissent {0} fois de plus en cas de coup critique","你的投射物获得{0}次反弹","弾の跳弾 +{0}","발사체가 {0}만큼의 튕김을 획득","你的投射物獲得{0}反彈","Ваши снаряды будут отскакивать {0} р.","Twoje pociski zyskują tyle odbić: {0}","Tus proyectiles obtienen {0} rebotes","Seus projéteis ganham {0} rebotes.","Deine Projektile erhalten {0} Abpraller","Roketler {0} sekme kazanır","{0} al rimbalzo dei proiettili."
+"EFFECT_PIERCING_PLURAL","Projectiles pierce through {0} additional targets","Les projectiles perçent {0} fois de plus en cas de coup critique","投射物贯通{0}个额外目标","弾の貫通 +{0}","발사체가 추가 {0}개 타겟을 관통합니다","投射物貫穿{0}個額外目標","Снаряды пробивают дополнительные цели ({0}).","Pociski przebijają tyle dodatkowych celów: {0}","Los proyectiles atraviesan {0} objetivos adicionales","Os projéteis atravessam {0} alvos a mais.","Projektile durchbohren {0} zusätzliche Ziele","Roketler fazladan {0} hedefi deler","I proiettili perforano {0} bersagli in più."
+"EFFECT_FREE_SHOP_REROLL_PLURAL","{0} free rerolls in the shop","{0} randomisations gratuites dans la boutique","商店免费刷新{0}次","無料でリロールできる回数 +{0}","상점에서 {0}번의 무료 초기화","商店裡能免費重骰{0}次","В магазине можно {0} р. бесплатно заменить предметы","Tyle darmowych przerzuceń w sklepie: {0}","{0} repeticiones gratis en la tienda","Permite a renovação gratuita dos itens da loja {0} vezes.","{0} Mal kostenlos neu würfeln im Laden","Dükkânda {0} ücretsiz yenileme hakkı","{0} cambi gratuiti nel negozio."
+"EFFECT_TREES_PLURAL","A lot more trees spawn","Beaucoup plus d'arbres apparaissent","生成更大量的树木","樹木の出現数が大幅に増加する","아주 많은 나무가 생성됨","生成更多樹木","Появляется намного больше деревьев.","Pojawia się o wiele więcej drzew","Aparecen un montón de árboles más","Gera muito mais árvores.","Es spawnen deutlich mehr Bäume","Çok daha fazla ağaç ortaya çıkar","Sulla mappa compaiono molti più alberi."
+"EFFECT_EXTRA_LOOT_ALIENS","{0} additional loot aliens appear every wave","{0} extraterrestres portant du butin additionnels apparaissent à chaque vague","每次敌袭会多出现{0}个战利品外星人","各ウェーブで戦利品エイリアンが追加で {0}体出現する","매 웨이브 전리품 외계인이 {0}만큼 추가로 등장","每波對戰會出現{0}個額外戰利品異形","Каждую волну дополнительно появляются пришельцы с добычей ({0}).","W każdej fali pojawiać się będzie tylu dodatkowych obcych z łupami: {0}","Aparecen {0} alienígenas de botín adicionales en cada oleada","{0} de alienígenas do tesouro adicionais em todas as ondas.","{0} zusätzliche Beute-Aliens erscheinen während jeder Welle","Her hücumda fazladan {0} yağmacı uzaylı gelir","{0} alieni con bottino aggiuntivi durante ogni ondata."
+"EFFECT_STRONGER_ELITES_ON_KILL","All future elites and bosses become stronger when you kill an elite or a boss","Tous les futurs élites et boss deviennent plus forts lorsque vous tuez un élite ou un boss","当你击杀一个精英怪或头目时，所有未来的精英怪和头目都会变更强","エリートやボスを倒す度、以降出現するエリートとボスが強化される","엘리트 혹은 보스를 죽이면 모든 향후 엘리트 및 보스가 더 강해짐","你每殺死一個菁英或頭目，所有未來的菁英和頭目都會變得更強大一些","Все последующие элитные враги и боссы становятся сильнее, когда вы убиваете элитного врага или босса.","Po tym, jak uda ci się zabić pot. elitarnego lub bossa wszystkie przyszłe pot. elitarne i bossy stają się silniejsze","Los próximos enemigos de élite y jefes se vuelven más fuertes al eliminar a otros enemigos de élite y jefes","Todos os elites e chefes futuros se tornam mais fortes quando você elimina um elite ou um chefe.","Alle künftigen Elitegegner und Bosse werden stärker, wenn du einen Elitegegner oder Boss tötest","Bir elit veya boss öldürdüğünde karşılaşacağın diğer tüm elit ve bosslar daha güçlü olur","Uccidendo un miniboss o un boss, rafforzi tutti i miniboss e boss futuri."
+"EFFECT_STRONGER_LOOT_ALIENS_ON_KILL","All future loot aliens become stronger when you kill a loot alien","Tous les futurs extraterrestres portant du butin deviennent plus forts lorsque vous tuez un extraterrestre portant du butin","当你击杀一个战利品外星人时，所有未来的战利品外星人都会变得更强","戦利品エイリアンを倒す度、以降出現する戦利品エイリアンが強化される","전리품 외계인을 죽이면 모든 향후 전리품 외계인이 더 강해짐","你每殺死一個戰利品異形，所有未來的戰利品異形都會變得更強大一些","Все последующие пришельцы с добычей становятся сильнее, когда вы убиваете пришельца с добычей.","Po zabiciu obcego z łupami wszyscy przyszli obcy z łupami stają się silniejsi","Los próximos alienígenas de botín se vuelven más fuertes al eliminar a otros alienígenas de botín","Todos os alienígenas do tesouro futuros se tornam mais fortes quando você elimina um alienígena do tesouro.","Alle künftigen Beute-Aliens werden stärker, wenn du ein Beute-Alien tötest","Bir yağmacı uzaylı öldürdüğünde karşılaşacağın diğer tüm yağmacı uzaylılar daha güçlü olur","Uccidendo un alieno con bottino, rafforzi tutti gli alieni con bottino futuri."
+"EFFECT_EXPLODE_AND_BURN_ON_CONSUMABLE","Consumables explode for {4}x{5} ({6}) burning damage when picked up","Les consommables explosent et infligent {4}x{5} ({6}) de dégâts de brûlure lorsqu'ils sont ramassés","捡起消耗品时，它会爆炸并造成{4}x{5}（{6}）燃烧伤害","消耗品を拾うと {4}x{5}（{6}）の炎上ダメージを与える爆発を発生させる","소모품은 획득되면 {4}x{5}({6}) 화상 대미지를 주며 폭발함","被撿起的消耗品爆炸時會造成{4}x{5}（{6}）的燃燒傷害","Расходники взрываются и наносят {4}x{5} урона горения ({6}), когда вы их поднимаете.","Znajdźki eksplodują i zadają {4}x{5} ({6}) obrażeń przy podnoszeniu","Los consumibles explotan causando {4}x{5} ({6}) de daño por quemadura al recogerlos","Os consumíveis explodem e causam {4}x{5} ({6}) de dano de queimadura ao serem coletados.","Verbrauchsgegenstände explodieren beim Aufsammeln und verursachen {4}x{5} ({6}) Brandschaden","Toplanan tüketilebilir eşyalar patlayarak {4}x{5} ({6}) yanma hasarı verir","Quando li raccogli, i materiali consumabili esplodono infliggendo {4}x{5} ({6}) danni da bruciatura."
+"EFFECT_BUILDER_TURRET","You start with a special turret that mimics your best weapon's projectiles and scales with {4}","Vous commencez avec une tourelle spéciale qui imite les projectiles de votre meilleure arme et est basée sur {4}","你在开始时拥有一个特殊炮塔，它会模仿你最强武器的投射物，并随着{4}升级","最強武器の発射物を模倣し、{4} で拡大した特殊タレットで開始します","최고 무기의 발사체를 모방하며 {4}에 비례해 증가하는 특별 포탑과 함께 시작","最先開始的是一個特殊的炮塔，它會模仿你最佳武器的投射物，並具有相稱的{4}","Начните с особой турелью, которая копирует снаряды вашего лучшего оружия. На урон влияет {4}.","Zacznij od specjalnej wieżyczki, która naśladuje pociski twojej najlepszej broni i skaluje się z: {4}","Empiezas con una torreta especial que replica los proyectiles de tu mejor arma y las potencia con {4}","Você começa com uma torreta especial que imita os projéteis da sua melhor arma e escala com {4}.","Beginne mit einem Spezialgeschütz, das die Projektile deiner besten Waffe nachahmt und mit {4} skaliert","En iyi silahının roketlerini ateş edebilen özel bir taret olarak başlar ve {4} katına çıkar","Inizi con una torretta che imita i proiettili della tua arma migliore e i cui danni si basano sul parametro {4}."
+"EFFECT_NO_STRUCTURES","You can't have structures","Vous ne pouvez pas avoir de structures","你无法建造构筑物","他の建造物は取得不可","구조를 보유할 수 없음","你無法擁有結構物","Нельзя разместить постройки","Nie możesz mieć budowli","No puedes tener estructuras","Você não pode ter nenhuma estrutura.","Du kannst keine Konstruktionen haben","Yapı kuramazsın","Non puoi avere strutture."
+"ITEM_BUILDER_TURRET","Builder's Turret","Tourelle du Constructeur","建造者的炮塔","建築家の砲塔","건축업자의 포탑","建築工人的砲台","Турель Строителя","Wieżyczka Budowniczego","Torreta del Constructor","Torreta do Construtor","Baumeister-Geschütz","İnşaatçının Tareti","Torretta del Costruttore"
+"ITEM_BUILDER_TURRET_0","Builder's Turret","Tourelle du Constructeur","建造者的炮塔","建築家の砲塔","건축업자의 포탑","建築工人的砲台","Турель Строителя","Wieżyczka Budowniczego","Torreta del Constructor","Torreta do Construtor","Baumeister-Geschütz","İnşaatçının Tareti","Torretta del Costruttore"
+"EFFECT_BUILDER_TURRET_ALT","This turret's stats are derived from your best ranged weapon's base stats and scale with {4} ({5})","Les statistiques de cette tourelle sont dérivées des statistiques de base de votre meilleure arme à distance et se basent sur {4} ({5})","此炮塔的属性基于你最佳远程武器的基础属性，并随着{4}（{5}）升级","所持している中で最も強力な遠距離武器（{5}）の性能をコピーする（ダメージは {4}を参照する）","이 포탑의 스탯은 당신의 최고 원거리 무기의 기본 스탯에서 비롯되며 {4} ({5})에 비례해 증가합니다","此砲塔的屬性基於你最佳遠程武器的基礎屬性，並隨著{4}（{5}）變強","Параметры этой турели основаны на базовых характеристиках вашего лучшего дальнобойного оружия. На них влияет {4} ({5})","Statystyki tej wieżyczki pochodzą z bazowych statystyk twojej najlepszej broni dystansowej i skalują się z {4} ({5})","Las estadísticas de esta torreta se derivan de las estadísticas base de tu mejor arma a distancia y se potencian con {4} ({5})","As estatísticas desta torreta são derivadas das estatísticas base da sua melhor arma de longo alcance e escalam com {4} ({5})","Die Werte dieses Geschützes sind von den Basiswerten deiner besten Fernkampfwaffe abgeleitet und skalieren mit {4} ({5})","Bu tarete, en iyi menzilli silahının temel istatistiklerini alır ve {4} ({5}) ile güçlenir","Le statistiche di questa torretta sono derivate dalle statistiche base della tua migliore arma a distanza e si basano su {4} ({5})"
+"EFFECT_BUILDER_TURRET_UPGRADE","{0} {1} when you reach {2} {3} [{4}/{5}]","{0} {1} lorsque vous atteignez {2} {3} [{4}/{5}]","达到{2} {3} 时{0} {1} [{4}/{5}]","{3}が{2}に達すると{1} {0} [{4}/{5}]","{2} {3}에 도달하면 {0} {1} [{4}/{5}]","達到{2} {3} 時{0} {1} [{4}/{5}]","{0} {1}, когда достигается {2} {3} [{4}/{5}]","{0} {1} gdy osiągniesz {2} {3} [{4}/{5}]","{0} {1} cuando alcances {2} {3} [{4}/{5}]","{0} {1} quando alcançar {2} {3} [{4}/{5}]","{0} {1} wenn du {2} {3} erreichst [{4}/{5}]","{0} {1} {2} {3} ulaştığında [{4}/{5}]","{0} {1} quando raggiungi {2} {3} [{4}/{5}]."
+"BG_SHIPWRECK","Shipwreck","Épave","沉船","難破船","난파선","沉船","Кораблекрушение","Wrak","Barco Hundido","Naufrágio","Schiffswrack","Enkaz","Relitto"
+"BG_ABYSS","Abyss","Abysses","深渊","深淵","심해","深淵","Бездна","Otchłań","Abismo","Abismo","Abyssus","Uçurum","Abisso"
+"ACTIVATIONS","Activations: {0}","Activations : {0}","激活次数：{0}","発動回数：{0}","발동 횟수: {0}","觸發次數：{0}","Срабатывания: {0}","Aktywacje: {0}","Activaciones: {0}","Ativações: {0}","Aktivierungen: {0}","Etkinleştirmeler: {0}","Attivazioni: {0}"
+"LEVELS_AFFECTED","Levels affected: {0}","Niveaux affectés : {0}","受影响的等级：{0}","影響を受けたレベル：{0}","영향을 받은 레벨: {0}","受影響的等級：{0}","Затронутые уровни: {0}","Poziomy dotknięte: {0}","Niveles afectados: {0}","Níveis afetados: {0}","Betroffene Level: {0}","Etkilenen seviyeler: {0}","Livelli influenzati: {0}"
+"ITEMS_FOUND","Items found: {0}","Objets trouvés : {0}","找到的道具：{0}","発見したアイテム数：{0}","발견된 아이템: {0}","找到的道具：{0}","Найдено предметов: {0}","Znalezione przedmioty: {0}","Objetos encontrados: {0}","Itens encontrados: {0}","Gefundene Items: {0}","Bulunan eşyalar: {0}","Oggetti trovati: {0}"
+"KEYART_ABYSSAL_TERRORS","Abyssal Terrors","Abyssal Terrors","深海魔怪","Abyssal Terrors","심해 공포","深海魔怪","Abyssal Terrors","Abyssal Terrors","Terrores abisales","Terrores Abissais","Schrecken der Tiefe","Abyssal Terrors","Terrori degli abissi"
+"ANEMONE_NAME","Anemone","Anémone","海葵","アネモネ","말미잘","海葵","Актиния","Anemon","Anémona","Anêmona","Anemone","Anemon","Anemone"
+"ANEMONE_BEHAVIOUR_DESCRIPTION","Wanders slowly and creates a circle of projectiles around that move towards itself. ","Se déplace lentement et fait apparaître un cercle de projectiles qui se rapproche d'elle-même. ","缓慢游荡，生成一圈向自身移动的投射物。","ゆっくりと動き回り、自身に向かって飛ぶ弾を周囲に出現させる。 ","천천히 돌아다니며 주위에 자신을 향해 이동하는 투사체의 원을 생성합니다. ","緩慢遊蕩，生成一圈向自身移動的投射物。","Медленно блуждает и создает рядом кольца снарядов, которые сходятся к центру. ","Wędruje powoli i tworzy wokół kręgi pocisków, które zbliżają się ku sobie. ","Se desplaza despacio y crea un círculo de proyectiles a su alrededor que se mueven hacia ella. ","Vaga lentamente e cria um círculo de projéteis que se move em direção a si. ","Wandert langsam und erschafft einen Projektilkreis, der immer kleiner wird. ","Yavaşça dolaşır ve etrafında kendisine doğru hareket eden bir mermi çemberi oluşturur. ","Vaga lentamente e crea un cerchio di proiettili attorno a sé che si muovono verso di sé. "
+"ANGLERFISH_NAME","Anglerfish","Baudroie","安康鱼","アングラーフィッシュ","아귀","安康魚","Удильщик","Żabnica","Rape abisal","Peixe-pescador","Angelfisch","Fener Balığı","Rana pescatrice"
+"ANGLERFISH_BEHAVIOUR_DESCRIPTION","Wanders slowly around until a player comes close, then will chase it charging up to 3 times before briefly stopping and charge again.","Se déplace lentement jusqu'à ce qu'un joueur s'approche. Elle le pourchasse alors et le charge jusqu'à 3 fois avant de s'arrêter brièvement et de charger à nouveau.","缓慢游荡，直到玩家靠近，此时会追逐玩家、最多冲刺3次，短暂停下后再继续冲刺。","ゆっくりと動き回る。プレイヤーが近づくと追いかけ、最大3回突進する。突進後は短時間停止し、ふたたび突進する。","천천히 돌아다니다가 플레이어가 가까이 다가오면 최대 3번까지 돌진하며 추적합니다. 이후 잠시 멈췄다가 다시 돌진합니다.","緩慢遊蕩，直到玩家靠近，此時會追逐玩家、最多衝刺3次，短暫停下後再繼續衝刺。","Медленно блуждает, пока рядом не окажется игрок. После этого преследует игрока и бросается до 3 раз, затем ненадолго останавливается и бросается снова.","Wędruje powoli wkoło, póki postać gracza się nie zbliży. Kiedy to nastąpi, zacznie ją gonić i przypuści szarżę do 3 razy, po czym zatrzyma się na chwilę i ponownie przypuści szarżę.","Se desplaza despacio hasta que un jugador se le acerca, momento en el que lo persigue y lo embiste hasta 3 veces antes de parar un momento y volver a embestirlo.","Vaga lentamente ao redor até que o jogador se aproxime, então, o perseguirá e avançará até 3 vezes antes de parar por um momento e avançar mais uma vez.","Wandert langsam umher, bis sich ein Spieler nähert, verfolgt diesen dann und stürmt bis zu 3 Mal auf ihn zu, bis er kurz stoppt und erneut heranstürmt.","Bir oyuncu ona yaklaşana kadar yavaşça dolaşır, ardından oyuncuyu kovalayarak kısa bir süre durmadan önce en fazla 3 defa hücum eder ve tekrar hücuma başlar.","Vaga lentamente finché un giocatore non si avvicina, poi lo insegue caricando fino a 3 volte, si ferma per un istante e carica di nuovo."
+"BAT_NAME","Bat","Chauve-souris","蝙蝠","コウモリ","박쥐","蝙蝠","Летучая мышь","Nietoperz","Murciélago","Morcego","Fledermaus","Yarasa","Pipistrello"
+"BAT_BEHAVIOUR_DESCRIPTION","Mutation 0:
+Closes in on the player and spawns a circle of projectiles around them. These projectiles move toward the player at varying speeds before disappearing.
+
+Mutation 1 (60%HP/25 sec):
+Closes in on the player and fires a twisting circle of projectiles from itself toward the player.","Mutation 0 :
+S'approche du joueur et fait apparaître un cercle de projectiles autour de lui. Ces projectiles se déplacent vers le joueur à diverses vitesses avant de disparaître.
+
+Mutation 1 (60 % de PV/25 s) :
+S'approche du joueur et tire un cercle tourbillonnant de projectiles partant d'elle-même vers le joueur.","异变0：
+接近玩家，在其周围生成一圈投射物。这些投射物会以不同速度向玩家移动直到消失。
+
+异变1 （60%生命/25秒）：
+接近玩家，并从自身位置发射一圈扭曲的投射物飞向玩家。","変異0：
+プレイヤーに近づき、プレイヤーの周囲に弾を円状に発生させる。各弾はそれぞれ異なる速度でプレイヤーに向かい、消滅する。
+
+変異1（HP60%/25秒）：
+プレイヤーに近づき、自身からプレイヤーに向けてねじれた円状に弾を発射する。","돌연변이 0:
+플레이어에게 접근하고 플레이어 주위에 투사체의 원을 생성합니다. 이들 투사체는 각기 다른 속도로 플레이어를 향해 이동하다가 사라집니다.
+
+돌연변이 1 (60%HP/25초):
+플레이어에게 접근하고, 자신으로부터 플레이어를 향해 빙빙 돌며 이동하는 투사체의 원을 발사합니다.","異變0：
+接近玩家，在其周圍生成一圈投射物。這些投射物會以不同速度向玩家移動直到消失。
+
+異變1 （60%生命/25秒）：
+接近玩家，並從自身位置發射一圈扭曲的投射物飛向玩家。","Мутация 0:
+Приближается к игроку и создает вокруг него кольцо из снарядов. Эти снаряды движутся к игроку с разной скоростью, а затем исчезают.
+
+Мутация 1 (60% ОЗ/25 с):
+Приближается к игроку и запускает от себя крутящееся кольцо снарядов в его сторону.","Mutacja 0:
+Zbliża się do gracza i przywołuje wokół niego krąg pocisków, które zbliżają się do postaci z różną prędkością, po czym znikają.
+
+Mutacja 1 (60% PZ / 25 sek.):
+Zbliża się do gracza i wystrzeliwuje w jego stronę wirujący krąg pocisków.","Mutación 0:
+Se abalanza sobre el jugador e invoca un círculo de proyectiles a su alrededor. Los proyectiles se dirigen hacia el jugador a velocidades distintas antes de desaparecer.
+
+Mutación 1 (60 % de PS / 25 s):
+Se abalanza sobre el jugador y dispara un círculo de proyectiles que se dirigen en zigzag hacia el jugador.","Mutação 0:
+Se aproxima do jogador e gera um círculo de projéteis ao redor dele. Esses projéteis movem-se em direção ao jogador com velocidades diversas antes de desaparecerem.
+
+Mutação 1 (60% de PV/25 seg):
+Cerca o jogador e dispara um círculo rodopiante de projéteis em direção ao jogador.","Mutation 0:
+Nähert sich dem Spieler und spawnt einen Projektilkreis um ihn herum. Diese Projektile bewegen sich unterschiedlich schnell auf den Spieler zu, bevor sie verschwinden.
+
+Mutation 1 (60% HP/25 Sek.):
+Nähert sich dem Spieler und feuert einen sich drehenden Projektilkreis auf den Spieler ab.","Mutasyon 0:
+Oyuncuya yaklaşır ve etrafında bir mermi çemberi ortaya çıkarır. Bu mermiler, kaybolmadan önce farklı hızlarda oyuncuya doğru hareket eder.
+
+Mutasyon 1 (%60 sağlık/25 saniye):
+Oyuncuya yaklaşır ve kendinden oyuncuya doğru kıvrımlı bir mermi çemberi fırlatır.","Mutazione 0:
+Si avvicina al giocatore e crea un cerchio di proiettili attorno a lui. Questi proiettili avanzano verso il giocatore a velocità variabili prima di scomparire.
+
+Mutazione 1 (60% PS/25 s):
+Si avvicina al giocatore e spara un cerchio serpeggiante di proiettili da sé verso il giocatore."
+"BLOBFISH_NAME","Blobfish","Blobfish","水滴鱼","ブロブフィッシュ","심해어","水滴魚","Рыба-капля","Blobfish","Pez borrón","Peixe Bolha","Blobfisch","Damla Balığı","Pesce blob"
+"BLOBFISH_BEHAVIOUR_DESCRIPTION","Slowly wanders around until killed, then spawns 4 Lampreys. If the last player weapon hit was done by a melee weapon, it spawns only 2 Lampreys.","Se déplace lentement. Quand il meurt, fait apparaître 4 lamproies. Si le dernier coup du joueur a été effectué avec une arme de mêlée, seules 2 lamproies apparaissent.","缓慢游荡直到被杀，然后生成4个七鳃鳗。如果玩家最后命中它的武器是近战，则只生成2个七鳃鳗。","ゆっくりと動き回り、倒されるとランプレイを4体出現させる。近接武器で倒すと、出現するランプレイは2体になる。","천천히 돌아다니다가 처치되면 칠성장어 4마리를 생성합니다. 플레이어가 마지막으로 사용하여 적중한 무기가 근접 무기이면, 칠성장어를 2마리만 생성합니다.","緩慢遊蕩直到被殺，然後生成4個七鰓鰻。如果玩家最後命中它的武器是近戰，則只生成2個七鰓鰻。","Медленно блуждает, пока не будет убита. После смерти порождает 4 миноги. Если последний удар игрок нанес оружием ближнего боя, то порождает только 2 миноги.","Wędruje powoli wkoło, a po śmierci przywołuje 4 minogi. Jeśli ostatnie trafienie gracza pochodziło od broni do walki wręcz, przywołuje tylko 2 minogi.","Se mueve despacio hasta que muere y, después, invoca 4 lampreas. Si el último golpe que le propina un jugador antes de morir es con un arma cuerpo a cuerpo, invoca solo 2 lampreas.","Vaga lentamente ao redor até ser eliminado, então gera 4 Lampreias. Se o último golpe do jogador for de uma arma corpo a corpo, gera apenas 2 Lampreias.","Wandert langsam umher, bis er getötet wird, spawnt dann 4 Neunaugen. Wenn der letzte Waffentreffer des Spielers durch eine Nahkampfwaffe erzeugt wurde, spawnt er nur 2 Neunaugen.","Öldürülene kadar yavaşça dolaşır ve öldüğünde 4 Taşemen ortaya çıkarır. Ancak oyuncunun yaptığı son vuruş bir yakın dövüş silahıyla yapılırsa yalnızca 2 Taşemen ortaya çıkarır.","Vaga lentamente finché non viene ucciso, poi crea 4 Lamprede. Se l'ultimo colpo del giocatore è stato sferrato con un'arma da mischia, crea solo 2 Lamprede."
+"CLAM_NAME","Clam","Palourde","蛤蜊","クラム","조개","蛤蜊","Устрица","Małż","Almeja","Amêijoa","Muschel","İstiridye","Vongola"
+"CLAM_BEHAVIOUR_DESCRIPTION","Runs away if the player is too close, Fires a slow projectile that may directly target the player or somewhere near.","S'éloigne si le joueur est trop près. Tire 1 projectile lent qui peut cibler directement le joueur ou quelqu'un à proximité.","太接近时逃离角色，发射一个可能瞄准玩家也可能瞄准玩家附近的缓慢投射物。","プレイヤーが近づくと逃げ、低速の弾を発射する。弾はプレイヤーかその近くに向かって飛ぶ。","플레이어가 너무 가까이에 있으면 반대쪽으로 달아나고, 플레이어 또는 그 근처를 직접 조준하는 느린 투사체를 발사합니다.","太接近時逃離角色，發射一個可能瞄準玩家也可能瞄準玩家附近的緩慢投射物。","Убегает, если игрок слишком близко. Стреляет медленными снарядами, которые могут быть нацелены напрямую в игрока или куда-то рядом.","Ucieka, jeśli gracz zanadto się zbliży. Wystrzeliwuje powolny pocisk wycelowany prosto w gracza lub w jego pobliże.","Huye si el jugador se acerca demasiado y dispara un proyectil lento que puede dirigirse hacia el jugador o un lugar cercano a él.","Foge se o jogador está muito perto, dispara um projétil lento que pode ter como alvo o jogador ou um local próximo.","Läuft weg, wenn der Spieler zu nahe kommt, feuert ein langsames Projektil ab, das den Spieler direkt oder in der Nähe anvisiert.","Oyuncu çok yaklaştığında kaçar. Oyuncuyu veya yakınındaki bir noktayı doğrudan hedef alabilen yavaş bir mermi fırlatır.","Scappa se il giocatore è troppo vicino, spara un proiettile lento che può essere diretto verso il giocatore o verso un punto nelle vicinanze."
+"COLOSSAL_SQUID_NAME","Colossal Squid","Pieuvre géante","巨乌贼","ダイオウホズキイカ","거대 오징어","巨烏賊","Гигантский кальмар","Wielka kałamarnica","Calamar colosal","Lula-colossal","Riesenkalamar","Dev Kalamar","Calamaro colossale"
+"COLOSSAL_SQUID_BEHAVIOUR_DESCRIPTION","Closes in on the player and fires two crossing spikes toward them.","S'approche du joueur et tire 2 piques à trajectoire croisée vers lui.","接近玩家，向玩家发射两个交叉的尖刺。","プレイヤーに近づき、2本のクロスするスパイクを発射して攻撃する。","플레이어에게 접근한 후 플레이어를 향해 교차하는 가시 2개를 발사합니다.","接近玩家，向玩家發射兩個交叉的尖刺。","Приближается к игроку и выпускает в его сторону два перекрещивающихся шипа.","Zbliża się do gracza i wystrzeliwuje w jego stronę dwa krzyżujące się szpikulce.","Se abalanza sobre el jugador y le dispara dos pinchos que se cruzan.","Cerca o jogador e dispara dois espinhos cruzados em direção a ele.","Nähert sich dem Spieler und feuert zwei sich kreuzende Stacheln auf ihn ab.","Oyuncuya yaklaşır ve ona doğru çapraz şekilde iki diken fırlatır.","Si avvicina al giocatore e spara due aculei incrociati verso di lui."
+"CRAB_NAME","Crab","Crabe","螃蟹","カニ","게","螃蟹","Краб","Krab","Cangrejo","Caranguejo","Krabbe","Yengeç","Granchio"
+"CRAB_BEHAVIOUR_DESCRIPTION","Closes in on the player and then fires a spike and moves backwards.","S'approche du joueur et tire 1 pique avant de reculer.","接近玩家，发射一根尖刺然后后退。","プレイヤーに近づき、スパイクを1本発射して後退する。","플레이어에게 접근한 후 가시를 발사하고 뒤로 물러납니다.","接近玩家，發射一根尖刺然後後退。","Приближается к игроку, затем выстреливает шип и отходит назад.","Zbliża się do gracza, wystrzeliwuje w jego stronę szpikulec, po czym się cofa.","Se abalanza sobre el jugador y, luego, dispara un pincho y retrocede.","Cerca o jogador, dispara um espinho e então recua.","Nähert sich dem Spieler, feuert dann einen Stachel ab und bewegt sich zurück.","Oyuncuya yaklaşır, ardından bir diken fırlatıp geriye çekilir.","Si avvicina al giocatore, poi spara un aculeo e indietreggia."
+"DEAD_WHALE_NAME","Dead Whale","Baleine morte","尸变鲸鱼","シニクジラ","죽은 고래","屍變鯨魚","Мертвый кит","Martwy wieloryb","Ballena muerta","Baleia Morta","Toter Wal","Ölü Balina","Balena morta"
+"DEAD_WHALE_BEHAVIOUR_DESCRIPTION","Mutation 0:
+Moves randomly and fires 3 waves of 6 projectiles toward the player at regular intervals.
+
+Mutation 1 (70%HP/20 sec):
+Chases the player, regularly charging toward them while firing numerous projectiles at varying speeds in all directions.
+
+Mutation 2 (40%HP/45 sec):
+Chases the player more frequently, charging more often while spawning a large circle of projectiles around itself.","Mutation 0 :
+Se déplace aléatoirement et tire 3 vagues de 6 projectiles sur le joueur à intervalles réguliers.
+
+Mutation 1 (70 % de PV/20 s) :
+Pourchasse le joueur et le charge régulièrement en tirant de nombreux projectiles à vitesses variables dans toutes les directions.
+
+Mutation 2 (40 % de PV/45 s) :
+Pourchasse le joueur plus fréquemment et le charge souvent en faisant apparaître un grand cercle de projectiles autour d'elle-même.","异变0：
+随机移动，周期性向玩家发射3波6发投射物。
+
+异变1 （70%生命/20秒）：
+追逐玩家，周期性向玩家冲刺，同时向所有方向发射多发速度各异的投射物。
+
+异变2 （40%生命/45秒）：
+更频繁地追逐玩家，更频繁地冲刺并在自身周围生成一大圈投射物。","変異0：
+ランダムに移動し、弾6個の攻撃を3回、プレイヤーに向けて一定間隔で発射する。
+
+変異1（HP70%/20秒）：
+プレイヤーを追い、それぞれ異なる速度で飛ぶ多数の弾を全方位に発射しつつ、一定間隔でプレイヤーに突進する。
+
+変異2（HP40%/45）：
+プレイヤーを執拗に追い、周囲に大きな円状に弾を発生させつつ、より高頻度でプレイヤーに突進する。","돌연변이 0:
+무작위로 이동하며 일정 간격으로 플레이어를 향해 6발의 투사체를 3번 발사합니다.
+
+돌연변이 1 (70%HP/20초):
+플레이어를 추적하고, 주기적으로 플레이어를 향해 돌진하며 모든 방향으로 속도가 다른 다수의 투사체를 발사합니다.
+
+돌연변이 2 (40%HP/45초):
+플레이어를 향해 더 자주 추적하고, 더 빈번하게 돌진하며, 자신의 주위에 투사체의 대형 원을 생성합니다.","異變0：
+隨機移動，週期性向玩家發射3波6發投射物。
+
+異變1 （70%生命/20秒）：
+追逐玩家，週期性向玩家衝刺，同時向所有方向發射多發速度各異的投射物。
+
+異變2 （40%生命/45秒）：
+更頻繁地追逐玩家，更頻繁地衝刺並在自身周圍生成一大圈投射物。","Мутация 0:
+Движется хаотично и через равные промежутки времени выпускает в сторону игрока 3 волны из 6 снарядов.
+
+Мутация 1 (70% ОЗ/20 с):
+Преследует игрока, регулярно бросаясь на него и затем выпуская многочисленные снаряды с разной скоростью во всех направлениях.
+
+Мутация 2 (40% ОЗ/45 с):
+Преследует игрока настойчивее и бросается чаще, при этом создавая вокруг себя большое кольцо снарядов.","Mutacja 0:
+Porusza się losowo i w regularnych odstępach czasu wystrzeliwuje w stronę gracza 3 fale 6 pocisków.
+
+Mutacja 1 (70% PZ / 20 sek.):
+Goni postać i regularnie przypuszcza szarżę, podczas której wystrzeliwuje we wszystkie strony liczne pociski o różnej prędkości.
+
+Mutacja 2 (40% PZ / 45 sek.):
+Częściej goni postać, częściej szarżuje i przywołuje wokół siebie duży krąg pocisków.","Mutación 0:
+Se desplaza de forma aleatoria y dispara 3 rondas de 6 proyectiles hacia el jugador en intervalos regulares.
+
+Mutación 1 (70 % de PS / 20 s):
+Persigue al jugador y lo embiste con frecuencia mientras dispara varios proyectiles con distintas velocidades en todas las direcciones.
+
+Mutación 2 (40 % de PS / 45 s):
+Persigue al jugador y lo embiste con aún más frecuencia, a la vez que invoca un gran círculo de proyectiles a su alrededor.","Mutação 0:
+Move-se de forma aleatória e dispara 3 ondas de 6 projéteis em direção ao jogador em intervalos regulares.
+
+Mutação 1 (70% de PV/20 seg):
+Persegue o jogador, avançando regularmente em direção a ele enquanto dispara vários projéteis, com diferentes velocidades, em todas as direções.
+
+Mutação 2 (40% de PV/45 seg):
+Persegue e avança em direção ao jogador com mais frequência, gerando um grande círculo de projéteis ao redor de si.","Mutation 0:
+Bewegt sich zufällig und feuert 3 Wellen mit 6 Projektilen auf den Spieler in regelmäßigen Intervallen ab.
+
+Mutation 1 (70% HP/20 Sek.):
+Verfolgt den Spieler, stürmt regelmäßig auf ihn zu und feuert dabei mehrere Projektile in unterschiedlichem Tempo in alle Richtungen ab.
+
+Mutation 2 (40% HP/45 Sek.):
+Verfolgt den Spieler häufiger, stürmt häufiger an und spawnt dabei einen großen Projektilkreis um sich selbst.","Mutasyon 0:
+Rastgele hareket eder ve düzenli aralıklarla oyuncuya doğru, her biri 6 mermiden oluşan 3 dalga hâlinde ateş açar.
+
+Mutasyon 1 (%70 sağlık/20 saniye):
+Oyuncuyu kovalar ve her yöne farklı hızlarda çok sayıda mermi ateşlerken düzenli olarak oyuncuya doğru hücum eder.
+
+Mutasyon 2 (%40 sağlık/45 saniye):
+Oyuncuyu daha sık kovalar ve daha sık hücum ederken etrafında geniş bir mermi çemberi ortaya çıkarır.","Mutazione 0:
+Si muove casualmente e spara 3 ondate di 6 proiettili ciascuna verso il giocatore a intervalli regolari.
+
+Mutazione 1 (70% PS/20 s):
+Insegue il giocatore e lo carica periodicamente, mentre spara diversi proiettili a velocità variabile in tutte le direzioni.
+
+Mutazione 2 (40% PS/45 s):
+Insegue il giocatore più spesso e lo carica più spesso, mentre crea un ampio cerchio di proiettili attorno a sé."
+"DIPLOCAULUS_NAME","Diplocaulus","Diplocaulus","笠头螈","ディプロカウルス","디플로카울루스","笠頭螈","Диплокаулус","Diplocaulus","Diplocaulus","Diplocaulus","Diplocaulus","Diplocaulus","Diplocaulus"
+"DIPLOCAULUS_BEHAVIOUR_DESCRIPTION","Slowly wanders the map leaving behind slasher eggs every few seconds.","Se déplace lentement en pondant des œufs de frappeur toutes les 2/3 s.","在地图上缓慢游荡，每几秒钟留下一个斩击者之卵。","マップ内をゆっくりと動き回り、数秒ごとにスラッシャーエッグをドロップする。","천천히 맵을 돌아다니며 몇 초마다 난도질꾼 알을 낳습니다.","在地圖上緩慢遊蕩，每幾秒鐘留下一個斬擊者之卵。","Медленно блуждает по карте и каждые несколько секунд оставляет кладку яиц рубильщика.","Powoli wędruje po całej mapie i co kilka sekund pozostawia jaja siekaczy.","Se mueve despacio por el mapa dejando tras de sí un rastro de huevos de acuchillador cada pocos segundos.","Vaga lentamente pelo mapa deixando Ovos de Retalhador a cada poucos segundos.","Bewegt sich langsam auf der Karte und lässt alle paar Sekunden Schläger-Eier fallen.","Haritada yavaşça dolaşır ve her birkaç saniyede bir arkasında Kesici Yumurtalar bırakır.","Vaga lentamente per la mappa lasciando dietro di sé uova di Squartatore ogni pochi secondi."
+"DRAGONFISH_NAME","Dragonfish","Poisson-dragon","巨口鱼","ドラゴンフィッシュ","용물고기","巨口魚","Рыба-дракон","Hydra","Pez dragón","Peixe-dragão","Drachenfisch","Ejderha Balığı","Pesce drago"
+"DRAGONFISH_BEHAVIOUR_DESCRIPTION","Shoots lines of bullets in the players direction.","Tire une rangée de balles en direction du joueur.","向玩家方向发射长串子弹。","プレイヤーの方向に飛ぶ弾を線状に発射する。","플레이어를 향해 직선으로 투사체를 발사합니다.","向玩家方向發射長串子彈。","Выстреливает очередями снарядов в игрока.","Wystrzeliwuje w stronę gracza strumienie pocisków.","Dispara hileras de proyectiles hacia el jugador.","Dispara linhas de projéteis na direção do jogador.","Schießt Reihen von Kugeln in die Richtung des Spielers.","Oyuncuya doğru mermi hatları ateşler.","Spara file di proiettili nella direzione del giocatore."
+"EEL_NAME","Eel","Anguille","鳗鱼","ウナギ","장어","鰻魚","Угорь","Węgorz","Anguila","Enguia","Aal","Yılan Balığı","Anguilla"
+"EEL_BEHAVIOUR_DESCRIPTION","Mutation 0:
+Chases the player, firing a stream of projectiles.
+
+Mutation 1 (70%HP/25 sec):
+Moves randomly and spawns a spiral of projectiles centered on the player, which then move toward them.
+
+Mutation 2 (40%HP/55 sec):
+Chases the player while continuing to spawn spirals of projectiles and having four lines of projectiles orbiting around it.","Mutation 0 :
+Pourchasse le joueur en tirant une rafale de projectiles.
+
+Mutation 1 (70 % de PV/25 s) :
+Se déplace aléatoirement et fait apparaître une spirale de projectiles autour du joueur qui se dirigent ensuite vers lui.
+
+Mutation 2 (40 % de PV/55 s) :
+Pourchasse le joueur tout en continuant à faire apparaître des spirales de projectiles et en ayant 4 rangées de projectiles autour d'elle.","异变0：
+追逐玩家，发射长串投射物。
+
+异变1 （70%生命/25秒）：
+随机移动，以玩家为中心生成螺旋状投射物向玩家飞去。
+
+异变2 （40%生命/55秒）：
+追逐玩家并继续生成螺旋状投射物，自身周围有四条投射物环绕旋转。","変異0：
+プレイヤーを追い、弾を線状に発射する。
+
+変異1（HP70%/25秒）：
+ランダムに移動し、プレイヤーが中心となるらせん状に弾を発射する。弾はプレイヤーに向かって飛ぶ。
+
+変異2（HP40%/55秒）：
+プレイヤーを追い、弾をらせん状に発生させ、自身の周囲に4本の線状に弾を発生させる。","돌연변이 0:
+플레이어를 추적하며 연속으로 투사체를 발사합니다.
+
+돌연변이 1 (70%HP/25초):
+무작위로 움직이며 플레이어를 중심으로 나선형 투사체를 생성합니다. 투사체는 플레이어를 향해 이동합니다.
+
+돌연변이 2 (40%HP/55초):
+플레이어를 추적하며 계속해서 나선형으로 투사체를 생성하고, 그 주위로 투사체의 선 4개를 공전시킵니다.","異變0：
+追逐玩家，發射長串投射物。
+
+異變1 （70%生命/25秒）：
+隨機移動，以玩家為中心生成螺旋狀投射物向玩家飛去。
+
+異變2 （40%生命/55秒）：
+追逐玩家並繼續生成螺旋狀投射物，自身周圍有四條投射物環繞旋轉。","Мутация 0:
+Преследует игрока, выпуская поток снарядов.
+
+Мутация 1 (70% ОЗ/25 с):
+Движется хаотично. Создает спираль снарядов с центром на игроке, которые потом сходятся к нему.
+
+Мутация 2 (40% ОЗ/55 с):
+Преследует игрока, продолжая создавать спирали снарядов. Вокруг него самого вращается четыре линии снарядов.","Mutacja 0:
+Goni postać, wystrzeliwuje strumienie pocisków.
+
+Mutacja 1 (70% PZ / 25 sek.):
+Porusza się losowo i przywołuje wokół gracza spirale pocisków, które następnie ruszają w stronę postaci.
+
+Mutacja 2 (40% PZ / 55 sek.):
+Goni postać i cały czas przywołuje spirale pocisków. Wokół potwora orbitują cztery linie pocisków.","Mutación 0
+Persigue al jugador y le dispara una ráfaga de proyectiles.
+
+Mutación 1 (70 % de PS / 25 s):
+Se desplaza de forma aleatoria e invoca una espiral de proyectiles que se centra en el jugador y se mueve hacia él.
+
+Mutación 2 (40 % de PS / 55 s):
+Persigue al jugador con cuatro hileras de proyectiles orbitando a su alrededor mientras invoca más espirales de proyectiles.","Mutação 0:
+Persegue o jogador, disparando uma sequência de projéteis.
+
+Mutação 1 (70% de PV/25 seg):
+Move-se aleatoriamente e gera uma espiral de projéteis centrada no jogador, que então se move em direção a ele.
+
+Mutação 2 (40%de PV/55 seg):
+Persegue o jogador enquanto continua a gerar espirais de projéteis, com quatro linhas de projéteis orbitando ao redor.","Mutation 0:
+Verfolgt den Spieler, feuert eine Projektilsalve ab.
+
+Mutation 1 (70% HP/25 Sek.):
+Bewegt sich zufällig und spawnt eine Projektilspirale um den Spieler herum, die sich dann auf ihn zubewegt.
+
+Mutation 2 (40% HP/55 Sek.):
+Verfolgt den Spieler und spawnt dabei fortlaufend Projektilspiralen, sodass vier Projektilreihen um ihn herumkreisen.","Mutasyon 0:
+Oyuncuyu kovalar ve bir dizi mermi ateşler.
+
+Mutasyon 1 (%70 sağlık/25 saniye):
+Rastgele hareket eder ve oyuncunun bulunduğu konumu merkez alan bir mermi spirali ortaya çıkarır. Bu mermiler oyuncuya doğru hareket eder.
+
+Mutasyon 2 (%40 sağlık/55 saniye):
+Oyuncuyu kovalarken mermi spiralleri oluşturmaya devam eder ve yörüngesinde dönen dört mermi hattı bulunur.","Mutazione 0:
+Insegue il giocatore, sparando un getto di proiettili.
+
+Mutazione 1 (70% PS/25 s):
+Si muove casualmente e crea una spirale di proiettili centrata sul giocatore, che poi avanzano verso di lui.
+
+Mutazione 2 (40% PS/55 s):
+Insegue il giocatore continuando a creare spirali di proiettili, mentre quattro file di proiettili che gli orbitano attorno."
+"EVIL_MOB_SWIMMER_NAME","Gobbler","Glouton","吞吞怪","ゴブラー","포식자","吞吞怪","Пожиратель","Pożeracz","Glotón","Glutão","Schlinger","Obur","Divoratore"
+"EVIL_MOB_SWIMMER_BEHAVIOUR_DESCRIPTION","Target materials to eat them, dealing damage on touch. Eating makes it grow.
+Has 3% chance to spawn 10 seconds into a wave.
+
+Mutation 0:
+Fast but fragile. Killing it makes it drop all the materials it ate.
+
+Mutation 1:
+Loses speed but gains max HP. Killing it makes it drop twice the amount of materials it ate.
+
+Mutation 2:
+Loses more speed but gains even more max HP. Killing it makes it drop three times the amount of materials it ate.","Cherche à dévorer les matériaux et inflige des dégâts au contact. Grossit en mangeant des matériaux.
+A 3 % de chances d'apparaître pendant 10 s lors d'une vague.
+
+Mutation 0 :
+Rapide, mais fragile. Lâche les matériaux dévorés quand il meurt.
+
+Mutation 1 :
+Ralentit mais augmente ses PV max. Lâche 2x les matériaux dévorés quand il meurt.
+
+Mutation 2 :
+Ralentit davantage, mais augmente davantage ses PV max. Lâche 3x les matériaux dévorés quand il meurt.","瞄准并吞噬材料，接触时造成伤害。吞噬材料时会变大。
+在每一波敌袭开始的10秒时有3%几率生成。
+
+异变0:
+迅速但脆弱。击杀时会掉落吞噬的所有材料。
+
+异变1:
+失去速度但获得最大生命。击杀时会掉落2倍吞噬的所有材料。
+
+异变2:
+失去更多速度但获得更多最大生命。击杀时会掉落3倍吞噬的所有材料。","マテリアルを食べて成長し、体当たりでダメージを与える。
+ウェーブ開始時に3%の確率で10秒間出現する。
+
+変異0：
+素早いが弱い。倒すとそのゴブラーが食べたマテリアルがドロップする。
+
+変異1：
+移動速度が低下するが、最大HPが上昇する。倒すとそのゴブラーが食べたマテリアルが2倍の量でドロップする。
+
+変異2：
+移動速度がさらに低下するが、最大HPがさらに上昇する。倒すとそのゴブラーが食べたマテリアルが3倍の量でドロップする。","재료를 대상으로 지정하여 먹고, 접촉 시 대미지를 가합니다. 재료를 먹으면 커집니다.
+웨이브가 시작되고 10초 후 3% 확률로 생성됩니다.
+
+돌연변이 0:
+빠르지만 약합니다. 처치하면 먹은 재료가 모두 떨어집니다.
+
+돌연변이 1:
+속도가 감소하지만 최대 HP가 증가합니다. 처치하면 먹은 재료가 2배로 떨어집니다.
+
+돌연변이 2:
+속도가 더 감소하지만 최대 HP가 더 증가합니다. 처치하면 먹은 재료가 3배로 떨어집니다.","瞄準並吞噬材料，接觸時造成傷害。吞噬材料時會變大。
+在每一波敵襲開始的10秒時有3%機率生成。
+
+異變0:
+迅速但脆弱。擊殺時會掉落吞噬的所有材料。
+
+異變1:
+失去速度但獲得最大生命。擊殺時會掉落2倍吞噬的所有材料。
+
+異變2:
+失去更多速度但獲得更多最大生命。擊殺時會掉落3倍吞噬的所有材料。","Нацеливается на материалы и съедает их, нанося урон при касании. Растет, когда питается.
+С вероятностью 3% может появиться через 10 с после начала волны.
+
+Мутация 0:
+Быстрый, но хрупкий. Если его убить, выпадают все съеденные материалы.
+
+Мутация 1:
+Теряет скорость, но макс. ОЗ вырастают. Если его убить, выпадает в два раза больше материалов, чем он съел.
+
+Мутация 2:
+Теряет еще больше скорости, но макс. ОЗ вырастают еще сильнее. Если его убить, выпадает в три раза больше материалов, чем он съел.","Pożera materiały, zadaje obrażenia przy dotknięciu. Po zjedzeniu czegoś rośnie.
+Ma 3% szansy na przywołanie na 10 sekund fali.
+
+Mutacja 0:
+Szybki, ale delikatny. Po zabicia upuszcza wszystkie pożarte materiały.
+
+Mutacja 1:
+Porusza się wolniej, ale ma więcej maks. PZ. Po zabiciu upuszcza dwa razy więcej materiałów, niż pożarł.
+
+Mutacja 2:
+Porusza się jeszcze wolniej, ale ma jeszcze więcej maks. PZ. Po zabiciu upuszcza trzy razy więcej materiałów, niż pożarł.","Tiene como objetivo comerse los materiales e inflige daño por contacto. Crece cuando come.
+Tiene un 3 % de probabilidades de aparecer en una oleada durante 10 segundos.
+
+Mutación 0:
+Rápido pero débil. Al eliminarlo, se le caen todos los materiales que se ha comido.
+
+Mutación 1:
+Pierde velocidad, pero su salud máxima aumenta. Al eliminarlo, deja caer el doble de materiales de los que se ha comido.
+
+Mutación 2:
+Pierde más velocidad, pero su salud máxima aumenta aún más. Al eliminarlo, deja caer el triple de materiales de los que se ha comido.","Come materiais, causando dano ao contato. Cresce quando come.
+A cada 10 segundos, tem 3% de chance de ser gerado na onda.
+
+Mutação 0:
+Rápido, mas frágil. Eliminá-lo faz com que deixe todos os materiais comidos.
+
+Mutação 1:
+Perde velocidade, mas ganha PV máximo. Eliminá-lo faz com que deixe o dobro de materiais comidos.
+
+Mutação 2:
+Perde mais velocidade, mas ganha ainda mais PV máximo. Eliminá-lo faz com que deixe o triplo de materiais comidos.","Nimmt Materialien ins Ziel, um sie zu fressen, verursacht Schaden bei Berührung. Durch Fressen wächst er.
+Hat 3% Chance, 10 Sekunden nach Beginn einer Welle zu spawnen.
+
+Mutation 0:
+Schnell, aber anfällig. Durch Töten lässt er alle verschlungenen Materialien fallen.
+
+Mutation 1:
+Verliert Tempo, aber erhält max. HP. Durch Töten lässt er die doppelte Menge der verschlungenen Materialien fallen.
+
+Mutation 2:
+Verliert noch mehr Tempo, erhält aber noch mehr max. HP. Durch Töten lässt er die dreifache Menge der verschlungenen Materialien fallen.","Hedeflediği malzemeleri yiyerek temas ettiğinde hasar verir. Yedikçe büyür.
+Bir hücum başladıktan 10 saniye sonra %3 olasılıkla ortaya çıkar.
+
+Mutasyon 0:
+Hızlı ama dayanıksızdır. Öldürüldüğünde yediği tüm malzemeleri düşürür.
+
+Mutasyon 1:
+Hız kaybeder ancak maksimum sağlığı artar. Öldürüldüğünde yediği malzemelerin iki katını düşürür.
+
+Mutasyon 2:
+Daha da yavaşlar ancak maksimum sağlığı çok daha yüksektir. Öldürüldüğünde yediği malzemelerin üç katını düşürür.","Prende di mira i materiali per mangiarli, infliggendo danni al contatto. Mangiare lo fa crescere.
+Ha il 3% di probabilità di comparire dopo 10 secondi dall'inizio dell'ondata.
+
+Mutazione 0:
+Veloce ma fragile. Quando viene ucciso, rilascia tutti i materiali che ha mangiato.
+
+Mutazione 1:
+Perde velocità ma ottiene PS massimi. Quando viene ucciso, rilascia il doppio dei materiali che ha mangiato.
+
+Mutazione 2:
+Perde ancora più velocità ma ottiene ancora più PS massimi. Quando viene ucciso, rilascia il triplo dei materiali che ha mangiato."
+"GIANT_NAME","Giant","Géant","巨人","ジャイアント","거인","巨人","Великан","Olbrzym","Gigante","Gigante","Riese","Dev","Gigante"
+"GIANT_BEHAVIOUR_DESCRIPTION","Mutation 0:
+Chases the player, with 2 lines of projectiles slowly extending and orbiting around it.
+
+Mutation 1 (70%HP/25 sec):
+Chases the player, still with 2 lines of projectiles orbiting around it, and fires 2 parallel spikes toward the player.
+
+Mutation 2 (40%HP/55 sec):
+Chases the player, charging toward them regularly.","Mutation 0 :
+Pourchasse le joueur en tirant 2 rangées de projectiles qui s'éloignent lentement pour orbiter autour de lui.
+
+Mutation 1 (70 % de PV/25 s) :
+Pourchasse le joueur en tirant toujours 2 rangées de projectiles qui tournent autour de lui et tire 2 piques à trajectoire parallèle sur le joueur.
+
+Mutation 2 (40 % de PV/55 s) :
+Pourchasse le joueur en le chargeant régulièrement.","异变0：
+追逐玩家，缓慢延伸出2行投射物环绕自身旋转。
+
+异变1 （70%生命/25秒）：
+追逐玩家，依旧有2行投射物环绕自身旋转，同时向玩家发射2根平行的尖刺。
+
+异变2 （40%生命/55秒）：
+追逐玩家，周期性向玩家冲刺。","変異0：
+プレイヤーを追い、自身の周囲に弾を2本の線状に発生させる。弾はゆっくりと広がって飛ぶ。
+
+変異1（HP70%/25秒）：
+プレイヤーを追い、自身の周囲に弾を2本の線状に発生させる。平行に飛ぶ2本のスパイクをプレイヤーに向かって発射する。
+
+変異2（HP40%/55秒）：
+プレイヤーを追い、一定間隔でプレイヤーに突進する。","돌연변이 0:
+플레이어를 추적하고, 투사체의 선 2개가 서서히 뻗어 나와 주위를 공전합니다.
+
+돌연변이 1 (70%HP/25초):
+플레이어를 추적하고, 투사체의 선 2개가 주위를 공전하며, 가시 2개를 평행으로 플레이어를 향해 발사합니다.
+
+돌연변이 2 (40%HP/55초):
+플레이어를 추적하고, 주기적으로 플레이어를 향해 돌진합니다.","異變0：
+追逐玩家，緩慢延伸出2行投射物環繞自身旋轉。
+
+異變1 （70%生命/25秒）：
+追逐玩家，依舊有2行投射物環繞自身旋轉，同時向玩家發射2根平行的尖刺。
+
+異變2 （40%生命/55秒）：
+追逐玩家，週期性向玩家衝刺。","Мутация 0:
+Преследует игрока. От великана постепенно отходят две линии снарядов, которые вращаются вокруг него.
+
+Мутация 1 (70% ОЗ/25 с):
+Преследует игрока. Две линии снарядов все еще вращаются, вдобавок выпускает в игрока два параллельных шипа.
+
+Мутация 2 (40% ОЗ/55 с):
+Преследует игрока, регулярно на него бросаясь.","Mutacja 0:
+Goni postać. Wokół niego stopniowo rozwijają się i orbitują 2 linie pocisków.
+
+Mutacja 1 (70% PZ / 25 sek.):
+Goni postać, wciąż z orbitującymi wokół niego 2 liniami pocisków, a także wystrzeliwuje w stronę gracza równolegle 2 szpikulce.
+
+Mutacja 2 (40% PZ / 55 sek.):
+Goni postać i regularnie przypuszcza na nią szarżę.","Mutación 0
+Persigue al jugador con 2 hileras de proyectiles orbitando a su alrededor.
+
+Mutación 1 (70 % de PS / 25 s):
+Persigue al jugador con 2 hileras de proyectiles que orbitan a su alrededor y dispara 2 pinchos paralelos al jugador.
+
+Mutación 2 (40 % de PS / 55 s):
+Persigue al jugador y lo embiste con frecuencia.","Mutação 0:
+Persegue o jogador, com 2 linhas de projéteis se estendendo lentamente e orbitando ao de si.
+
+Mutação 1 (70%de PV/25 seg):
+Persegue o jogador, ainda com as 2 linhas de projéteis orbitando ao redor e dispara 2 espinhos paralelos na direção do jogador.
+
+Mutação 2 (40% de PV/55 seg):
+Persegue o jogador, avançando em direção a ele periodicamente.","Mutation 0:
+Verfolgt den Spieler, wobei 2 Projektilreihen sich langsam ausweiten und dann um ihn herumkreisen.
+
+Mutation 1 (70% HP/25 Sek.):
+Verfolgt den Spieler, nach wie vor mit 2 Projektilreihen, die ihn umkreisen, und feuert 2 Parallelstacheln auf den Spieler.
+
+Mutation 2 (40% HP/55 Sek.):
+Verfolgt den Spieler, stürmt regelmäßig auf ihn zu.","Mutasyon 0:
+Oyuncuyu kovalar, yörüngesinde yavaşça uzayan ve dönen 2 mermi hattı bulunur.
+
+Mutasyon 1 (%70 sağlık/25 saniye):
+Oyuncuyu kovalar, etrafında hâlâ 2 mermi hattı dönerken oyuncuya doğru 2 paralel diken ateşler.
+
+Mutasyon 2 (%40 sağlık/55 saniye):
+Oyuncuyu kovalar ve düzenli aralıklarla oyuncuya doğru hücum eder.","Mutazione 0:
+Insegue il giocatore, con 2 file di proiettili che si estendono lentamente e gli orbitano intorno.
+
+Mutazione 1 (70% PS/25 s):
+Insegue il giocatore, sempre con 2 file di proiettili che gli orbitano attorno, e spara 2 aculei paralleli verso il giocatore.
+
+Mutazione 2 (40% PS/55 s):
+Insegue il giocatore, caricando periodicamente."
+"GIANT_ISOPOD_NAME","Giant Isopod","Isopode géant","大王具足虫","オオフナムシ","거대 등각류","大王具足蟲","Гигантский изопод","Wielki równonóg","Isópodo gigante","Isópode Gigante","Riesenassel","Dev Tespih Böceği","Isopode gigante"
+"GIANT_ISOPOD_BEHAVIOUR_DESCRIPTION","Mutation 0:
+Chases the player and fires numerous projectiles forming a spiral around itself.
+
+Mutation 1 (60%HP/25 sec):
+Chases the player and fires a burst of projectiles toward them.","Mutation 0 :
+Pourchasse le joueur et tire de nombreux projectiles en spirale autour de lui-même.
+
+Mutation 1 (60 % de PV/25 s) :
+Pourchasse le joueur et tire une rafale de projectiles sur ce dernier.","异变0:
+追逐玩家并发射一系列投射物，在自身周围形成螺旋状弹幕。
+
+异变1 （60%生命/25秒）：
+追逐玩家并向玩家连射投射物。","変異0：
+プレイヤーを追い、多数の弾を発射する。弾は自身の周囲にらせん状に飛ぶ。
+
+変異1（HP60%/25秒）：
+プレイヤーを追い、プレイヤーに向けて弾幕を発射する。","돌연변이 0:
+플레이어를 추적하고, 다수의 투사체를 발사하여 자신의 주위에 나선을 형성합니다.
+
+돌연변이 1 (60%HP/25초):
+플레이어를 추적하고, 플레이어를 향해 연속으로 투사체를 발사합니다.","異變0:
+追逐玩家並發射一系列投射物，在自身周圍形成螺旋狀彈幕。
+
+異變1 （60%生命/25秒）：
+追逐玩家並向玩家連射投射物。","Мутация 0:
+Преследует игрока и выпускает множество снарядов по спирали вокруг себя.
+
+Мутация 1 (60% ОЗ/25 с):
+Преследует игрока и выпускает в его сторону залп снарядов.","Mutacja 0:
+Goni postać i wystrzeliwuje liczne pociski układające się w kształt spirali wokół potwora.
+
+Mutacja 1 (60% PZ / 25 sek.):
+Goni postać i wystrzeliwuje w jej stronę strumienie pocisków.","Mutación 0:
+Persigue al jugador y dispara varios proyectiles que forman una espiral a su alrededor.
+
+Mutación 1 (60 % de PS / 25 s):
+Persigue al jugador y le dispara una nube de proyectiles.","Mutação 0:
+Persegue o jogador e dispara vários projéteis que formam uma espiral ao redor de si.
+
+Mutação 1 (60% de PV/25 seg):
+Persegue o jogador e dispara uma rajada de projéteis em sua direção.","Mutation 0:
+Verfolgt den Spieler und feuert mehrere Projektile ab, die eine Spirale um ihn herum bilden.
+
+Mutation 1 (60% HP/25 Sek.):
+Verfolgt den Spieler und feuert einen Projektilschwall auf ihn ab.","Mutasyon 0:
+Oyuncuyu kovalar ve kendi etrafında spiral oluşturacak şekilde çok sayıda mermi fırlatır.
+
+Mutasyon 1 (%60 sağlık/25 saniye):
+Oyuncuyu kovalar ve oyuncuya doğru seri mermi atışı gerçekleştirir.","Mutazione 0:
+Insegue il giocatore e spara diversi proiettili che formano una spirale attorno a sé.
+
+Mutazione 1 (60% PS/25 s):
+Insegue il giocatore e spara una raffica di proiettili verso di lui."
+"GOBLIN_SHARK_NAME","Goblin Shark","Requin-gobelin","尖吻鲛","ゴブリンシャーク","마귀상어","尖吻鯊","Акула-гоблин","Mitsukurina","Tiburón duende","Tubarão-duende","Goblinhai","Goblin Köpek Balığı","Squalo goblin"
+"GOBLIN_SHARK_BEHAVIOUR_DESCRIPTION","Charges to where the player is moving.","Charge le joueur.","向玩家移动的方向冲刺。","プレイヤーが移動している場所に向けて突進する。","플레이어가 움직이는 방향으로 돌진합니다.","向玩家移動的方向衝刺。","Бросается в сторону игрока.","Szarżuje w stronę celu ruchu postaci.","Embiste en la dirección en la que se mueve el jugador.","Avança para onde o jogador está se movendo.","Stürmt auf den Spieler zu.","Oyuncunun hareket ettiği yere doğru hücum eder.","Carica verso il punto verso cui si muove il giocatore."
+"HERMIT_NAME","Hermit","Bernard l'ermite","隐者","ハーミット","소라게","隱者","Отшельник","Pustelnik","Ermitaño","Eremita","Einsiedler","Keşiş Yengeci","Paguro"
+"HERMIT_BEHAVIOUR_DESCRIPTION","Wanders around and heals enemies.","Se déplace en soignant les ennemis.","四处游荡，治疗敌人。","動き回り、敵を回復する。","이리저리 돌아다니며 적들을 치유합니다.","四處遊蕩，治療敵人。","Блуждает по карте и лечит врагов.","Wędruje wkoło i leczy wrogów.","Merodea por la zona y cura a los enemigos.","Vaga ao redor e cura inimigos.","Wandert umher und heilt Gegner.","Etrafta dolaşır ve düşmanları iyileştirir.","Vaga per la mappa e cura i nemici."
+"IMPALED_WORN_NAME","Impaled Worn","Ver empalé","被扎穿的蠕虫","クシザシワーム","꿰뚫린 벌레","被扎穿的蠕蟲","Пронзенный червь","Przebity robak","Gusano ensartado","Verme Empalado","Wurm am Spieß","Deşik Solucan","Verme infilzato"
+"IMPALED_WORN_BEHAVIOUR_DESCRIPTION","Mutation 0:
+Moves randomly and charges to a random position near the player, firing 3 consecutive spikes toward them.
+
+Mutation 1 (60%HP/25 sec):
+Chases the player and regularly charges toward them while firing numerous spikes in all directions from itself.","Mutation 0 :
+Se déplace aléatoirement et charge vers un emplacement aléatoire près du joueur en tirant vers lui 3 piques consécutives.
+
+Mutation 1 (60 % de PV/25 s) :
+Pourchasse le joueur et le charge régulièrement en tirant de nombreuses piques dans toutes les directions.","异变0：
+随机移动并向玩家附近的随机位置冲刺，同时向玩家发射3连尖刺。
+
+异变1 （60%生命/25秒）：
+追逐玩家并周期性向玩家冲刺，同时从自身向所有方向发射多发尖刺。","変異0：
+ランダムに移動する。プレイヤーの近くに無作為に突進し、プレイヤーに向かってスパイクを3連続で発射する。
+
+変異1（HP60%/25秒）：
+プレイヤーを追う。一定間隔でプレイヤーに突進し、自身から全方位に向けて多数のスパイクを発射する。","돌연변이 0:
+무작위로 움직이다가 플레이어 근처의 무작위 위치로 돌진하며, 플레이어를 향해 연속으로 가시 3개를 발사합니다.
+
+돌연변이 1 (60%HP/25초):
+플레이어를 추적하고 주기적으로 플레이어를 향해 돌진하면서 모든 방향으로 다수의 가시를 발사합니다.","異變0：
+隨機移動並向玩家附近的隨機位置衝刺，同時向玩家發射3連尖刺。
+
+異變1 （60%生命/25秒）：
+追逐玩家並週期性向玩家衝刺，同時從自身向所有方向發射多發尖刺。","Мутация 0:
+Движется хаотично, бросается в случайную точку рядом с игроком и выстреливает в его сторону тремя шипами один за другим.
+
+Мутация 1 (60% ОЗ/25 с):
+Преследует игрока и регулярно бросается на него, стреляя множеством шипов по все стороны вокруг себя.","Mutacja 0:
+Porusza się losowo, przypuszcza szarżę w losowe miejsce w pobliżu gracza i wystrzeliwuje w jego stronę jeden po drugim 3 szpikulce.
+
+Mutacja 1 (60% PZ / 25 sek.):
+Goni postać i regularnie przypuszcza w jej stronę szarżę, wystrzeliwując we wszystkie strony wokół liczne szpikulce.","Mutación 0:
+Se desplaza de forma aleatoria y embiste hacia un lugar aleatorio y cercano al jugador mientras dispara 3 pinchos consecutivos.
+
+Mutación 1 (60 % de PS / 25 s):
+Persigue al jugador y, con frecuencia, lo embiste mientras dispara varios pinchos en todas las direcciones.","Mutação 0:
+Move-se aleatoriamente e avança para uma posição aleatória próxima ao jogador, disparando 3 espinhos consecutivos em direção a ele.
+
+Mutação 1 (60% de PV/25 seg):
+Persegue o jogador e avança em direção a ele enquanto dispara vários espinhos em todas as direções.","Mutation 0:
+Bewegt sich zufällig, stürmt auf eine zufällige Position in der Nähe des Spielers zu und feuert dabei 3 Stacheln nacheinander auf ihn ab.
+
+Mutation 1 (60% HP/25 Sek.):
+Verfolgt den Spieler, stürmt regelmäßig auf ihn zu und feuert dabei zahlreiche Stacheln in alle Richtungen ab.","Mutasyon 0:
+Rastgele hareket eder. Oyuncunun yakınındaki rastgele bir konuma hücum eder ve oyuncuya doğru art arda 3 diken fırlatır.
+
+Mutasyon 1 (%60 sağlık/25 saniye):
+Oyuncuyu kovalar ve her yöne çok sayıda diken fırlatırken oyuncuya doğru düzenli olarak hücum eder.","Mutazione 0:
+Si muove casualmente e carica verso una posizione casuale vicino al giocatore, sparandogli 3 aculei consecutivi.
+
+Mutazione 1 (60% PS/25 s):
+Insegue il giocatore e carica periodicamente verso di lui, sparandogli numerose punte in tutte le direzioni."
+"IRON_LUNG_NAME","Iron Lung","Poumon de fer","铁肺","アイアンラング","철 호흡기","鐵肺","Железное легкое","Żelazne płuco","Pulmón artificial","Pulmão de Ferro","Eisenlunge","Demir Ciğer","Polmone d'acciaio"
+"IRON_LUNG_BEHAVIOUR_DESCRIPTION","Iron Lung is spawned by Stargazers, who will seek it out and enter it. After a few seconds of mutation, a Dragonfish spawns.","Le poumon de fer est invoqué par les astronomes, qui le cherchent alors pour y entrer. Après quelques secondes de mutation, un poisson-dragon apparaît.","铁肺由观星者生成。观星者会试图寻找铁肺并进入期内，经过数秒异变后生成一条巨口鱼。","ミシマオコゼから発生する。スターゲイザーがアイアンラングに入ると、数秒後に変異して、ドラゴンフィッシュが出現する。","통구멍이 철 호흡기를 생성하고, 이후 철 호흡기를 쫓아가 그 안에 들어갑니다. 몇 초의 돌연변이 이후 용물고기가 생성됩니다.","鐵肺由觀星者生成。觀星者會試圖尋找鐵肺並進入期內，經過數秒異變後生成一條巨口魚。","Железные легкие создают звездочеты, которые потом находят их и заходят внутрь. Через несколько секунд мутации появляется рыба-дракон.","Żelazne płuco przywołują skabery, którzy szukają go, by do niego wejść. Po kilku sekundach mutacji z wnętrza wyłania się hydra.","Los soñadores invocan pulmones artificiales, los buscan y se meten en ellos. Tras unos segundos de mutación, aparece un pez dragón.","O Pulmão de Ferro é gerado por Mira-céus, que irão procurá-los e então entrarão neles. Após alguns segundos de mutação, um Peixe-dragão é gerado.","Eisenlunge wird von Himmelsguckern gespawnt, die sie aufsuchen und betreten. Nach einigen Sekunden Mutation spawnt ein Drachenfisch.","Demir Ciğer, kendisini bulup içine giren Yıldız Gözlemcileri tarafından ortaya çıkarılır. Birkaç saniyelik mutasyonun ardından bir Ejderha Balığı ortaya çıkar.","Polmone d'acciaio viene creato dagli Esuli astrali, che lo cercano e vi entrano dentro. Dopo alcuni secondi di mutazione, apparirà un Pesce drago."
+"JELLYFISH_NAME","Jellyfish","Méduse","水母","クラゲ","해파리","水母","Медуза","Meduza","Medusa","Água-viva","Qualle","Denizanası","Medusa"
+"JELLYFISH_BEHAVIOUR_DESCRIPTION","Mutation 0:
+Chases the player while having 4 projectiles orbiting around itself and regularly spawning a large circle of projectiles moving inward.
+
+Mutation 1 (60% HP / 25 sec):
+Remains stationary while still having 4 orbiting projectiles and spawning a larger circle of projectiles around itself. Also fires lines of projectiles toward the player.","Mutation 0 :
+Pourchasse le joueur avec 4 projectiles tournant autour d'elle et faisant régulièrement apparaître un grand cercle de projectiles qui se resserre.
+
+Mutation 1 (60 % de PV/25 s) :
+Reste immobile en ayant toujours 4 projectiles qui tournent autour d'elle et faisant apparaître un cercle plus grand de projectiles autour d'elle. Tire aussi une rangée de projectiles sur le joueur.","异变0：
+追逐玩家，拥有4个投射物环绕自身旋转，周期性发射一大圈投射物向内移动。
+
+异变1 （60% 生命 / 25秒）：
+静止不动，保留4个投射物环绕自身旋转并在自身周围生成一大圈投射物。向玩家发射多排投射物。","変異0：
+プレイヤーを追う。周囲に4個の弾を円状に発生させ、一定間隔で内向きに飛ぶ大きな円状の弾を発生させる。
+
+変異1（HP60%/25秒）：
+移動しない。周囲に4個の弾を円状に発生させ、一定間隔で内向きに飛ぶ大きな円状の弾を発生させる。また、プレイヤーに向けて弾を線状に発射する。","돌연변이 0:
+자신의 주위에 투사체 4개를 공전시키면서 플레이어를 추적하고, 주기적으로 큰 투사체의 원을 생성하여 안쪽으로 이동시킵니다.
+
+돌연변이 1 (60% HP/25초):
+자신의 주위에 투사체 4개를 공전시키면서 제자리에 서 있다가, 자신의 주위에 더 큰 투사체의 원을 생성합니다. 또한 플레이어를 향해 일직선상으로 투사체를 발사합니다.","異變0：
+追逐玩家，擁有4個投射物環繞自身旋轉，週期性發射一大圈投射物向內移動。
+
+異變1 （60% 生命 / 25秒）：
+靜止不動，保留4個投射物環繞自身旋轉並在自身周圍生成一大圈投射物。向玩家發射多排投射物。","Мутация 0:
+Преследует игрока. Призывает 4 снаряда, которые кружат вокруг нее, и регулярно создает большое кольцо из снарядов, которое сходится к центру.
+
+Мутация 1 (60% HP / 25 с):
+Остается на месте, но при этом вокруг нее все еще кружится 4 снаряда, и она создает большое кольцо из снарядов. Также выпускает линии снарядов в игрока.","Mutacja 0:
+Goni postać z orbitującymi wokół niej 4 pociskami. Regularnie przywołuje duży krąg pocisków, który następnie się zacieśnia.
+
+Mutacja 1 (60% PZ / 25 sek.):
+Pozostaje w miejscu z orbitującymi wokół niej cały czas 4 pociskami. Dodatkowo przywołuje wokół siebie większe kręgi pocisków i wystrzeliwuje w stronę gracza strumienie pocisków.","Mutación 0:
+Persigue al jugador con 4 proyectiles orbitando a su alrededor e invoca un círculo de proyectiles que se estrecha.
+
+Mutación 1 (60 % de PS / 25 s):
+Se queda inmó, con 4 proyectiles que orbitan a su alrededor, e invoca un círculo mayor de proyectiles a su alrededor. También dispara hileras de proyectiles al jugador.","Mutação 0:
+Persegue o jogador, com 4 projéteis orbitando ao redor de si e gera periodicamente um grande círculo de projéteis que se move de fora para dentro.
+
+Mutação 1 (60% de PV/25 seg):
+Permanece estático, mas ainda tem os 4 projéteis orbitando e gera um círculo de projéteis maior ao redor de si. Também dispara linhas de projéteis em direção ao jogador.","Mutation 0:
+Verfolgt den Spieler, wird dabei von 4 Projektilen umkreist und spawnt regelmäßig einen großen Projektilkreis, der sich langsam nach innen bewegt.
+
+Mutation 1 (60% HP / 25 Sek.):
+Bleibt an Ort und Stelle, wird nach wie vor von 4 Projektilen umkreist und spawnt einen großen Projektilkreis um sich herum. Feuert zudem Projektilreihen auf den Spieler.","Mutasyon 0:
+Oyuncuyu kovalar, yörüngesinde 4 mermi bulunur ve düzenli aralıklarla içe doğru hareket eden büyük bir mermi çemberi ortaya çıkarır.
+
+Mutasyon 1 (%60 sağlık/25 saniye):
+Sabit durur, yörüngesinde hâlâ 4 mermi bulunur ve etrafında daha geniş bir mermi çemberi ortaya çıkarır. Ayrıca oyuncuya doğru mermi hatları fırlatır.","Mutazione 0:
+Insegue il giocatore mentre 4 proiettili gli orbitano attorno e crea periodicamente un ampio cerchio di proiettili che si muovono verso l'interno.
+
+Mutazione 1 (60% PS / 25 s):
+Rimane ferma mentre ha ancora 4 proiettili orbitanti e crea un cerchio più ampio di proiettili attorno a sé. Spara anche file di proiettili verso il giocatore."
+"LOBSTER_NAME","Lobster","Homard","龙虾","ロブスター","바닷가재","龍蝦","Лобстер","Homar","Langosta","Lagosta","Hummer","Istakoz","Aragosta"
+"LOBSTER_BEHAVIOUR_DESCRIPTION","Chases the player and takes reduced damage from all sources.","Pourchasse le joueur et subit des dégâts réduits, quelle qu'en soit la source.","追逐玩家，从所有来源受到的伤害降低。","プレイヤーを追う。どのダメージ源からも、受けるダメージが少ない。","플레이어를 추적하고, 모든 출처로부터 감소한 대미지를 받습니다.","追逐玩家，從所有來源受到的傷害降低。","Преследует игрока. Получает уменьшенный урон от всех источников.","Goni postać i odnosi mniejsze obrażenia ze wszystkich źródeł.","Persigue al jugador y sufre daño reducido de cualquier origen.","Persegue o jogador e recebe dano reduzido de todas as fontes.","Verfolgt den Spieler und erleidet nur reduzierten Schaden.","Oyuncuyu kovalar ve tüm kaynaklardan gelen hasarı azaltır.","Insegue il giocatore e subisce meno danni da tutte le fonti."
+"LOOTING_PIG_NAME","Looting Pig","Cochon pillard","搜刮猪","ヌスットブタ","전리품 돼지","搜刮豬","Свинья изобилия","Łupieżcza świnia","Cerdito con botín","Porco Saqueador","Beuteschwein","Yağmacı Domuz","Maiale ladrone"
+"LOOTING_PIG_BEHAVIOUR_DESCRIPTION","Runs around, drops a crate on death.","Court partout. Lâche une caisse de butin quand il meurt.","四处奔跑，死亡时掉落一个箱子。","動き回り、死亡時に宝箱を1つドロップする。","이리저리 뛰어다니다가 사망 시 상자를 떨어뜨립니다.","四處奔跑，死亡時掉落一個箱子。","Бегает вокруг, после смерти оставляет ящик.","Biega wkoło, po śmierci upuszcza skrzynię.","Corretea por la zona y deja caer una caja al morir.","Corre pela área, deixa uma caixa de espólios ao morrer.","Läuft herum, lässt bei Tod eine Kiste fallen.","Etrafta koşar ve öldüğünde bir sandık düşürür.","Corre in giro, rilasciando una cassa quando muore."
+"MEGALODON_NAME","Megalodon","Mégalodon","巨齿鲨","メガロドン","메갈로돈","巨齒鯊","Мегалодон","Megalodon","Megalodón","Megalodonte","Megalodon","Megalodon","Megalodonte"
+"MEGALODON_BEHAVIOUR_DESCRIPTION","Mutation 0:
+Chases the player and regularly charges toward them while firing bursts of projectiles.
+
+Mutation 1 (60%HP/25 sec):
+Chases the player and charges toward them more frequently while firing circles of projectiles from itself.","Mutation 0 :
+Pourchasse le joueur et le charge régulièrement en tirant des rafales de projectiles.
+
+Mutation 1 (60 % de PV/25 s) :
+Pourchasse le joueur et le charge plus souvent en tirant des cercles de projectiles autour de lui-même.","异变0:
+追逐玩家并周期性向玩家冲刺，同时连续发射投射物。
+
+异变1 （60%生命/25秒）：
+追逐玩家并更频繁地向玩家冲刺，同时从自身发射多圈投射物。","変異0：
+プレイヤーを追う。一定間隔でプレイヤーに突進し、弾幕を発射する。
+
+変異1（HP60%/25秒）：
+プレイヤーを追う。より高頻度でプレイヤーに突進し、自身から弾を円状に発射する。","돌연변이 0:
+플레이어를 추적하고 주기적으로 플레이어를 향해 돌진하며 연속으로 투사체를 발사합니다.
+
+돌연변이 1 (60%HP/25초):
+플레이어를 추적하고 더 빈번하게 플레이어를 향해 돌진하면서 자신의 주위에 투사체의 원을 발사합니다.","異變0:
+追逐玩家並週期性向玩家衝刺，同時連續發射投射物。
+
+異變1 （60%生命/25秒）：
+追逐玩家並更頻繁地向玩家衝刺，同時從自身發射多圈投射物。","Мутация 0:
+Преследует игрока и регулярно бросается на него, выстреливая очередями снарядов.
+
+Мутация 1 (60% ОЗ/25 с):
+Преследует игрока и чаще бросается на него, стреляя кольцами снарядов от себя.","Mutacja 0:
+Goni postać, regularnie przypuszcza w jej stronę szarżę i wystrzeliwuje strumienie pocisków.
+
+Mutacja 1 (60% PZ / 25 sek.):
+Goni postać i częściej przypuszcza w jej stronę szarżę, wystrzeliwując wokół siebie kręgi pocisków.","Mutación 0:
+Persigue al jugador y lo va embistiendo con frecuencia mientras dispara nubes de proyectiles.
+
+Mutación 1 (60 % de PS / 25 s):
+Persigue al jugador y lo embiste con más frecuencia mientras dispara círculos de proyectiles.","Mutação 0:
+Persegue o jogador e avança em direção a ele periodicamente, enquanto dispara rajadas de projéteis.
+
+Mutação 1 (60% de PV/25 seg):
+Persegue o jogador e avança em direção a ele com mais frequência enquanto dispara círculos de projéteis.","Mutation 0:
+Verfolgt den Spieler, stürmt regelmäßig auf ihn zu und feuert dabei einen Projektilschwall auf ihn ab.
+
+Mutation 1 (60% HP/25 Sek.):
+Verfolgt den Spieler, stürmt noch häufiger auf ihn zu und feuert dabei zahlreiche Projektilkreise ab.","Mutasyon 0:
+Oyuncuyu kovalar ve seri mermi atışları gerçekleştirirken oyuncuya doğru hücum eder.
+
+Mutasyon 1 (%60 sağlık/25 saniye):
+Oyuncuyu kovalar ve kendinden dairesel mermi çemberleri ateşlerken oyuncuya doğru daha sık hücum eder.","Mutazione 0:
+Insegue il giocatore e lo carica periodicamente, sparando raffiche di proiettili.
+
+Mutazione 1 (60% PS / 25 s):
+Insegue il giocatore e lo carica più spesso, sparando cerchi di proiettili da sé stesso."
+"NARWHAL_NAME","Narwhal","Narval","一角鲸","イッカク","일각고래","一角鯨","Нарвал","Narwal","Narval","Narval","Narwal","Denizgergedanı","Narvalo"
+"NARWHAL_BEHAVIOUR_DESCRIPTION","Closes in on the player and can charge toward them, firing a spike in front of it.","S'approche du joueur et peut le charger en tirant une pique devant lui.","接近玩家并向玩家冲刺，向自身前方发射一根尖刺。","プレイヤーに近づき、突進することがある。前方にスパイクを1本発射する。","플레이어에게 접근하고 플레이어를 향해 돌진하면서 전방으로 가시를 발사합니다.","接近玩家並向玩家衝刺，向自身前方發射一根尖刺。","Приближается к игроку и может броситься на него, выстрелив перед собой шипом.","Zbliża się do gracza, przypuszcza na niego szarżę i wystrzeliwuje przed siebie jeden szpikulec.","Se abalanza sobre el jugador y lo puede embestir al mismo tiempo que dispara un pincho hacia delante.","Cerca o jogador e avança em direção a ele, disparando um espinho para frente.","Nähert sich dem Spieler und stürmt gelegentlich auf ihn zu, feuert dabei einen Stachel nach vorne ab.","Oyuncuya yaklaşır ve ona doğru hücum ederek önüne bir diken ateşleyebilir.","Si avvicina al giocatore e può caricarlo, sparando un aculeo di fronte a sé."
+"PLANKTON_NAME","Plankton","Plancton","浮游生物","プランクトン","플랑크톤","浮游生物","Планктон","Plankton","Plancton","Plâncton","Plankton","Plankton","Plancton"
+"PLANKTON_BEHAVIOUR_DESCRIPTION","Chases the player and sometimes charges a small distance.","Pourchasse le joueur et le charge parfois sur une courte distance.","追逐玩家并时不时短距离冲刺。","プレイヤーを追い、短距離の突進を行うことがある。","플레이어를 추적하고 때때로 짧은 거리를 돌진합니다.","追逐玩家並時不時短距離衝刺。","Преследует игрока и иногда бросается вперед на небольшое расстояние.","Goni postać, czasem przypuszcza szarżę na niewielką odległość.","Persigue al jugador y, a veces, lo embiste desde una posición cercana.","Persegue o jogador e às vezes avança uma pequena distância.","Verfolgt einen Spieler und stürmt manchmal kurz auf ihn zu.","Oyuncuyu kovalar ve zaman zaman kısa mesafeli hücumlar gerçekleştirir.","Insegue il giocatore e a volte carica per breve distanza."
+"PRISONER_NAME","Prisoner","Prisonnier","囚徒","プリズナー","죄수어","囚徒","Пленник","Więzień","Prisionero","Prisioneiro","Gefangener","Mahkûm","Prigioniero"
+"PRISONER_BEHAVIOUR_DESCRIPTION","Mutation 0:
+Chases the player and spawns a small circle of 6 projectiles that move inward indefinitely.
+
+Mutation 1 (75%HP/20 sec):
+Closes in on the player, spawning 2 consecutive circles of projectiles around them.
+
+Mutation 2 (40%HP/40 sec):
+Chases the player while continuing to spawn 2 consecutive circles of projectiles around them.","Mutation 0 :
+Pourchasse le joueur et fait apparaître un petit cercle de 6 projectiles qui se resserre et s'élargit indéfiniment.
+
+Mutation 1 (75 % de PV/20 s) :
+S'approche du joueur en faisant apparaître 2 cercles de projectiles consécutifs autour de lui.
+
+Mutation 2 (40 % de PV/40 s) :
+Pourchasse le joueur en continuant à faire apparaître 2 cercles de projectiles consécutifs autour de lui.","异变0：
+追逐玩家并生成一小圈6发投射物，永久向内移动。
+
+异变1 （75%生命/20秒）：
+接近玩家，在玩家周围连续生成2圈投射物。
+
+异变2 （40%生命/40秒）：
+追逐玩家并继续在玩家周围连续生成2圈投射物。","変異0：
+プレイヤーを追い、弾6個を小さな円状に発生させる。円状の弾は円の内側に向けて飛び、中心に達しても同方向に飛び続ける。
+
+変異1（HP75%/20）：
+プレイヤーに近づき、プレイヤーの周囲に円状の弾を2連続で発生させる。
+
+変異2（HP40%/40秒）：
+プレイヤーを追い、プレイヤーの周囲に円状の弾を2連続で発生させる。","돌연변이 0:
+플레이어를 추적하고, 끝없이 안쪽으로 이동하는 투사체 6개의 작은 원을 생성합니다.
+
+돌연변이 1 (75%HP/20초):
+플레이어에게 접근하며 플레이어 주위에 투사체의 원 2개를 연속으로 생성합니다.
+
+돌연변이 2 (40%HP/40초):
+플레이어를 추적하며 계속해서 플레이어 주위에 투사체의 원 2개를 연속으로 생성합니다.","異變0：
+追逐玩家並生成一小圈6發投射物，永久向內移動。
+
+異變1 （75%生命/20秒）：
+接近玩家，在玩家周圍連續生成2圈投射物。
+
+異變2 （40%生命/40秒）：
+追逐玩家並繼續在玩家周圍連續生成2圈投射物。","Мутация 0:
+Преследует игрока. Создает небольшое кольцо из 6 снарядов, которые сначала сходятся к центру, а потом бесконечно расходятся.
+
+Мутация 1 (75% ОЗ/20 с):
+Приближается к игроку, создавая рядом с ним 2 кольца снарядов одно за другим.
+
+Мутация 2 (40% ОЗ/40 с):
+Преследует игрока, продолжая создавать рядом с ним по 2 кольца снарядов одно за другим.","Mutacja 0:
+Goni postać i przywołuje niewielki krąg 6 pocisków, który najpierw się zacieśnia, a potem rozszerza.
+
+Mutacja 1 (75% PZ / 20 sek.):
+Zbliża się do gracza i przywołuje wokół siebie 2 koncentryczne kręgi pocisków.
+
+Mutacja 2 (40% PZ / 40 sek.):
+Goni postać i cały czas przywołuje wokół siebie 2 koncentryczne kręgi.","Mutación 0:
+Persigue al jugador y dispara un círculo pequeño de 6 proyectiles que se estrecha de forma indefinida.
+
+Mutación 1 (75 % de PS / 20 s):
+Se abalanza sobre el jugador y dispara 2 círculos de proyectiles pequeños a su alrededor.
+
+Mutación 2 (40 % de PS / 40 s):
+Persigue al jugador mientras sigue disparando 2 círculos de proyectiles consecutivos a su alrededor.","Mutação 0:
+Persegue o jogador e gera um pequeno círculo de 6 projéteis que se movem para dentro por um período indefinido.
+
+Mutação 1 (75% de PV/20 seg):
+Cerca o jogador, gerando dois círculo de projéteis consecutivos ao redor dele.
+
+Mutação 2 (40% de PV/40 seg):
+Persegue o jogador enquanto continua a gerar 2 círculo de projéteis consecutivos ao redor dele.","Mutation 0:
+Verfolgt den Spieler und spawnt einen kleinen Kreis mit 6 Projektilen, die sich unendlich weiter nach innen bewegen.
+
+Mutation 1 (75% HP/20 Sek.):
+Nähert sich dem Spieler, spawnt 2 Projektilkreise nacheinander um sich herum.
+
+Mutation 2 (40% HP/40 Sek.):
+Verfolgt den Spieler und spawnt dabei 2 Projektilkreise nacheinander um sich herum.","Mutasyon 0:
+Oyuncuyu kovalar ve içe doğru sürekli hareket eden, 6 mermiden oluşan küçük bir mermi çemberi ortaya çıkarır.
+
+Mutasyon 1 (%75 sağlık/20 saniye):
+Oyuncuya yaklaşır ve oyuncunun etrafında art arda 2 mermi çemberi ortaya çıkarır.
+
+Mutasyon 2 (%40 sağlık/40 saniye):
+Oyuncunun etrafında art arda 2 mermi çemberi ortaya çıkarmaya devam ederken oyuncuyu kovalar.","Mutazione 0:
+Insegue il giocatore e crea un piccolo cerchio di 6 proiettili che si muovono verso l'interno e poi proseguono.
+
+Mutazione 1 (75% PS/20 s):
+Si avvicina al giocatore, creando 2 cerchi consecutivi di proiettili attorno a lui.
+
+Mutazione 2 (40% PS/40 s):
+Insegue il giocatore, continuando a creare 2 cerchi consecutivi di proiettili attorno a lui."
+"PUFFERFISH_NAME","Pufferfish","Poisson-globe","刺鲀","フグ","복어","刺魨","Иглобрюх","Rozdymka","Pez globo","Baiacu","Kugelfisch","Balon Balığı","Pesce palla"
+"PUFFERFISH_BEHAVIOUR_DESCRIPTION","Explodes into 8 projectiles when killed by non melee damage or when it dies after being charmed.","Explose en 8 projectiles quand il est tué par des dégâts autres que de mêlée ou après avoir été envoûté.","在被非近战攻击击杀时，或是在被魅惑后死亡时，爆炸成为8个投射物。","非近接ダメージまたは魅了状態で死亡すると、爆発して8個の弾になる。","비근접 대미지로 처치되거나 매혹된 후 사망하면 폭발하며 투사체 8개를 방출합니다.","在被非近戰攻擊擊殺時，或是在被魅惑後死亡時，爆炸成為8個投射物。","Взрывается, выпуская 8 снарядов, если убить его уроном не в ближнем бою или если он умирает после зачарования.","Po zabiciu atakiem innym niż wręcz, a także jeśli zginie pod wpływem zauroczenia, wybucha i rozrzuca 8 pocisków.","Cuando muere tras sufrir un encantamiento o por cualquier otro tipo de daño que no sea cuerpo a cuerpo, explota transformándose en 8 proyectiles.","Explode em 8 projéteis quando morto por uma arma que não é corpo a corpo ou quando morre após ser encantado.","Explodiert und schleudert 8 Projektile von sich, wenn er durch Nicht-Nahkampfschaden getötet wurde oder nach dem Betören stirbt.","Yakın dövüş haricinde bir hasarla veya büyülenmiş durumdayken öldüğünde 8 mermiye ayrılarak patlar.","Esplode in 8 proiettili quando viene ucciso da danni non da mischia o quando muore dopo l'effetto di Fascino."
+"SEA_PIG_NAME","Sea Pig","Cochon de mer","海猪","センジュナマコ","바다돼지","海豬","Морская свинья","Świnia morska","Cerdo marino","Porco-do-mar","Seeschwein","Deniz Domuzu","Maiale di mare"
+"SEA_PIG_BEHAVIOUR_DESCRIPTION","Wanders around, drops a fair number of materials and gives 1 curse on death.","Se déplace en lâchant un bon nombre de matériaux et en lançant 1 malédiction quand il meurt.","四处游荡，死亡时掉落大量材料并给予1点诅咒。","動き回り、死亡時に大量のマテリアルをドロップし、呪いを1つ付与する。","이리저리 돌아다니며 상당량의 재료를 떨어뜨리고, 사망 시 저주를 1 부여합니다.","四處遊蕩，死亡時掉落大量材料並給予1點詛咒。","Блуждает по карте. После смерти оставляет немало материалов и добавляет 1 проклятие.","Wędruje wkoło, zostawia po sobie sporo materiałów, a po śmierci nakłada 1 klątwę.","Persigue al personaje, deja caer una buena cantidad de materiales y lanza una maldición al morir.","Vaga ao redor, deixa um número razoável de materiais e dá 1 maldição ao morrer.","Wandert umher, lässt eine große Menge von Materialien fallen und gewährt dir 1 Fluch beim Tod.","Etrafta dolaşır, çok sayıda malzeme düşürür ve öldüğünde 1 lanet uygular.","Vaga per la mappa, rilascia un buon numero di materiali e lancia una maledizione quando muore."
+"SHRIMP_NAME","Shrimp","Crevette","虾","コエビ","새우","蝦","Креветка","Krewetka","Langostino","Camarão","Garnele","Karides","Gamberetto"
+"SHRIMP_BEHAVIOUR_DESCRIPTION","Chases the character, deals damage on touch.","Pourchasse le personnage, lui infligeant des dégâts au contact.","追逐角色，接触时造成伤害。","プレイヤーを追い、体当たりでダメージを与える。","캐릭터를 추적하고, 접촉 시 대미지를 가합니다.","追逐角色，接觸時造成傷害。","Преследует игрока и наносит урон при касании.","Goni postać, zadaje obrażenia przy dotknięciu.","Persigue al personaje e inflige daño por contacto.","Persegue o personagem, causando dano ao contato.","Verfolgt den Charakter und verursacht bei Berührung Schaden.","Karakteri kovalar ve temas ettiğinde hasar verir.","Insegue il personaggio, infligge danni al contatto."
+"SPIDER_CRAB_NAME","Spider Crab","Araignée de mer","蜘蛛蟹","クモガニ","키다리게","蜘蛛蟹","Краб-паук","Krab pacyficzny","Cangrejo gigante","Caranguejo Aranha","Krabbenspinne","Örümcek Yengeci","Granchio ragno"
+"SPIDER_CRAB_BEHAVIOUR_DESCRIPTION","Mutation 0:
+Moves randomly and spawns numerous crabs.
+
+Mutation 1 (85%HP/12 sec):
+Closes in on the player and fires spikes toward them.
+
+Mutation 2 (50%HP/35 sec):
+Closes in on the player and fires 4 spikes toward them in 4 directions.","Mutation 0 :
+Se déplace aléatoirement en faisant apparaître de nombreux crabes.
+
+Mutation 1 (85 % de PV/12 s) :
+S'approche du joueur et tire des piques vers lui.
+
+Mutation 2 (50 % de PV/35 s) :
+S'approche du joueur et tire 4 piques vers lui dans 4 directions.","异变0：
+随机移动并生成大量螃蟹。
+
+异变1 （85%生命/12秒）：
+接近玩家并向玩家发射多发尖刺。
+
+异变2 （50%生命/35秒）：
+接近玩家并从4个方向朝玩家发射4根尖刺。","変異0：
+ランダムに移動し、大量のカニを出現させる。
+
+変異1（HP85%/12秒）：
+プレイヤーに近づき、プレイヤーに向けてスパイクを発射する。
+
+変異2（HP50%/35秒）：
+プレイヤーに近づき、プレイヤーに向けて4方向から4本のスパイクを発射する。","돌연변이 0:
+무작위로 이동하며 다수의 게를 생성합니다.
+
+돌연변이 1 (85%HP/12초):
+플레이어에게 접근하고 플레이어를 향해 가시를 발사합니다.
+
+돌연변이 2 (50%HP/35초):
+플레이어에게 접근하고 플레이어를 향해 네 방향으로 가시 4개를 발사합니다.","異變0：
+隨機移動並生成大量螃蟹。
+
+異變1 （85%生命/12秒）：
+接近玩家並向玩家發射多發尖刺。
+
+異變2 （50%生命/35秒）：
+接近玩家並從4個方向朝玩家發射4根尖刺。","Мутация 0:
+Движется хаотично и призывает множество крабов.
+
+Мутация 1 (85% ОЗ/12 с):
+Приближается к игроку и выстреливает в его сторону шипы.
+
+Мутация 2 (50% ОЗ/35 с):
+Приближается к игроку и выстреливает в его сторону 4 шипа в 4 направлениях.","Mutacja 0:
+Porusza się losowo i przywołuje liczne kraby.
+
+Mutacja 1 (85% PZ / 12 sek.):
+Zbliża się do gracza i wystrzeliwuje w jego stronę szpikulce.
+
+Mutacja 2 (50% PZ / 35 sek.):
+Zbliża się do gracza i wystrzeliwuje w jego stronę 4 szpikulce (w 4 kierunkach).","Mutación 0:
+Se desplaza de forma aleatoria e invoca a varios cangrejos.
+
+Mutación 1 (85 % de PS / 12 s):
+Se abalanza sobre el jugador y le dispara pinchos.
+
+Mutación 2 (50 % de PS / 35 s):
+Se abalanza sobre el jugador y le dispara 4 pinchos en cuatro direcciones distintas.","Mutação 0:
+Move-se aleatoriamente e gera vários caranguejos.
+
+Mutação 1 (85% de PV/12 seg):
+Cerca o jogador e dispara espinhos em direção a ele.
+
+Mutação 2 (50% de PV/35 seg):
+Cerca o jogador e dispara 4 espinhos em direção a ele vindos de 4 direções.","Mutation 0:
+Bewegt sich zufällig und spawnt mehrere Krabben.
+
+Mutation 1 (85% HP/12 Sek.):
+Nähert sich dem Spieler und feuert Stacheln auf ihn ab.
+
+Mutation 2 (50% HP/35 Sek.):
+Nähert sich dem Spieler und feuert 4 Stacheln auf ihn, in 4 Richtungen.","Mutasyon 0:
+Rastgele hareket eder ve çok sayıda yengeç ortaya çıkarır.
+
+Mutasyon 1 (%85 sağlık/12 saniye):
+Oyuncuya yaklaşır ve ona doğru dikenler fırlatır.
+
+Mutasyon 2 (%50 sağlık/35 saniye):
+Oyuncuya yaklaşır ve oyuncuya doğru 4 farklı yönde 4 diken ateşler.","Mutazione 0:
+Si muove casualmente e crea diversi granchi.
+
+Mutazione 1 (85% PS/12 s):
+Si avvicina al giocatore e spara aculei contro di lui.
+
+Mutazione 2 (50% PS/35 s):
+Si avvicina al giocatore e spara 4 aculei in 4 direzioni contro di lui."
+"STARGAZER_NAME","Stargazer","Astronome","观星者","ミシマオコゼ","통구멍","觀星者","Звездочет","Skaber","Soñador","Mira-céu","Himmelsgucker","Yıldız Gözlemcisi","Esule astrale"
+"STARGAZER_BEHAVIOUR_DESCRIPTION","Moves toward its Iron Lung, becomes buffed if its iron lung dies.","Se déplace vers son poumon de fer. Est renforcé si ce dernier meurt.","向铁肺移动，如果自己的铁肺死亡，会获得强化。","アイアンラングに向けて移動し、アイアンラング死亡時に強化される。","철 호흡기를 향해 이동하고, 철 호흡기가 사망하면 버프를 받습니다.","向鐵肺移動，如果自己的鐵肺死亡，會獲得強化。","Движется к своему железному легкому. Усиливается, если его железное легкое умирает.","Porusza się w stronę żelaznego płuca. Jeśli jego płuco zostanie zniszczone, otrzymuje wzmocnienie.","Se desplaza hacia su pulmón artificial y obtiene una bonificación cuando este desaparece.","Move-se em direção a seu Pulmão de Ferro, é fortalecido caso seu pulmão de ferro morra.","Bewegt sich auf seine Eisenlunge zu, wird gestärkt, wenn seine Eisenlunge stirbt.","Demir Ciğer'e doğru ilerler. Demir Ciğer ölürse güçlenir.","Si muove verso il suo Polmone d'acciaio, e viene potenziato se il suo Polmone d'acciaio muore."
+"STONEFISH_NAME","Stonefish","Poisson-pierre","石头鱼","オニダルマオコゼ","돌물고기","石頭魚","Скорпена","Synanceia","Pez piedra","Peixe-pedra","Steinfisch","Taş Balığı","Pesce pietra"
+"STONEFISH_BEHAVIOUR_DESCRIPTION","Slowly wanders around the map, buffing enemies and spawning six projectiles around the player every few seconds.
+Buffed enemies gain +150% health, +25% damage, and +50% speed, and are outlined in red.","Se déplace lentement en renforçant les ennemis et en faisant apparaître 6 projectiles autour du joueur toutes les 2/3 s.
+Les ennemis renforcés voient leurs PV augmenter de 150 %, leurs dégâts de 25 % et leur vitesse de 50 %. Ils sont entourés en rouge.","在地图上缓慢游荡，强化敌人并每隔数秒在玩家周围生成6个投射物。
+被强化的敌人获得+150%生命、+25%伤害、+50%速度并将拥有红色轮廓。","マップ内をゆっくりと動き回り、敵を強化する。また、数秒ごとにプレイヤーの周囲に弾を6個発生させる。
+強化された敵は赤枠で囲まれ、HP +150%、ダメージ +25%、移動速度 +50%の効果を得る。","천천히 맵 주위를 돌아다니며 적들을 버프하고, 몇 초마다 플레이어 주위에 투사체 6개를 생성합니다.
+버프된 적들은 체력이 +150%, 대미지가 +25%, 속도가 +50% 증가하고, 빨간색 외곽선이 표시됩니다.","在地圖上緩慢遊蕩，強化敵人並每隔數秒在玩家周圍生成6個投射物。
+被強化的敵人獲得+150%生命、+25%傷害、+50%速度並將擁有紅色輪廓。","Медленно блуждает по карте. Каждые несколько секунд усиливает врагов и создает вокруг игрока шесть снарядов.
+Усиленные враги получают +150% к здоровью, +25% к урону и +50% к скорости и подсвечиваются красным.","Powoli wędruje po mapie, wzmacnia wrogów i co kilka sekund przywołuje wokół gracza sześć pocisków.
+Wzmocnieni wrogowie (oznaczeni czerwoną obwódką) zyskują +150% PZ, +25% obrażeń i +50% szybkości.","Se desplaza con lentitud por el mapa, bonificando a los enemigos y disparando seis proyectiles en torno al jugador cada pocos segundos.
+Los enemigos bonificados obtienen un 150 % más de salud, un 25 % más de daño y un 50 % más de velocidad, y su silueta es de color rojo.","Vaga lentamente pelo mapa, fortalecendo inimigos e gerando seis projéteis ao redor do jogador a cada poucos segundos.
+Inimigos fortalecidos ganham +150% de vida, +25% de dano e +50% de velocidade. Inimigos fortalecidos ficam destacados em vermelho.","Wandert langsam auf der Karte umher, stärkt Gegner und spawnt alle paar Sekunden 6 Projektile um den Spieler herum.
+Gestärkte Gegner erhalten +150% Leben, +25% Schaden und +50% Tempo, sie sind rot umrandet.","Haritada yavaşça dolaşır, düşmanları güçlendirir ve birkaç saniyede bir oyuncunun etrafında altı mermi ortaya çıkarır.
+Güçlenen düşmanlar +%150 sağlık, +%25 hasar ve +%50 hız kazanır. Kırmızı renkle vurgulanırlar.","Vaga lentamente per la mappa, potenziando i nemici e creando sei proiettili attorno al giocatore ogni pochi secondi.
+I nemici potenziati ottengono +150% di salute, +25% di danni e +50% di velocità e sono contornati in rosso."
+"TURTLE_NAME","Turtle","Tortue","龟龟","カメ","거북이","龜龜","Черепаха","Żółw","Tortuga","Tartaruga","Schildkröte","Kaplumbağa","Tartaruga"
+"TURTLE_BEHAVIOUR_DESCRIPTION","Mutation 0:
+Chases the player while firing 8 spikes around them, heading inward.
+
+Mutation 1 (60%HP/25 sec):
+Closes in on the player, regularly firing 3 spikes toward them in a random pattern.","Mutation 0 :
+Pourchasse le joueur en tirant 8 piques autour de ce dernier qui se dirigent vers sa position.
+
+Mutation 1 (60 % de PV/25 s) :
+S'approche du joueur en tirant régulièrement 3 piques aléatoires vers lui.","异变0：
+追逐玩家并在玩家周围发射8根向内的尖刺。
+
+异变1 （60%生命/25秒）：
+接近玩家，周期性向玩家随机发射3根尖刺。","変異0：
+プレイヤーを追い、内向きに飛ぶスパイクをプレイヤーの周囲に8本発射する。
+
+変異1（HP60%/25秒）：
+プレイヤーに近づき、無作為に飛ぶスパイクを一定間隔で3本発射する。","돌연변이 0:
+플레이어를 추적하며 플레이어 주위에 안쪽으로 이동하는 가시 8개를 발사합니다.
+
+돌연변이 1 (60%HP/25초):
+플레이어에게 접근하며 주기적으로 무작위 패턴에 따라 플레이어를 향해 이동하는 가시 3개를 발사합니다.","異變0：
+追逐玩家並在玩家周圍發射8根向內的尖刺。
+
+異變1 （60%生命/25秒）：
+接近玩家，週期性向玩家隨機發射3根尖刺。","Мутация 0:
+Преследует игрока, создает вокруг него 8 шипов, сходящихся в центр.
+
+Мутация 1 (60% ОЗ/25 с):
+Приближается к игроку и регулярно выстреливает в его сторону 3 шипа случайным образом.","Mutacja 0:
+Goni postać i wystrzeliwuje wokół niej 8 pocisków lecących do środka.
+
+Mutacja 1 (60% PZ / 25 sek.):
+Zbliża się do gracza i regularnie wystrzeliwuje w jego stronę 3 szpikulce w losowym układzie.","Mutación 0:
+Persigue al jugador mientras dispara 8 pinchos a su alrededor que van estrechándose.
+
+Mutación 1 (60 % de PS / 25 s):
+Se abalanza sobre el jugador y dispara 3 pinchos con frecuencia de forma aleatoria.","Mutação 0:
+Persegue o jogador enquanto dispara 8 espinhos ao redor dele, voltados para dentro.
+
+Mutação 1 (60% de PV/25 seg):
+Cerca o jogador, disparando periodicamente 3 espinhos em direção a ele em um padrão aleatório.","Mutation 0:
+Verfolgt den Spieler und feuert dabei 8 Stacheln um ihn herum ab, die sich nach innen bewegen.
+
+Mutation 1 (60% HP/25 Sek.):
+Nähert sich dem Spieler, feuert regelmäßig 3 Stacheln in einem zufälligen Muster in seine Richtung ab.","Mutasyon 0:
+Oyuncuyu kovalar ve etrafına içe doğru hareket eden 8 diken fırlatır.
+
+Mutasyon 1 (%60 sağlık/25 saniye):
+Oyuncuya yaklaşır ve düzenli aralıklarla rastgele bir düzenle 3 diken fırlatır.","Mutazione 0:
+Insegue il giocatore sparandogli 8 aculei intorno, diretti verso l'interno.
+
+Mutazione 1 (60% PS/25 s):
+Si avvicina al giocatore, sparandogli periodicamente 3 aculei a schema casuale."
+"VAMPIRE_SQUID_NAME","Vampire Squid","Pieuvre vampire","吸血乌贼","コウモリダコ","뱀파이어 오징어","吸血烏賊","Кальмар-вампир","Wampirnica","Calamar vampiro","Lula-vampiro","Vampirkalamar","Vampir Kalamar","Calamaro vampiro"
+"VAMPIRE_SQUID_BEHAVIOUR_DESCRIPTION","Chases the player while firing two projectiles in front of itself.","Pourchasse le joueur en tirant 2 projectiles devant elle.","追逐玩家并在自身前方发射2个投射物。","プレイヤーを追い、前方に弾を2個発射する。","플레이어를 추적하며 앞쪽으로 투사체 2개를 발사합니다.","追逐玩家並在自身前方發射2個投射物。","Преследует игрока, выстреливая перед собой два снаряда.","Goni postać i wystrzeliwuje przed siebie dwa pociski.","Persigue al jugador mientras dispara dos proyectiles hacia delante.","Persegue o jogador enquanto atira dois projéteis à frente de si.","Verfolgt den Spieler, während er zwei Projektile nach vorne abfeuert.","Oyuncuyu kovalar ve önüne iki mermi ateşler.","Insegue il giocatore sparando due proiettili davanti a sé."
+"VIPERFISH_NAME","Viperfish","Poisson-vipère","蝰鱼","ホウライエソ","바이퍼피시","蝰魚","Рыба-гадюка","Chauliodus","Pez víbora","Peixe-víbora","Viperfisch","Engerek Balığı","Pesce vipera"
+"VIPERFISH_BEHAVIOUR_DESCRIPTION","Starts growing after spawning, after a few seconds starts chasing the player.","Se met à grossir dès son apparition. Au bout de quelques secondes, commence à poursuivre le joueur.","生成后开始成长，数秒钟后开始追逐玩家。","出現すると大きくなり始め、数秒後にプレイヤーを追い始める。","생성 후 자라기 시작하고, 몇 초 후 플레이어를 추적하기 시작합니다.","生成後開始成長，數秒鐘後開始追逐玩家。","После появления начинает расти. Через несколько секунд начинает преследовать игрока.","Po pojawieniu się zaczyna rosnąć, a po kilku sekundach rusza w pościg za graczem.","Aparece y crece. Tras unos segundos, empieza a perseguir al jugador.","Começa a crescer depois de gerado, depois de alguns segundos começa a perseguir o jogador.","Wächst nach dem Spawnen und verfolgt den Spieler nach wenigen Sekunden.","Ortaya çıktıktan sonra büyümeye başlar. Birkaç saniye sonra oyuncuyu kovalamaya başlar.","Inizia a crescere una volta creato e dopo pochi secondi inizia a inseguire il giocatore."
+"WALRUS_NAME","Walrus","Morse","海象","セイウチ","바다코끼리","海象","Морж","Mors","Morsa","Morsa","Walross","Mors","Tricheco"
+"WALRUS_BEHAVIOUR_DESCRIPTION","Charges towards the player every few seconds.","Charge le joueur toutes les 2/3 s.","每隔几秒钟向玩家冲刺。","数秒ごとにプレイヤーに突進する。","몇 초마다 플레이어를 향해 돌진합니다.","每隔幾秒鐘向玩家衝刺。","Каждые несколько секунд бросается на игрока.","Co kilka sekund szarżuje w stronę gracza.","Embiste al jugador cada pocos segundos.","Avança em direção ao jogador a cada poucos segundos.","Stürmt alle paar Sekunden auf den Spieler zu.","Birkaç saniyede bir oyuncuya doğru hücum eder.","Carica il giocatore ogni pochi secondi."
